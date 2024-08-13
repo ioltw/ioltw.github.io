@@ -88,7 +88,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-newspaper"></i>
                   <h4>
-                    <a href="recent.html">最新消息</a>
+                    <a href="/recent">最新消息</a>
                   </h4>
                   <p>各項活動及重要公告訊息</p>
                 </div>
@@ -97,7 +97,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-blockquote-left"></i>
                   <h4>
-                    <a href="about.html">關於TOL</a>
+                    <a href="/about-tol">關於TOL</a>
                   </h4>
                   <p>TOL是什麼、要怎麼玩？</p>
                 </div>
@@ -106,7 +106,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-backpack-fill"></i>
                   <h4>
-                    <a href="student/learning-resources.html">
+                    <a href="/student/learning-resources">
                       學生專區
                     </a>
                   </h4>
@@ -117,7 +117,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-binoculars-fill"></i>
                   <h4>
-                    <a href="previous-results.html">
+                    <a href="/previous-results">
                       歷年表現
                     </a>
                   </h4>
@@ -128,7 +128,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-camera-video-fill"></i>
                   <h4>
-                    <a href="promotions.html">
+                    <a href="/promotions">
                       推廣資訊和影音
                     </a>
                   </h4>
@@ -139,7 +139,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-question-circle-fill"></i>
                   <h4>
-                    <a href="faq.html">FAQ</a>
+                    <a href="/faq">FAQ</a>
                   </h4>
                   <p>常見問題</p>
                 </div>
@@ -147,7 +147,7 @@ export default function Home() {
               {/* <!-- <div className="col-md-6 mt-4 mt-md-0">
               <div className="icon-box">
                 <i className="bi bi-people-fill"></i>
-                <h4><a href="aboutus.html">籌辦單位</a></h4>
+                <h4><a href="/about-us">籌辦單位</a></h4>
                 <p>台灣語奧委員會以及相關單位</p>
               </div>
               </div>
