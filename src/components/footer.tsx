@@ -47,7 +47,7 @@ export default function Footer() {
             <ul>
             <li><i className="bx bx-chevron-right"></i> <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics">追蹤 FB 粉專</a></li>
             <li><i className="bx bx-chevron-right"></i> <a href="https://shukai.typeform.com/to/xHgP9m">加入團隊</a></li>
-            <li><i className="bx bx-chevron-right"></i> <a href="https://lope.linguistics.ntu.edu.tw/ioltw/bulletin/supportTOL.pdf">捐款贊助</a></li>
+            <li><i className="bx bx-chevron-right"></i> <a href="/donation">捐款贊助</a></li>
             </ul>
           </div>
 
