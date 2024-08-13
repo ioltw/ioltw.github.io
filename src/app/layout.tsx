@@ -1,5 +1,5 @@
-import SiteHeader from "@/components/site-header";
-import SiteScripts from "@/components/site-scripts";
+import Header from "@/components/header";
+import Scripts from "@/components/scripts";
 
 export default function RootLayout({
   children,
@@ -9,11 +9,11 @@ export default function RootLayout({
   return (
     <html>
       <head>
-        <SiteHeader/>
+        <Header/>
       </head>
       <body>
         {children}
-        <SiteScripts/>
+        <Scripts/>
       </body>
     </html>
   );

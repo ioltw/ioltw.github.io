@@ -1,4 +1,4 @@
-export default function SiteHeader() {
+export default function Header() {
     return (
         <>
             <meta charSet="utf-8"/>

@@ -1,4 +1,4 @@
-export default function SiteScripts() {
+export default function Scripts() {
     return (
         <>
             {/* <!-- Vendor JS Files --> */}
