@@ -210,9 +210,11 @@ export default function Home() {
       {/* <!-- End #main --> */}
 
       <Script
+        id="typedHello"
         strategy="afterInteractive"
-        dangerouslySetInnerHTML={{ __html: typedHello }}
-      />
+      >
+        {typedHello}
+      </Script>
     </>
   );
 }

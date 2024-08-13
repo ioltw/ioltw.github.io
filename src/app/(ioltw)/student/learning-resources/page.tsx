@@ -136,7 +136,7 @@ export default function LearningResources() {
                             <a href="https://unravellingmag.com/articles/can-yew-tee-ch-me-tamil/" target="_blank" style={{color: "#2782ce"}}>Can Yew Tee-ch me Tamil? (NACLO2017 出題者的好文章)</a>
                         </li>
                         <li>
-                            <a href="https://www.youtube.com/watch?v=QYlVJlmjLEc&amp;feature=youtu.be&amp;list=PL96C35uN7xGLDEnHuhD7CTZES3KXFnwm0" target="_blank" style={{color: "#2782ce"}}>Fantastic Features We Don't Have In The English Language（這系列的影片簡潔了當，很適合對於學習語言／語言學有興趣的人）</a>
+                            <a href="https://www.youtube.com/watch?v=QYlVJlmjLEc&amp;feature=youtu.be&amp;list=PL96C35uN7xGLDEnHuhD7CTZES3KXFnwm0" target="_blank" style={{color: "#2782ce"}}>Fantastic Features We Don&apos;t Have In The English Language（這系列的影片簡潔了當，很適合對於學習語言／語言學有興趣的人）</a>
                         </li>
                         <li>
                             <a href="https://www.newscientist.com/article/2109339-the-science-behind-the-twisting-alien-linguistics-of-arrival/" target="_blank" style={{color: "#2782ce"}}>The science behind the twisting alien linguistics of Arrival （電影：異星入境）</a>

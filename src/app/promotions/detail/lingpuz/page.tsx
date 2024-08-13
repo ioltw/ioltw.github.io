@@ -43,7 +43,7 @@ export default function Lingpuz() {
             </div>
 
             <div className="col-lg-4">
-                <div class="portfolio-description">
+                <div className="portfolio-description">
                 <h2>語言解謎鐵人賽</h2>
                 <p>
                     為了推廣語言學知識至中、小學階段，台灣語言學奧林匹亞及林口康橋國際高中合作舉辦語言解謎鐵人賽，提供中、小學生一個探究語言學的機會。此活動的目標是搭建學生銜接國際奧林匹亞語言學和台灣中學生語言科學科展的橋樑，鼓勵學生能夠更進階地學習、探究語言學知識。
