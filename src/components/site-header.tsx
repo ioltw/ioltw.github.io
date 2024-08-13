@@ -4,10 +4,6 @@ export default function SiteHeader() {
             <meta charSet="utf-8"/>
             <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 
-            <title>首頁 - 臺灣語言學奧林匹亞 Taiwan Olympiad in Linguistics</title>
-            <meta content="" name="description"/>
-            <meta content="" name="keywords"/>
-
             {/* <!-- Favicons --> */}
             <link href="/img/header_and_footer/logo_from_fb.jpg" rel="icon"/>
             <link href="/img/header_and_footer/logo_from_fb.jpg" rel="apple-touch-icon"/>
