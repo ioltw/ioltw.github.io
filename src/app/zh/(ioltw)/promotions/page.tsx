@@ -15,7 +15,7 @@ export default function Promotions() {
         <div className="d-flex justify-content-between align-items-center">
           <h2>推廣影音</h2>
           <ol>
-            <li><a href="/">首頁</a></li>
+            <li><a href="/zh/">首頁</a></li>
             <li>推廣影音</li>
           </ol>
         </div>
@@ -47,7 +47,7 @@ export default function Promotions() {
                 <p>推廣活動</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/lingpuz/lingpuz-post.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/lingpuz" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/lingpuz" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@ export default function Promotions() {
                 <p>影音報導</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/iolnews/00347364.20230731274136785M.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/iolnews" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/iolnews" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -75,7 +75,7 @@ export default function Promotions() {
                 <p>推廣活動</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/scifair/fair2.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/scifair" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/scifair" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@ export default function Promotions() {
                 <p>推廣活動</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/hackathon/poster-21.png" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/hackathon" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/hackathon" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -103,7 +103,7 @@ export default function Promotions() {
                 <p>推廣活動</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/langcutech/375813664_714836447344051_5323393243808976661_n.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/langcutech" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/langcutech" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ export default function Promotions() {
                 <p>影音報導</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/tutorialvideos/thumbnail.png" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/tutorialvideos" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/tutorialvideos" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -131,7 +131,7 @@ export default function Promotions() {
                 <p>推廣活動</p>
                 <div className="portfolio-links">
                   <a href="/img/promotions/highschool/ne.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
-                  <a href="/promotions/detail/highschool" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
+                  <a href="/zh/promotions/detail/highschool" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
                 </div>
               </div>
             </div>

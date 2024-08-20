@@ -15,7 +15,7 @@ export default function Recent() {
         <div className="d-flex justify-content-between align-items-center">
           <h2>最新消息</h2>
           <ol>
-            <li><a href="/">首頁</a></li>
+            <li><a href="/zh/">首頁</a></li>
             <li>最新消息</li>
           </ol>
         </div>

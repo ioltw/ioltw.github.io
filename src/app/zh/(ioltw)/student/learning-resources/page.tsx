@@ -14,7 +14,7 @@ export default function LearningResources() {
         <div className="d-flex justify-content-between align-items-center">
           <h2>學習資源</h2>
           <ol>
-            <li><a href="/">首頁</a></li>
+            <li><a href="/zh/">首頁</a></li>
             <li>學生專區</li>
             <li>學習資源</li>
           </ol>

@@ -15,7 +15,7 @@ export default function AboutTol() {
                 <div className="d-flex justify-content-between align-items-center">
                     <h2>關於 TOL</h2>
                     <ol>
-                        <li><a href="/">首頁</a></li>
+                        <li><a href="/zh/">首頁</a></li>
                         <li>關於 TOL</li>
                     </ol>
                 </div>
@@ -81,7 +81,7 @@ export default function AboutTol() {
                 <p>
                   預計每年年底左右公告。
                 </p>
-                <a href="/student/register-information" className="btn btn-outline-danger">TOL 報名方式</a>
+                <a href="/zh/student/register-information" className="btn btn-outline-danger">TOL 報名方式</a>
                 <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
               </li>
             </ul>
