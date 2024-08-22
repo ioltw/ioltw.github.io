@@ -15,7 +15,7 @@ export default function Recent() {
         <div className="d-flex justify-content-between align-items-center">
           <h2>最新消息</h2>
           <ol>
-            <li><a href="/zh/">首頁</a></li>
+            <li><a href="/">首頁</a></li>
             <li>最新消息</li>
           </ol>
         </div>
@@ -30,6 +30,20 @@ export default function Recent() {
       <div className="container">
         <div className="section-title">
           <p>最新消息</p>
+        </div>
+        
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2024/08/18　IOL 2024 國際語奧台灣隊獲個人賽三銀一銅一佳作、團體賽一銅佳績！</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              恭喜台灣隊的國手們！新聞報導：<br/>
+              <a href="https://www.cna.com.tw/news/aopl/202407310039.aspx">【中央社新聞】國際語奧台灣隊大放異彩 勇奪多項榮譽</a><br/>
+              <a href="https://sec.ntu.edu.tw/epaper/article.asp?num=1612&sn=29180">【臺大校訊】臺大教授帶領臺灣代表隊勇奪「2024國際語言學奧林匹亞競賽」佳績並取得2025主辦權</a>
+            </p>
+          </div>
         </div>
 
         <div className="row faq-item d-flex align-items-stretch">

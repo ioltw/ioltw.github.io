@@ -47,7 +47,7 @@ export default function Footer() {
             <ul>
             <li><i className="bx bx-chevron-right"></i> <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics">追蹤 FB 粉專</a></li>
             <li><i className="bx bx-chevron-right"></i> <a href="https://shukai.typeform.com/to/xHgP9m">加入團隊</a></li>
-            <li><i className="bx bx-chevron-right"></i> <a href="/zh/donation">捐款贊助</a></li>
+            <li><i className="bx bx-chevron-right"></i> <a href="/donation">捐款贊助</a></li>
             </ul>
           </div>
 
@@ -57,7 +57,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          &copy; 台灣語言學奧林匹亞競賽, 2024.
+          &copy; 台灣語言學奧林匹亞競賽, 2024. 最近更新日期：2024/8/22
         </div>
         <div className="credits">
           {/* <!-- All the links in the footer should remain intact. -->

@@ -15,7 +15,7 @@ export default function Promotions() {
         <div className="d-flex justify-content-between align-items-center">
           <h2>推廣影音</h2>
           <ol>
-            <li><a href="/zh/">首頁</a></li>
+            <li><a href="/">首頁</a></li>
             <li>推廣影音</li>
           </ol>
         </div>
@@ -55,12 +55,12 @@ export default function Promotions() {
 
           <div className="col-lg-4 col-md-6 portfolio-item filter-card">
             <div className="portfolio-wrap">
-              <img src="/img/promotions/iolnews/00347364.20230731274136785M.jpg" className="img-fluid" alt=""/>
+              <img src="/img/promotions/iolnews/2024groupphoto.jpg" className="img-fluid" alt=""/>
               <div className="portfolio-info">
-                <h4>2023 年國際語奧台灣代表隊勇奪二銀三銅一佳作！</h4>
+                <h4>2024 年國際語奧台灣代表隊勇奪個人賽三銀一銅一佳作、團體賽銅牌！</h4>
                 <p>影音報導</p>
                 <div className="portfolio-links">
-                  <a href="/img/promotions/iolnews/00347364.20230731274136785M.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
+                  <a href="/img/promotions/iolnews/2024groupphoto.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
                   <a href="/zh/promotions/detail/iolnews" className="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i className="bx bx-link"></i></a>
                 </div>
               </div>

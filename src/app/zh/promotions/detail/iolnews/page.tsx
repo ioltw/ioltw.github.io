@@ -18,6 +18,9 @@ export default function Iolnews() {
                 <div className="swiper-wrapper align-items-center">
                   <StyledSwiper>
                     <SwiperSlide>
+                      <img src="/img/promotions/iolnews/00347364.20230731274136785M.jpg" alt=""/>
+                    </SwiperSlide>
+                    <SwiperSlide>
                       <img src="/img/promotions/iolnews/3628693_1_1.jpg" alt=""/>
                     </SwiperSlide>
                     <SwiperSlide>
@@ -34,10 +37,15 @@ export default function Iolnews() {
 
             <div className="col-lg-4">
                 <div className="portfolio-description">
-                    <h2>2023 年國際語奧台灣代表隊勇奪二銀三銅一佳作！</h2>
+                    <h2>2024 年國際語奧台灣代表隊勇奪個人賽三銀一銅一佳作、團體賽銅牌！</h2>
                     <p>
                         臺灣自 2016 年組成代表隊參加國際語奧以來，年年表現亮眼，以下舉例部分媒體報導：
                     </p>
+                    <h3>2024</h3>
+                    <ul className="links">
+                        <li><a href="https://www.cna.com.tw/news/aopl/202407310039.aspx" target="_blank">【中央社新聞】國際語奧台灣隊大放異彩 勇奪多項榮譽</a></li>
+                        <li><a href="https://sec.ntu.edu.tw/epaper/article.asp?num=1612&sn=29180" target="_blank">【臺大校訊】臺大教授帶領臺灣代表隊勇奪「2024國際語言學奧林匹亞競賽」佳績並取得2025主辦權</a></li>
+                    </ul>
                     <h3>2023</h3>
                     <ul className="links">
                         <li><a href="https://www.cna.com.tw/postwrite/chi/347365" target="_blank">2023 年國際語奧台灣代表隊勇奪二銀三銅一佳作！</a></li>
