@@ -31,7 +31,7 @@ export default function AboutTol() {
             </div>
             <div>
               <p>
-                The International Linguistics Olympiad (IOL) has been held in various countries since 2003, but it remained relatively unknown in Taiwan. It wasn't until 2015, when the only individual participant from Taiwan won a bronze medal and an award for the best solution, that more people began to take notice.
+                The International Linguistics Olympiad (IOL) has been held in various countries since 2003, but it remained relatively unknown in Taiwan. It wasn&apos;t until 2015, when the only individual participant from Taiwan won a bronze medal and an award for the best solution, that more people began to take notice.
               </p>
 
               <p>

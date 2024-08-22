@@ -31,17 +31,17 @@ export default function Faq() {
                 </li>
                 <li className="list-group-item border-0">
                     <div>
-                        <h4 className="my-3">Q: I don't have a special understanding of linguistics. Can I still participate in the TOL Preliminary?</h4>
+                        <h4 className="my-3">Q: I don&apos;t have a special understanding of linguistics. Can I still participate in the TOL Preliminary?</h4>
                         <p>Of course you can!</p>
-                        <p>The only requirement to participate in the TOL is that you must be a student from grade 7 to 12. If you meet this criterion, you're welcome to give it a try!</p>
-                        <p>Unlike other olympiads, the TOL does not require special knowledge of linguistics. What's needed is clear logical thinking and perseverance in facing challenges. If you're willing to give it a go, you're very welcome!</p>
+                        <p>The only requirement to participate in the TOL is that you must be a student from grade 7 to 12. If you meet this criterion, you&apos;re welcome to give it a try!</p>
+                        <p>Unlike other olympiads, the TOL does not require special knowledge of linguistics. What&apos;s needed is clear logical thinking and perseverance in facing challenges. If you&apos;re willing to give it a go, you&apos;re very welcome!</p>
                     </div>
                 </li>
                 <li className="list-group-item border-0">
                     <div>
-                        <h4 className="my-3">Q: I'm interested in the International Linguistics Olympiad. How should I prepare?</h4>
+                        <h4 className="my-3">Q: I&apos;m interested in the International Linguistics Olympiad. How should I prepare?</h4>
                         <p><strong>Practice past problems! Practice, practice, practice!</strong></p>
-                        <p>We recommend starting with the questions available on our website (no special linguistics knowledge required) or referring to the resources provided in the "Links" section on this page to get a feel for the Olympiad.</p>
+                        <p>We recommend starting with the questions available on our website (no special linguistics knowledge required) or referring to the resources provided in the &quot;Links&quot; section on this page to get a feel for the Olympiad.</p>
                         <p>After practicing, if you develop an interest in linguistics, you can find related books to supplement your knowledge.</p>
                         <p>Refer to <a href="https://www.uklo.org/students-room/">advice from the UK Linguistics Olympiad</a> for more information.</p>
                     </div>
