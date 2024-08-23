@@ -29,7 +29,7 @@ export default function RegisterInformation() {
       <div className="container">
         <div className="row content">
           <div className="section-title col-lg-7">
-            <p>台灣語奧初選歷屆試題</p>
+            <p>台灣語奧報名方式</p>
           </div>
           <div className="col-lg-5">
             <ul>

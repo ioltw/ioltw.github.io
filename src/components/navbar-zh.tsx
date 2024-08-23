@@ -18,7 +18,7 @@ export default function NavBar() {
               <ul>
               <li><a href="/zh/student/previous-problems">歷屆試題</a></li>
               <li><a href="/zh/student/learning-resources">學習資源</a></li>
-              <li><a href="/zh/student/calender">行事曆</a></li>
+              <li><a href="/zh/student/calendar">行事曆</a></li>
               <li><a href="/zh/student/register-information">報名方式</a></li>
               </ul>
             </li>

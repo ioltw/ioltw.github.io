@@ -53,13 +53,13 @@ export default function LearningResources() {
                 <div className="icon-ul">
                     <ul>
                         <li>
-                            <a href="http://www.bookman.com.tw/BookSearch.aspx?Keyword=Language%20Files" target="_blank" style={{color: "#2782ce"}}>Language Files. Department of Linguistics The Ohio State University.</a>
+                    <a href="http://www.bookman.com.tw/BookSearch.aspx?Keyword=Language%20Files" target="_blank" style={{color: "#2782ce"}}>Department of Linguistics, The Ohio State University. (2022). <i>Language files: Materials for an introduction to language and linguistics</i> (13th ed.). The Ohio State University Press.</a>
                         </li>
                         <li>
-                            Radev, Dragomir(ed).2013. Puzzles in Logic, Languages and Computation. Springer.
+                        Radev, D. (Ed.). (2013). <i>Puzzles in logic, languages and computation: The Red Book</i>. Springer.  
                         </li>
                         <li>
-                            Fromkin, V. et. al. An Introduction to Language. Wadsworth, Cengage Learning.
+                        Fromkin, V., Rodman, R., & Hyams, N. M. (2019). <i>An introduction to language</i> (10th ed.). Wadsworth/Cengage Learning. 
                         </li>
                     </ul>
                 </div>
@@ -76,7 +76,7 @@ export default function LearningResources() {
                             <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語言學奧林匹亞競賽準備與解題經驗分享</a>
                         </li>
                         <li>
-                            <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu:How to Engage Linguistics Olympiad?</a>
+                            <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu: How to Engage Linguistics Olympiad?</a>
                         </li>
                         <li>
                             <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_3.pdf" target="_blank" style={{color: "#2782ce"}}>馬靖超：國手經驗談：語奧簡介與入門指南</a>

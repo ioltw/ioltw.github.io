@@ -18,7 +18,7 @@ export default function NavBar() {
               <ul>
               <li><a href="/en/student/previous-problems">Past Problems</a></li>
               <li><a href="/en/student/learning-resources">Resources</a></li>
-              <li><a href="/en/student/calender">Timetable</a></li>
+              <li><a href="/en/student/calendar">Calendar</a></li>
               <li><a href="/en/student/register-information">Registration</a></li>
               </ul>
             </li>
