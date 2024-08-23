@@ -5,7 +5,7 @@ export default function NavBar() {
 
         <h1 className="logo me-auto">
         {/* <!-- Uncomment below if you prefer to use an image logo --> */}
-        <a href="/zh/" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.jpg" alt="" className="img-fluid"/></a>
+        <a href="/zh/" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
         <a href="/zh/"> Taiwan Olympiad in Linguistics </a>
         </h1>
 

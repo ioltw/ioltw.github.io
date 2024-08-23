@@ -5,7 +5,7 @@ export default function NavBar() {
 
         <h1 className="logo me-auto">
         {/* <!-- Uncomment below if you prefer to use an image logo --> */}
-        <a href="/en/" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.jpg" alt="" className="img-fluid"/></a>
+        <a href="/en/" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
         <a href="/en/"> Taiwan Olympiad in Linguistics </a>
         </h1>
 
@@ -25,7 +25,7 @@ export default function NavBar() {
             <li><a href="/en/previous-results">Results</a></li>
             <li><a href="/en/promotions">Promotion</a></li>
             <li><a href="/en/faq">FAQ</a></li>
-            <li><a href="/en/about-us">Organizers</a></li>
+            <li><a href="/en/about-us">About Us</a></li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle"></i>
         </nav>
