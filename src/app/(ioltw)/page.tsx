@@ -186,7 +186,7 @@ export default function Home() {
               <div class="col-lg-2 col-md-6 col-6 d-flex align-items-center justify-content-center">
                 <a href = "https://www.trend.org/home/about">
                   <img
-                    src="assets/img/clients/trendEducation.png" 
+                    src="img/clients/trendEducation.png" 
                     className="img-fluid" 
                     alt=""
                     />
