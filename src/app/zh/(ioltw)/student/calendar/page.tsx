@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "行事曆 - 臺灣語言學奧林匹亞 Taiwan Olympiad in Linguistics",
 };
 
-export default function Calender() {
+export default function Calendar() {
   return (
     <main id="main">
 
