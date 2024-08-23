@@ -183,13 +183,13 @@ export default function Home() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-6 d-flex align-items-center justify-content-center">
-                <a href="http://www.bookman.com.tw/">
+              <div class="col-lg-2 col-md-6 col-6 d-flex align-items-center justify-content-center">
+                <a href = "https://www.trend.org/home/about">
                   <img
-                    src="/img/clients/bookman.png"
-                    className="img-fluid"
+                    src="assets/img/clients/trendEducation.png" 
+                    className="img-fluid" 
                     alt=""
-                  />
+                    />
                 </a>
               </div>
 
