@@ -44,9 +44,9 @@ export default function Lingpuz() {
 
             <div className="col-lg-4">
                 <div className="portfolio-description">
-                <h2>Linguistic Puzzle Marathon</h2>
+                <h2>LingPuz Marathon</h2>
                 <p>
-                To promote linguistic knowledge at the elementary and middle school levels, the Taiwan Olympiad in Linguistics collaborated with Kang Chiao International School Linkou Campus to host the Linguistic Puzzle Marathon. This event provides students with an opportunity to explore linguistics, with the goal of building a bridge between students and the International Linguistics Olympiad and the Taiwan Science Fair in Linguistics. We encourage students to further their learning and exploration of linguistic knowledge.
+                To promote linguistic knowledge at the elementary and middle school levels, the Taiwan Olympiad in Linguistics collaborated with Kang Chiao International School Linkou Campus to host the LingPuz Marathon. This event provides students with an opportunity to explore linguistics, with the goal of building a bridge between students and the International Linguistics Olympiad and the Language Science Fair. We encourage students to further their learning and exploration of linguistic knowledge.
                  <br/><br/>For more information, please visit our<a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics">【Facebook Page】</a> or email Mr. Champsky at <a href="mailto:lingpuz.marathon@gmail.com">lingpuz.marathon@gmail.com</a>
                 </p>
                 </div>

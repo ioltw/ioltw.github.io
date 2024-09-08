@@ -137,6 +137,20 @@ export default function Promotions() {
             </div>
           </div>
 
+          <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div className="portfolio-wrap">
+              <img src="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg" className="img-fluid" alt=""/>
+              <div className="portfolio-info">
+                <h4>解題訓練營</h4>
+                <p>推廣活動</p>
+                <div className="portfolio-links">
+                  <a href="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i className="bx bx-plus"></i></a>
+                  <a href="/zh/promotions/detail/puzzlecamp" className="portfolio-details-lightbox" data-glightbox="type: external"><i className="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>

@@ -156,6 +156,13 @@ h6 {
   color: #d9232d;
 }
 
+.navbar .switchlanguage {
+  font-weight: 600;
+  color: #088e08;
+  border-color: #088e08;
+  text-align: center;
+}
+
 .navbar .getstarted,
 .navbar .getstarted:focus {
   background: #d9232d;

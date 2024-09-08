@@ -26,6 +26,7 @@ export default function NavBar() {
             <li><a href="/en/promotions">Promotions</a></li>
             <li><a href="/en/faq">FAQ</a></li>
             <li><a href="/en/about-us">About Us</a></li>
+            <li><a href="/zh/" className="switchlanguage">中文</a></li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle"></i>
         </nav>

@@ -31,6 +31,18 @@ export default function Recent() {
         <div className="section-title">
           <p>Latest News</p>
         </div>
+
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2024/09/08　2024-2025 Upcoming Events (Partial)</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+            <a href="/img/recent_attachments/upcoming_events.png" target="_blank"><img src="/img/recent_attachments/upcoming_events.png" alt="2024-25 Upcoming Events" title="2024-25 Upcoming Events" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
         
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
@@ -49,7 +61,7 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/07/05　Registration Open for the Third Taiwan High School Linguistics Science Fair!</b></h4>
+            <h4><b>2024/07/05　Registration Open for the Third Taiwan High School Language Science Fair!</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
@@ -62,7 +74,7 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/06/04　Problems and Solutions for the First and Second Editions of the Linguistic Puzzle Marathon Now Available</b></h4>
+            <h4><b>2024/06/04　Problems and Solutions for the First and Second Editions of the LingPuz Marathon Now Available</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
@@ -74,11 +86,11 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/05/30　Highlights from the Second Linguistic Puzzle Marathon</b></h4>
+            <h4><b>2024/05/30　Highlights from the Second LingPuz Marathon</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
-              The Second Linguistic Puzzle Marathon was successfully held on Saturday, May 25, 2024. We believe that everyone gained a deeper understanding and appreciation of linguistics through the three hours of collaborative puzzle-solving. We invite you to revisit the event through our highlight video and photos, and we hope you will continue to support the TOL, the Linguistics Science Fair, and the Linguistic Puzzle Marathon!
+              The Second LingPuz Marathon was successfully held on Saturday, May 25, 2024. We believe that everyone gained a deeper understanding and appreciation of linguistics through the three hours of collaborative puzzle-solving. We invite you to revisit the event through our highlight video and photos, and we hope you will continue to support the TOL, the Language Science Fair, and the LingPuz Marathon!
               <a href="https://drive.google.com/drive/u/0/folders/1IbExfv24ihhGj-KSAADmbPd4Y4xt9BI-">【Photos & Videos】</a>
               <br/>
               <iframe src="https://drive.google.com/file/d/1JO7I7L3-mTZ4IHPeh22whwc8-ghWeavb/preview" width="640" height="360" allow="autoplay"></iframe>

@@ -44,7 +44,7 @@ export default function Promotions() {
                   alt=""
                 />
                 <div className="portfolio-info">
-                  <h4>Linguistic Puzzle Marathon</h4>
+                  <h4>LingPuz Marathon</h4>
                   <p>Promotional Activities</p>
                   <div className="portfolio-links">
                     <a
@@ -110,7 +110,7 @@ export default function Promotions() {
                   alt=""
                 />
                 <div className="portfolio-info">
-                  <h4>High School Linguistics Science Fair</h4>
+                  <h4>High School Language Science Fair</h4>
                   <p>Promotional Activities</p>
                   <div className="portfolio-links">
                     <a
@@ -243,6 +243,36 @@ export default function Promotions() {
                     </a>
                     <a
                       href="/en/promotions/detail/highschool"
+                      className="portfolio-details-lightbox"
+                      data-glightbox="type: external"
+                    >
+                      <i className="bx bx-link"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div className="portfolio-wrap">
+                <img
+                  src="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg"
+                  className="img-fluid"
+                  alt=""
+                />
+                <div className="portfolio-info">
+                  <h4>Linguistic Puzzle Camp</h4>
+                  <p>Promotional Activities</p>
+                  <div className="portfolio-links">
+                    <a
+                      href="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg"
+                      data-gallery="portfolioGallery"
+                      className="portfolio-lightbox"
+                    >
+                      <i className="bx bx-plus"></i>
+                    </a>
+                    <a
+                      href="/en/promotions/detail/puzzlecamp"
                       className="portfolio-details-lightbox"
                       data-glightbox="type: external"
                     >

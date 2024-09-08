@@ -4,7 +4,7 @@ import StyledSwiper from '@/components/styled-swiper';
 import { SwiperSlide } from 'swiper/react';
 import 'swiper/css'
 
-export default function Scifair() {
+export default function Highschool() {
   return (
     <main id="main">
       {/* <!-- ======= Portfolio Details Section ======= --> */}
@@ -18,13 +18,7 @@ export default function Scifair() {
                 <div className="swiper-wrapper align-items-center">
                   <StyledSwiper>
                     <SwiperSlide>
-                      <img src="/img/promotions/scifair/fair3.jpg" alt=""/>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                      <img src="/img/promotions/scifair/fair1.jpg" alt=""/>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                      <img src="/img/promotions/scifair/group.jpg" alt=""/>
+                      <img src="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg" alt=""/>
                     </SwiperSlide>
                   </StyledSwiper>
                 </div>
@@ -34,10 +28,9 @@ export default function Scifair() {
 
             <div className="col-lg-4">
               <div className="portfolio-description">
-                <h2>High School Language Science Fair</h2>
+                <h2>Linguistic Training Camp</h2>
                 <p>
-                nterested in exploring linguistics/language science? Sign up for the Science Fair and share your discoveries with everyone!<br/><br/>
-                  <a href="https://ioltw.github.io/scifair-2024/">【3rd High School Language Science Fair (2024) Website】</a>
+                To help everyone become more familiar with the problem-solving format of the Linguistics Olympiad, we have specially invited past Taiwan team members and experienced instructors to share a series of problem-solving techniques and practical experiences. This will help boost your confidence and provide assistance before the competition.
                 </p>
               </div>
             </div>

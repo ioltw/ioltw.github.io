@@ -26,6 +26,7 @@ export default function NavBar() {
             <li><a href="/zh/promotions">推廣影音</a></li>
             <li><a href="/zh/faq">FAQ</a></li>
             <li><a href="/zh/about-us">籌辦單位</a></li>
+            <li><a href="/en/" className="switchlanguage">English</a></li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle"></i>
         </nav>
