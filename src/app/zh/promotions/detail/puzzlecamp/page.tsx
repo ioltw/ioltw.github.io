@@ -4,7 +4,7 @@ import StyledSwiper from '@/components/styled-swiper';
 import { SwiperSlide } from 'swiper/react';
 import 'swiper/css'
 
-export default function Highschool() {
+export default function Puzzlecamp() {
   return (
     <main id="main">
       {/* <!-- ======= Portfolio Details Section ======= --> */}
@@ -16,11 +16,7 @@ export default function Highschool() {
             <div className="col-lg-8">
               <div className="portfolio-details-slider">
                 <div className="swiper-wrapper align-items-center">
-                  <StyledSwiper>
-                    <SwiperSlide>
                       <img src="/img/promotions/puzzlecamp/puzzlecamp_poster.jpg" alt=""/>
-                    </SwiperSlide>
-                  </StyledSwiper>
                 </div>
                 <div className="swiper-pagination"></div>
               </div>
