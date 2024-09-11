@@ -54,7 +54,7 @@ export default function LearningResources() {
               <div className="icon-ul">
                 <ul>
                   <li>
-                    <a href="http://www.bookman.com.tw/BookSearch.aspx?Keyword=Language%20Files" target="_blank" style={{color: "#2782ce"}}>Department of Linguistics, The Ohio State University. (2022). <em>Language files: Materials for an introduction to language and linguistics</em> (13th ed.). The Ohio State University Press.</a>
+                        Department of Linguistics, The Ohio State University. (2022). <em>Language files: Materials for an introduction to language and linguistics</em> (13th ed.). The Ohio State University Press.
                   </li>
                   <li>
                         Radev, D. (Ed.). (2013). <em>Puzzles in logic, languages and computation: The Red Book</em>. Springer.  

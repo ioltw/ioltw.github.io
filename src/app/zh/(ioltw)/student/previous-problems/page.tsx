@@ -46,7 +46,7 @@ export default function PreviousProblems() {
     <section id="services" className="services">
       <div className="container">
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2024 全國初選</h4>
               <div className="icon-row">
@@ -76,7 +76,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for other years --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2023 全國初選</h4>
               <div className="icon-row">
@@ -106,7 +106,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2022 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2022 全國初選</h4>
               <div className="icon-row">
@@ -135,7 +135,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2021 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2021 全國初選</h4>
               <div className="icon-row">
@@ -163,7 +163,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2020 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2020 全國初選</h4>
               <div className="icon-row">
@@ -191,7 +191,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2019 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2019 全國初選</h4>
               <div className="icon-row">
@@ -219,7 +219,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2018 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2018 全國初選</h4>
               <div className="icon-row">
@@ -247,7 +247,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2017 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2017 全國初選</h4>
               <div className="icon-row">
@@ -263,7 +263,7 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2016 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
               <h4>2016 全國初選</h4>
               <div className="icon-row">

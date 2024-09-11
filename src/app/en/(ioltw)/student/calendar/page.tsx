@@ -34,6 +34,70 @@ export default function Calendar() {
       </section>
       
       <div className="container">
+        <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>Important Dates in 2025</h1>
+        <div className="timeline position-relative">
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">October 2024</div>
+              <div className="text-muted">October 18</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-body-text me-2"></i>Language Science Fair</h5>
+              </div>
+            </div>
+          </div>
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">February 2025</div>
+              <div className="text-muted">February 5 - 7</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-controller me-2"></i>Linguistic Puzzle Camp</h5>
+                <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+              </div>
+            </div>
+          </div>
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">March 2025</div>
+              <div className="text-muted">March 2</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Team Trial - Round 1</h5>
+                <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+              </div>
+            </div>
+          </div>
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">April 2025</div>
+              <div className="text-muted">April 20</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-people me-2"></i>National Team Trial - Round 2</h5>
+                <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+              </div>
+            </div>
+          </div>
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">May 2025</div>
+              <div className="text-muted">May 24</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-award me-2"></i>LingPuz Marathon</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
         <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>Important Dates in 2024</h1>
         <div className="timeline position-relative">
           <div className="timeline-item mb-5">
@@ -53,7 +117,7 @@ export default function Calendar() {
             </div>
             <div className="card border-light shadow-sm">
               <div className="card-body">
-                <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Preliminary Round</h5>
+                <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Team Trial - Round 1</h5>
                 <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
               </div>
             </div>
@@ -126,7 +190,7 @@ export default function Calendar() {
             </div>
             <div className="card border-light shadow-sm">
               <div className="card-body">
-                <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Preliminary Round</h5>
+                <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Team Trial - Round 1</h5>
                 <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
               </div>
             </div>

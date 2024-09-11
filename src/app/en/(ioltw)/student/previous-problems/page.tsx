@@ -46,9 +46,9 @@ export default function PreviousProblems() {
     <section id="services" className="services">
       <div className="container">
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2024 National Preliminary Round</h4>
+              <h4>2024 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -76,9 +76,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for other years --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2023 National Preliminary Round</h4>
+              <h4>2023 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -106,9 +106,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2022 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2022 National Preliminary Round</h4>
+              <h4>2022 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -135,9 +135,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2021 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2021 National Preliminary Round</h4>
+              <h4>2021 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -163,9 +163,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2020 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2020 National Preliminary Round</h4>
+              <h4>2020 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -191,9 +191,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2019 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2019 National Preliminary Round</h4>
+              <h4>2019 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -219,9 +219,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2018 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2018 National Preliminary Round</h4>
+              <h4>2018 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -247,9 +247,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2017 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2017 National Preliminary Round</h4>
+              <h4>2017 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
@@ -263,9 +263,9 @@ export default function PreviousProblems() {
         </div>
         {/* <!-- Repeat for 2016 --> */}
         <div className="row">
-          <div className="col-md-8 mx-auto">
+          <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2016 National Preliminary Round</h4>
+              <h4>2016 National Team Trial - Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>

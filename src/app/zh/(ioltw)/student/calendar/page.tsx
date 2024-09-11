@@ -34,6 +34,69 @@ export default function Calendar() {
     </section>
     
     <div className="container">
+        <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>2025年重要日程</h1>
+        <div className="timeline position-relative">
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2024年10月</div>
+                    <div className="text-muted">10月19日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-body-text me-2"></i>語言學科展</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年2月</div>
+                    <div className="text-muted">2月5日至2月7日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-controller me-2"></i>語奧解題營</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年3月</div>
+                    <div className="text-muted">3月2日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>語奧國手選拔初賽</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年4月</div>
+                    <div className="text-muted">4月20日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>語奧國手選拔複賽</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年5月</div>
+                    <div className="text-muted">5月24日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-award me-2"></i>語言解謎鐵人賽</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div className="container">
         <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>2024年重要日程</h1>
         <div className="timeline position-relative">
             <div className="timeline-item mb-5">

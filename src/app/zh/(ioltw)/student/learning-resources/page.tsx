@@ -53,13 +53,13 @@ export default function LearningResources() {
                 <div className="icon-ul">
                     <ul>
                         <li>
-                    <a href="http://www.bookman.com.tw/BookSearch.aspx?Keyword=Language%20Files" target="_blank" style={{color: "#2782ce"}}>Department of Linguistics, The Ohio State University. (2022). <i>Language files: Materials for an introduction to language and linguistics</i> (13th ed.). The Ohio State University Press.</a>
+                        Department of Linguistics, The Ohio State University. (2022). Language files: Materials for an introduction to language and linguistics (13th ed.). The Ohio State University Press.
                         </li>
                         <li>
-                        Radev, D. (Ed.). (2013). <i>Puzzles in logic, languages and computation: The Red Book</i>. Springer.  
+                        Radev, D. (Ed.). (2013). Puzzles in logic, languages and computation: The Red Book. Springer.  
                         </li>
                         <li>
-                        Fromkin, V., Rodman, R., & Hyams, N. M. (2019). <i>An introduction to language</i> (10th ed.). Wadsworth/Cengage Learning. 
+                        Fromkin, V., Rodman, R., & Hyams, N. M. (2019). An introduction to language (10th ed.). Wadsworth/Cengage Learning. 
                         </li>
                     </ul>
                 </div>

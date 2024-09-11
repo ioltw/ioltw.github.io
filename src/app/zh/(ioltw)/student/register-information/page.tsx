@@ -49,8 +49,10 @@ export default function RegisterInformation() {
               <div className="icon-box">
                 <h3>1. 參加「全國初選 — 台灣國手選拔賽（TOL）」</h3>
                 <h4>線上報名繳費後，確認參賽資格，始得角逐第一階國手資格。</h4>
-                <a href="https://lope.linguistics.ntu.edu.tw/ioltw/TOL-Regulation.pdf" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>閱讀 【台灣國手選拔辦法】 👀 </a>
-                <a href="https://reg.ioltw.org/" className="btn btn-outline-danger" style={{marginLeft: "40px"}}>前往 台灣語奧全國初選報名系統</a>
+                <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
+                  <a href="https://lope.linguistics.ntu.edu.tw/ioltw/TOL-Regulation.pdf" className="btn btn-outline-danger">閱讀 【台灣國手選拔辦法】 👀</a>
+                  <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">前往 台灣語奧全國初選報名系統</a>
+                </div>
               </div>
             </div>
           </div>
