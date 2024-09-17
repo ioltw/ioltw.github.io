@@ -5,13 +5,13 @@ export default function NavBar() {
 
         <h1 className="logo me-auto">
         {/* <!-- Uncomment below if you prefer to use an image logo --> */}
-        <a href="/en/" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
-        <a href="/en/"> Taiwan Olympiad in Linguistics </a>
+        <a href="/en" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
+        <a href="/en"> Taiwan Olympiad in Linguistics </a>
         </h1>
 
         <nav id="navbar" className="navbar">
           <ul>
-            <li><a href="/en/" className="active">Home</a></li>
+            <li><a href="/en" className="active">Home</a></li>
             <li><a href="/en/recent">News</a></li>
             <li><a href="/en/about-tol">About TOL</a></li>
             <li className="dropdown"><a href="#"><span>For Students</span> <i className="bi bi-chevron-down"></i></a>
@@ -29,7 +29,7 @@ export default function NavBar() {
             {/* <li><a href="/zh/" className="switchlanguage">中文</a></li> */}
             <li className="dropdown"><a><i className="bi bi-globe" style={{fontSize: "120%"}}></i><i className="bi bi-chevron-down"></i></a>
               <ul>
-                <li><a href="/zh/">中文</a></li>
+                <li><a href="/zh">中文</a></li>
                 <li><a href="#">English</a></li>
               </ul>
             </li>
