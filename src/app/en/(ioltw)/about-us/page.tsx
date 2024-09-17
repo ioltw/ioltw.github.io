@@ -31,7 +31,7 @@ export default function AboutUs() {
           
           <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
             <a href="https://homepage.ntu.edu.tw/~gilntu/">
-              <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+              <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "140px"}} alt=""/>
             </a>
             <h4 style={{fontWeight: "600"}}>Organizer</h4>
             <p>Graduate Institute of Linguistics, National Taiwan University</p>
@@ -39,7 +39,7 @@ export default function AboutUs() {
       
           <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
             <a href="https://www.aca.ntu.edu.tw/w/aca/index">
-              <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+              <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "140px"}} alt=""/>
             </a>
             <h4 style={{fontWeight: "600"}}>Co-organizer</h4>
             <p>College of Liberal Arts, National Taiwan University</p>
@@ -47,7 +47,7 @@ export default function AboutUs() {
       
           <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
             <a href="https://www.k12ea.gov.tw/ap/index.aspx">
-              <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "100px"}}/>
+              <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "140px"}}/>
             </a>
             <h4 style={{fontWeight: "600"}}>Advisor</h4>
             <p>K-12 Education Administration, Ministry of Education</p>
@@ -70,9 +70,9 @@ export default function AboutUs() {
 
           <div className="col-lg-6">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Grace_Kuo.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>郭貞秀</h4>
+                <h4>Grace Kuo</h4>
                 <span>Administration</span>
               </div>
             </div>
@@ -80,9 +80,9 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4 mt-lg-0">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Chien-Chih_Ken_Lin.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>林建志</h4>
+                <h4>Chien-Chih (Ken) Lin</h4>
                 <span>Administration</span>
               </div>
             </div>
@@ -90,9 +90,9 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Chenhao_Chiu.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>邱振豪</h4>
+                <h4>Chenhao Chiu</h4>
                 <span>Public Relation and Finance</span>
               </div>
             </div>
@@ -100,9 +100,9 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Claire_Chou.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>周芷瑄</h4>
+                <h4>Claire Chou</h4>
                 <span>Public Relation and Finance</span>
               </div>
             </div>
@@ -111,9 +111,9 @@ export default function AboutUs() {
           
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Yu-Wei_Edward_Chu.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>朱昱威</h4>
+                <h4>Yu-Wei (Edward) Chu</h4>
                 <span>Public Relation and Finance</span>
               </div>
             </div>
