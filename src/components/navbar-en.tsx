@@ -26,7 +26,13 @@ export default function NavBar() {
             <li><a href="/en/gallery">Gallery</a></li>
             <li><a href="/en/faq">FAQ</a></li>
             <li><a href="/en/about-us">About Us</a></li>
-            <li><a href="/zh/" className="switchlanguage">中文</a></li>
+            {/* <li><a href="/zh/" className="switchlanguage">中文</a></li> */}
+            <li className="dropdown"><a><i className="bi bi-globe" style={{fontSize: "120%"}}></i><i className="bi bi-chevron-down"></i></a>
+              <ul>
+                <li><a href="/zh/">中文</a></li>
+                <li><a href="#">English</a></li>
+              </ul>
+            </li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle"></i>
         </nav>
