@@ -23,7 +23,7 @@ export default function NavBar() {
               </ul>
             </li>
             <li><a href="/en/previous-results">Results</a></li>
-            <li><a href="/en/promotions">Promotions</a></li>
+            <li><a href="/en/gallery">Gallery</a></li>
             <li><a href="/en/faq">FAQ</a></li>
             <li><a href="/en/about-us">About Us</a></li>
             <li><a href="/zh/" className="switchlanguage">中文</a></li>

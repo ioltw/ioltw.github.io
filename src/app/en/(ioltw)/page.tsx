@@ -126,8 +126,8 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-camera-video-fill"></i>
                   <h4>
-                    <a href="/en/promotions">
-                      Promotions
+                    <a href="/en/gallery">
+                      Gallery
                     </a>
                   </h4>
                   <p>Past activities and video clips.</p>

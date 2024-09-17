@@ -23,7 +23,7 @@ export default function NavBar() {
               </ul>
             </li>
             <li><a href="/zh/previous-results">歷年表現</a></li>
-            <li><a href="/zh/promotions">推廣影音</a></li>
+            <li><a href="/zh/gallery">推廣影音</a></li>
             <li><a href="/zh/faq">FAQ</a></li>
             <li><a href="/zh/about-us">籌辦單位</a></li>
             <li><a href="/en/" className="switchlanguage">English</a></li>

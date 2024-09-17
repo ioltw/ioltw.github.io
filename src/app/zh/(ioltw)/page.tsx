@@ -128,7 +128,7 @@ export default function Home() {
                 <div className="icon-box">
                   <i className="bi bi-camera-video-fill"></i>
                   <h4>
-                    <a href="/zh/promotions">
+                    <a href="/zh/gallery">
                       推廣資訊和影音
                     </a>
                   </h4>
