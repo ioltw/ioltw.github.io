@@ -47,7 +47,7 @@ export default function Footer() {
             <ul>
             <li><i className="bx bx-chevron-right"></i> <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics">Follow us on Facebook</a></li>
             <li><i className="bx bx-chevron-right"></i> <a href="https://shukai.typeform.com/to/xHgP9m">Join our team</a></li>
-            <li><i className="bx bx-chevron-right"></i> <a href="/donation">Donate</a></li>
+            <li><i className="bx bx-chevron-right"></i> <a href="/en/donation">Donate</a></li>
             </ul>
           </div>
 
