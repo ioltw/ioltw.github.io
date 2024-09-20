@@ -53,21 +53,21 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2024_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2024_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                    <a href="/problems/TOL2024_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2024_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2024_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2024_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
+                    <a href="/problems/TOL2024_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
+                    <a href="/problems/TOL2024_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2024_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2024_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -83,21 +83,21 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2023_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2023_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                    <a href="/problems/TOL2023_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2023_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2023_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2023_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
+                    <a href="/problems/TOL2023_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
+                    <a href="/problems/TOL2023_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2023_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2023_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -113,20 +113,20 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2022_1st_round.pdf" className="btn btn-outline-danger">題目</a>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2022_1st_round_revised.pdf" className="btn btn-outline-danger">題目(修訂版)</a>
+                    <a href="/problems/TOL2022_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2022_1st_round_revised.pdf" className="btn btn-outline-danger">題目(修訂版)</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2022_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2022_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2022_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2022_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -142,19 +142,19 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2021_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2021_1st_round.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2021_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2021_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2021_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2021_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -170,19 +170,19 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2020_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2020_1st_round.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2020_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2020_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2020_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2020_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -198,19 +198,19 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2019_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2019_1st_round.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2019_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2019_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2019_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2019_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -226,19 +226,19 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2018_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2018_1st_round.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2018_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2018_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/zh/3years_w.html" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/zh/3years_w.html" className="btn btn-outline-danger">統計資料</a>
                   </div>
                 </div>
               </div>
@@ -254,7 +254,7 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2017_problemset.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2017_problemset.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
               </div>
@@ -270,13 +270,13 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2016_problemset.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2016_problemset.pdf" className="btn btn-outline-danger">題目</a>
                   </div>
                 </div>
                 <div>
                   <i className="bi bi-card-checklist"></i>
                   <div className="button-group">
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/problems/TOL2016_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                    <a href="/problems/TOL2016_solutions.pdf" className="btn btn-outline-danger">解答</a>
                   </div>
                 </div>
               </div>
