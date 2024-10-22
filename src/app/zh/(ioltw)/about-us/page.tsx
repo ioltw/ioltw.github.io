@@ -45,15 +45,15 @@ export default function AboutUs() {
             <p>國立台灣大學文學院</p>
           </div>
       
-         /* 
+         
           <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
             <a href="https://www.k12ea.gov.tw/ap/index.aspx">
               <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
-            <h4 style={{fontWeight: "600"}}>指導單位</h4>
+            <h4 style={{fontWeight: "600"}}>補助單位</h4>
             <p>教育部國教署</p>
           </div>
-          */
+          
     
         </div>
       </div>
