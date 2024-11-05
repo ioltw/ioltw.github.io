@@ -32,7 +32,6 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
-	      <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
             <h4><b>2024/11/06　台灣語奧十年有成餐會</b></h4>
