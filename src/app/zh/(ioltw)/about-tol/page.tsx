@@ -72,14 +72,14 @@ export default function AboutTol() {
               <li className="list-group-item border-0">
                 <h5><strong>TOL 競賽方式</strong></h5>
                 <p>
-                  紙筆測驗，試題以「正體中文」出題並附上英文翻譯，參賽者得以中文或英文作答。
+                  紙筆測驗，試題以「正體中文」、「英文」出題，參賽者得以選一語言版本並以該語言作答。
                 </p>
               </li>
 
               <li className="list-group-item border-0">
                 <h5><strong>TOL 選拔機制</strong></h5>
                 <p>
-                  每年僅舉辦一次（通常是 2 ～ 3 月的某一天），於 TOL 選拔賽中表現優異者可參與當年度之語奧培訓課程，角逐正式國手之位。
+                  每年舉辦一次（通常於 2 ～ 3 月），且 TOL 選拔賽中表現優異者可參與當年度之語奧培訓課程，角逐正式國手之位，詳細流程請見下方報名資訊。
                 </p>
               </li>
 
@@ -88,7 +88,7 @@ export default function AboutTol() {
                 <p>
                   預計每年年底左右公告。
                 </p>
-                <a href="/zh/student/register-information" className="btn btn-outline-danger">TOL 報名方式</a>
+                <a href="_2025TOL_rules" className="btn btn-outline-danger">TOL 報名方式</a>
                 <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
               </li>
             </ul>
