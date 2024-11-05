@@ -88,7 +88,7 @@ export default function AboutTol() {
                 <p>
                   預計每年年底左右公告。
                 </p>
-                <a href="_2025TOL_rules.pdf" className="btn btn-outline-danger">TOL 報名方式</a>
+                <a href="2025TOL_rules.pdf" className="btn btn-outline-danger">TOL 報名方式</a>
                 <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
               </li>
             </ul>
