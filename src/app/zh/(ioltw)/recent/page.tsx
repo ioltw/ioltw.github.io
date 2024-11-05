@@ -31,6 +31,36 @@ export default function Recent() {
         <div className="section-title">
           <p>最新消息</p>
         </div>
+	      
+	<div class="row faq-item d-flex align-items-stretch">
+	  <div class="col-lg-5">
+	    <i class="bx bxs-pin"></i>
+	    <h4><b>2024/11/06　台灣語奧十年有成餐會</b></h4>
+	  </div>
+	  <div class="col-lg-7">
+	    <p>
+	      台灣語奧自成立以來，在歷屆國手們的參與與耕耘下，儘管面對資源有限與艱困的條件，我們仍成功開拓了穩定的規模，活躍於國際間，並被委以舉辦國際大賽的重任。如今，適逢台灣語奧十週年，我們希望邀請曾參與語奧的國手以及參與的家長們重聚同歡，分享參與語奧的心得與收穫，共同回顧台灣語奧的成長歷程，並展望即將由台灣主辦的2025國際語奧。
+	    </p>
+	    <p>
+	      謹訂於2025年2月7日晚間舉行【台灣語奧十年有成】餐會，誠摯邀請歷屆國手、家長蒞臨參與此次盛會，並歡迎一路支持語奧的各界朋友共襄盛舉。期待與您相見，共同慶祝這十年的點滴成果！
+	    </p>
+	    <p>
+	      <b>時間：</b>2025年2月7日（五）17:30<br>
+	      <b>地點：</b>後台 Backstage Café（國立臺灣大學綜合體育館二樓）<br>
+	      <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
+	    </p>
+	    <p>
+	      台灣語言學奧林匹亞團隊、國立臺灣大學語言學研究所、國立臺灣大學文學院 敬邀<br>
+	      本次活動採認購餐券形式舉行<br>
+	      #台灣語奧十年有成 #2025國際語奧在台灣
+	    </p>
+	    <p>
+	      <a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank">
+	        <img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成餐會海報" class="img-fluid">
+	      </a>
+	    </p>
+	  </div>
+	</div>
 
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
