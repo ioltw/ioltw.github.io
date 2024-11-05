@@ -57,10 +57,17 @@ export default function AboutTol() {
               <li className="list-group-item border-0">
                 <h5><strong>TOL 參賽資格</strong></h5>
                 <ol className="list-group list-group-numbered">
-                  <li className="list-group-item border-0">我國政府核准立案之中學、海外僑校及臺商學校等在學學生。</li>
-                  <li className="list-group-item border-0">於國際語奧競賽期間仍未滿 20 歲，且不得為大專院校學生或曾就讀大專院校。</li>
+                  <li className="list-group-item border-0">我國政府核准立案之中學、海外僑校及臺商學校等在學學生(七年級至高中三年級)。</li>
+                  <li className="list-group-item border-0">2025 年 7 月 1 日之時點未滿 20 歲。</li>
+                  <li className="list-group-item border-0">不具全球任一大專院校之學生身分，且不曾就讀於全球任一大專院校。</li>
                 </ol>
               </li>
+              
+               <p>
+                <strong>
+                  說明：不符合第一項規定，但符合第二項、第三項規定者，如自學生等，得逕向主辦單位提出申請，由主辦單位裁量選拔資格。
+                </strong>
+              </p>
 
               <li className="list-group-item border-0">
                 <h5><strong>TOL 競賽方式</strong></h5>
