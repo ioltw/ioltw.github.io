@@ -50,11 +50,6 @@ export default function Recent() {
 	      <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
 	    </p>
 	    <p>
-	      台灣語言學奧林匹亞團隊、國立臺灣大學語言學研究所、國立臺灣大學文學院 敬邀<br>
-	      本次活動採認購餐券形式舉行<br>
-	      #台灣語奧十年有成 #2025國際語奧在台灣
-	    </p>
-	    <p>
 	        <a href="/img/recent_attachments/10_years_banquet.jpg">台灣語奧十年有成餐會海報</a>
 	    </p>
 	  </div>
