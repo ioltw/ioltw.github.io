@@ -55,9 +55,7 @@ export default function Recent() {
 	      #台灣語奧十年有成 #2025國際語奧在台灣
 	    </p>
 	    <p>
-	      <a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank">
-	        <img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成餐會海報" class="img-fluid">
-	      </a>
+	        <a href="/img/recent_attachments/10_years_banquet.jpg">台灣語奧十年有成餐會海報</a>
 	    </p>
 	  </div>
 	</div>
