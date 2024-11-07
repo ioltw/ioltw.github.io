@@ -47,7 +47,7 @@ export default function Recent() {
 	    <p>
 	      <b>時間：</b>2025年2月7日（五）17:30<br>
 	      <b>地點：</b>後台 Backstage Café（國立臺灣大學綜合體育館二樓）<br>
-	      <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
+	      <b>報名連結：</b><a href="https://risu.io/GdIkv">https://risu.io/GdIkv</a>
 	    </p>
 	    <p>
 	        <a href="/img/recent_attachments/10_years_banquet.jpg">台灣語奧十年有成餐會海報</a>
