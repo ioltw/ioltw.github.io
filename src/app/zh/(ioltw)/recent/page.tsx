@@ -45,7 +45,10 @@ export default function Recent() {
 	      謹訂於2025年2月7日晚間舉行【台灣語奧十年有成】餐會，誠摯邀請歷屆國手、家長蒞臨參與此次盛會，並歡迎一路支持語奧的各界朋友共襄盛舉。期待與您相見，共同慶祝這十年的點滴成果！
 	    </p>
 	    <p>
-            <a href="/img/recent_attachments/upcoming_events.png" target="_blank"><img src="/img/recent_attachments/upcoming_events.png" alt="2024-25 Upcoming Events" title="2024-25 Upcoming Events" style={{width: "60%"}}/></a>
+	    <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
+	    </p>
+	    <p>
+            <a href="<b>報名連結：</b><a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank"><img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成" title="台灣語奧十年有成" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
