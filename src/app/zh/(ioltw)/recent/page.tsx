@@ -32,13 +32,13 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 	      
-	<div class="row faq-item d-flex align-items-stretch">
-	  <div class="col-lg-5">
-	    <i class="bx bxs-pin"></i>
-	    <h4><b>2024/11/06　台灣語奧十年有成餐會</b></h4>
-	  </div>
-	  <div class="col-lg-7">
-	    <p>
+	<div className="row faq-item d-flex align-items-stretch">
+	  <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2024/11/06　台灣語奧十年有成餐會</b></h4>
+          </div>
+          <div className="col-lg-7">
+           <p>
 	      台灣語奧自成立以來，在歷屆國手們的參與與耕耘下，儘管面對資源有限與艱困的條件，我們仍成功開拓了穩定的規模，活躍於國際間，並被委以舉辦國際大賽的重任。如今，適逢台灣語奧十週年，我們希望邀請曾參與語奧的國手以及參與的家長們重聚同歡，分享參與語奧的心得與收穫，共同回顧台灣語奧的成長歷程，並展望即將由台灣主辦的2025國際語奧。
 	    </p>
 	    <p>
@@ -59,6 +59,7 @@ export default function Recent() {
 	    </p>
 	  </div>
 	</div>
+	      
 
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
