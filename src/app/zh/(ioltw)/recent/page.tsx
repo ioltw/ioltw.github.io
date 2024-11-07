@@ -44,15 +44,6 @@ export default function Recent() {
 	    <p>
 	      謹訂於2025年2月7日晚間舉行【台灣語奧十年有成】餐會，誠摯邀請歷屆國手、家長蒞臨參與此次盛會，並歡迎一路支持語奧的各界朋友共襄盛舉。期待與您相見，共同慶祝這十年的點滴成果！
 	    </p>
-	    <p>
-	      <b>時間：</b>2025年2月7日（五）17:30<br>
-	      <b>地點：</b>後台 Backstage Café（國立臺灣大學綜合體育館二樓）<br>
-	      <b>報名連結：</b><a href="https://risu.io/GdIkv">https://risu.io/GdIkv</a>
-	    </p>
-	    <p>
-	        <a href="/img/recent_attachments/10_years_banquet.jpg">台灣語奧十年有成餐會海報</a>
-	    </p>
-	  </div>
 	</div>
 	      
 
