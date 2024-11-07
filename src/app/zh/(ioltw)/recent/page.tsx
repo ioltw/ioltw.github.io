@@ -48,7 +48,7 @@ export default function Recent() {
 	    <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
 	    </p>
 	    <p>
-            <a href="<b>報名連結：</b><a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank"><img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成" title="台灣語奧十年有成" style={{width: "60%"}}/></a>
+            <a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank"><img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成" title="台灣語奧十年有成" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
