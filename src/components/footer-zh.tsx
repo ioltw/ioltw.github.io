@@ -12,6 +12,7 @@ export default function Footer() {
               <strong>Email:</strong> ioltwtwiol@gmail.com<br/>
               <strong>主辦單位:</strong> 國立台灣大學語言學研究所<br/>
               <strong>協辦單位:</strong> 國立台灣大學文學院<br/>
+              <strong>聯絡電話:</strong> (02)3366-4104#311
             </p>
             <div className="social-links mt-3">
               <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics" className="facebook"><i className="bx bxl-facebook"></i></a>
@@ -56,7 +57,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          &copy; 台灣語言學奧林匹亞競賽, 2024. 最近更新日期：2024/9/30
+          &copy; 台灣語言學奧林匹亞競賽, 2024. 最近更新日期：2024/12/14
         </div>
         <div className="credits">
           {/* <!-- All the links in the footer should remain intact. -->

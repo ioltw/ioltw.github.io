@@ -113,8 +113,9 @@ export default function Recent() {
             <p>
               第二屆語言解謎鐵人賽於2024/05/25（六）順利舉辦，相信大家在三小時的合作解謎中都對語言學有更深的投入跟了解，歡迎大家透過我們的花絮影像回顧這次比賽，也歡迎繼續支持台灣語奧、語言學科展以及語言解謎鐵人賽！
               <a href="https://drive.google.com/drive/u/0/folders/1IbExfv24ihhGj-KSAADmbPd4Y4xt9BI-">【照片&影片】</a>
-              <br/>
-              <iframe src="https://drive.google.com/file/d/1JO7I7L3-mTZ4IHPeh22whwc8-ghWeavb/preview" width="640" height="360" allow="autoplay"></iframe>
+            </p>
+            <p>
+              <img src="/img/gallery/lingpuz/DSCF2961.JPG" style={{width: "100%"}} alt=""/>
             </p>
           </div>
         </div>
