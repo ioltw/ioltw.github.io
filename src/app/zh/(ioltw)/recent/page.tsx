@@ -35,20 +35,19 @@ export default function Recent() {
 	<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/11/06　台灣語奧十年有成餐會</b></h4>
+            <h4><b>2025/01/15 台灣語奧解題營開放啦！</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
-	      台灣語奧自成立以來，在歷屆國手們的參與與耕耘下，儘管面對資源有限與艱困的條件，我們仍成功開拓了穩定的規模，活躍於國際間，並被委以舉辦國際大賽的重任。如今，適逢台灣語奧十週年，我們希望邀請曾參與語奧的國手以及參與的家長們重聚同歡，分享參與語奧的心得與收穫，共同回顧台灣語奧的成長歷程，並展望即將由台灣主辦的2025國際語奧。
-	    </p>
-	    <p>
-	      <b>謹訂於2025年2月7日晚間舉行【台灣語奧十年有成】餐會</b>，誠摯邀請歷屆國手、家長蒞臨參與此次盛會，並歡迎一路支持語奧的各界朋友共襄盛舉。期待與您相見，共同慶祝這十年的點滴成果！
-	    </p>
-	    <p>
-	    <b>報名連結：</b><a href="https://risu.io/GdIkv" target="_blank" rel="noopener noreferrer">https://risu.io/GdIkv</a>
-	    </p>
-	    <p>
-            <a href="/img/recent_attachments/10_years_banquet.jpg" target="_blank"><img src="/img/recent_attachments/10_years_banquet.jpg" alt="台灣語奧十年有成" title="台灣語奧十年有成" style={{width: "60%"}}/></a>
+      	      本次解題營活動日期為2/5至2/7三日，舉辦於臺大文學院演講廳，名額有限，請儘速報名喔！
+        	    </p>
+            <p>
+            🔔小提醒：以前曾註冊過的同學，仍須再註冊一次喔！每年因考生資料眾多，皆會清除往年資料。
+            </p>
+        	    <p>
+        	    <b>報名連結：</b><a href="https://reg.ioltw.org" target="_blank" rel="noopener noreferrer">https://reg.ioltw.org</a>
+        	    </p>
+        	    <p>
             </p>
           </div>
         </div>
