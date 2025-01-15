@@ -48,6 +48,7 @@ export default function Recent() {
         	    <b>報名連結：</b><a href="https://reg.ioltw.org" target="_blank" rel="noopener noreferrer">https://reg.ioltw.org</a>
         	    </p>
         	    <p>
+            <a href="public/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" target="_blank"><img src="public/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" alt="台灣語奧解題營" title="台灣語奧解題營" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
