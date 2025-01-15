@@ -51,7 +51,7 @@ export default function Recent() {
             <a href="/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" target="_blank"><img src="/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" alt="台灣語奧解題營" title="台灣語奧解題營" style={{width: "60%"}}/></a>
             </p>
             <p>
-            <a href="/img/recent_attachments/fb9f9b71-6921-423b-b83f-15609a9d58dd.jpg" target="_blank"><img src="/img/recent_attachments/fb9f9b71-6921-423b-b83f-15609a9d58dd.jpg" alt="台灣語奧解題營時程表" title="台灣語奧解題營時程表" style={{width: "60%"}}/></a>
+            <a href="/img/recent_attachments/c2def618-ffb7-47df-b3da-2670a8b829db.jpg" target="_blank"><img src="/img/recent_attachments/c2def618-ffb7-47df-b3da-2670a8b829db.jpg" alt="台灣語奧解題營時程表" title="台灣語奧解題營時程表" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
