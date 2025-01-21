@@ -12,6 +12,7 @@ export default function Footer() {
               <strong>Email:</strong> ioltwtwiol@gmail.com<br/>
               <strong>Organizer:</strong> Graduate Institute of Linguistics, National Taiwan University<br/>
               <strong>Co-organizer:</strong> College of Liberal Arts, National Taiwan University<br/>
+              <strong>Contact Number:</strong> (02) 3366-4105
             </p>
             <div className="social-links mt-3">
               <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics" className="facebook"><i className="bx bxl-facebook"></i></a>
@@ -56,7 +57,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          &copy; Taiwan Olympiad in Linguistics, 2024. Last Updated 2024/9/30
+          &copy; Taiwan Olympiad in Linguistics, 2024. Last Updated 2025/1/21
         </div>
         <div className="credits">
           {/* <!-- All the links in the footer should remain intact. -->
