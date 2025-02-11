@@ -32,29 +32,31 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
-	<div class="row faq-item d-flex align-items-stretch"> 
-  <div class="col-lg-5">
-    <i class='bx bxs-pin'></i>
+	<div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2025/02/07 國際語奧臺灣代表隊初選熱烈報名中！</b></h4>
   </div>
-  <div class="col-lg-7">
+  <div className="col-lg-7">
     <p>
       請至 <a href="https://reg.ioltw.org">【全國初選報名系統】</a> 報名
-      <br>
+      <br />
       活動日期為 2025/03/02（日），報名費用為 NT$1000
-      <br>
+      <br />
       語奧當天將再退中、南、東、離島學生補助現金 500 元，繳費時仍以上述金額繳交。
-      <br>
+      <br />
       臺灣語奧活動除地震、颱風等天災不可抗力因素，報名後恕不退費。
-      <br>
+      <br />
       更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/IOL.Taiwan">【粉絲專頁】</a>
     </p>
     <p>
       <a href="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" target="_blank">
-        <img src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" 
-             alt="國際語奧台灣代表隊初選" 
-             title="國際語奧台灣代表隊初選" 
-             style="width: 60%;" />
+        <img 
+          src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" 
+          alt="國際語奧台灣代表隊初選" 
+          title="國際語奧台灣代表隊初選" 
+          style={{ width: "60%" }} 
+        />
       </a>
     </p>
   </div>
