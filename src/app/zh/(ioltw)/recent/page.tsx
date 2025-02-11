@@ -38,13 +38,17 @@ export default function Recent() {
             <h4><b>2025/02/07 國際語奧臺灣代表隊初選熱烈報名中！</b></h4>
           </div>
           <div className="col-lg-7">
-            <ol>
-      	      <li>請至<a href="https://reg.ioltw.org">【全國初選報名系統】報名</li>
-	      <li>活動日期為2025/03/02（日），報名費用為NT$1000</li>
- 	      <li>語奧當天將再退中、南、東、離島學生補助現金500元，繳費時仍以上述金額繳交。</li>
- 	      <li>臺灣語奧活動除地震、颱風等天災不可抗力因素，報名後恕不退費。</li>
-	      <li>更多資訊詳見台灣語奧FB <a href="https://reg.ioltw.org">【粉絲專頁】</li>
-	    </ol>
+            <p>
+      	      請至<a href="https://reg.ioltw.org">【全國初選報名系統】報名
+	      </br>
+	      活動日期為2025/03/02（日），報名費用為NT$1000
+	    </br>
+ 	      語奧當天將再退中、南、東、離島學生補助現金500元，繳費時仍以上述金額繳交。
+	    </br>
+ 	      臺灣語奧活動除地震、颱風等天災不可抗力因素，報名後恕不退費。
+	    </br>
+	      更多資訊詳見台灣語奧FB <a href="https://reg.ioltw.org">【粉絲專頁】
+	    </p>
             <p>
             <a href="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" target="_blank"><img src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" alt="國際語奧台灣代表隊初選" title="國際語奧台灣代表隊初選" style={{width: "60%"}}/></a>
             </p>
