@@ -47,16 +47,11 @@ export default function Recent() {
       <br />
       臺灣語奧活動除地震、颱風等天災不可抗力因素，報名後恕不退費。
       <br />
-      更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/IOL.Taiwan">【粉絲專頁】</a>
+      更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
     </p>
     <p>
       <a href="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" target="_blank">
-        <img 
-          src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" 
-          alt="國際語奧台灣代表隊初選" 
-          title="國際語奧台灣代表隊初選" 
-          style={{ width: "60%" }} 
-        />
+       <img src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf"  alt="國際語奧台灣代表隊初選" title="國際語奧台灣代表隊初選" style={{ width: "60%" }} />
       </a>
     </p>
   </div>
