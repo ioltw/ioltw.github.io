@@ -32,13 +32,12 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
-	      <div className="row faq-item d-flex align-items-stretch">
+	<div className="row faq-item d-flex align-items-stretch">
        	  <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
             <h4><b>2025/02/07 國際語奧臺灣代表隊初選熱烈報名中！</b></h4>
           </div>
           <div className="col-lg-7">
-
             <ol>
       	      <li>請至<a href="https://reg.ioltw.org">【全國初選報名系統】報名</li>
 	      <li>活動日期為2025/03/02（日），報名費用為NT$1000</li>
@@ -46,7 +45,6 @@ export default function Recent() {
  	      <li>臺灣語奧活動除地震、颱風等天災不可抗力因素，報名後恕不退費。</li>
 	      <li>更多資訊詳見台灣語奧FB <a href="https://reg.ioltw.org">【粉絲專頁】</li>
 	    </ol>
-
             <p>
             <a href="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" target="_blank"><img src="/img/recent_attachments/2025臺灣語言學奧林匹亞.pdf" alt="國際語奧台灣代表隊初選" title="國際語奧台灣代表隊初選" style={{width: "60%"}}/></a>
             </p>
