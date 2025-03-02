@@ -69,8 +69,6 @@ export default function PreviousProblems() {
     </div> 
   </div>
  </div>
-</section>
-
       {/* <!-- Repeat for other years --> */}
         <div className="row">
           <div className="col-md-12 mx-auto">
