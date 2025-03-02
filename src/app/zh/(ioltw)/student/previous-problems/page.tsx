@@ -74,13 +74,15 @@ export default function PreviousProblems() {
               <div>
                 <i className="bi bi-card-text"></i>
                 <div className="button-group">
-                  <a href={`/problems/TOL${year}_1st_round.pdf`} className="btn btn-outline-danger">題目</a>
+                  <a href={`/problems/TOL${year}_1st_round_zh.pdf`} className="btn btn-outline-danger">題目</a>
+                  <a href={`/problems/TOL${year}_1st_round_en.pdf`} className="btn btn-outline-danger">Problem(English)</a>
                 </div>
               </div>
               <div>
                 <i className="bi bi-card-checklist"></i>
                 <div className="button-group">
-                  <a href={`/problems/TOL${year}_solutions.pdf`} className="btn btn-outline-danger">解答</a>
+                  <a href={`/problems/TOL${year}_solutions_zh.pdf`} className="btn btn-outline-danger">解答</a>
+                  <a href={`/problems/TOL${year}_solutions_en.pdf`} className="btn btn-outline-danger">Solution(English)</a>
                 </div>
               </div>
               <div>
