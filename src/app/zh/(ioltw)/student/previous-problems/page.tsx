@@ -64,8 +64,8 @@ export default function PreviousProblems() {
       </div>
     </div>
 
-    {/* <!-- 2024 - 2016 --> */}
-    {[2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016].map((year) => (
+    {/* <!-- 2024 - 2023 --> */}
+    {[2024, 2023].map((year) => (
       <div className="row" key={year}>
         <div className="col-md-12 mx-auto">
           <div className="icon-box">
@@ -98,7 +98,39 @@ export default function PreviousProblems() {
     ))}
   </div>
 </section>
-
+    
+    {/* <!-- 2022 - 2016 --> */}
+  {[2022, 2021, 2020, 2019, 2018, 2017, 2016].map((year) => (
+      <div className="row" key={year}>
+        <div className="col-md-12 mx-auto">
+          <div className="icon-box">
+            <h4>{year} 全國初選</h4>
+            <div className="icon-row">
+              <div>
+                <i className="bi bi-card-text"></i>
+                <div className="button-group">
+                  <a href={`/problems/TOL${year}_1st_round_zh.pdf`} className="btn btn-outline-danger">題目</a>
+                </div>
+              </div>
+              <div>
+                <i className="bi bi-card-checklist"></i>
+                <div className="button-group">
+                  <a href={`/problems/TOL${year}_solutions_zh.pdf`} className="btn btn-outline-danger">解答</a>
+                </div>
+              </div>
+              <div>
+                <i className="bi bi-bar-chart"></i>
+                <div className="button-group">
+                  <a href={`/problems/TOL${year}_Sta_Report.pdf`} className="btn btn-outline-danger">統計資料</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
 
   </main>
   );
