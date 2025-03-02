@@ -43,7 +43,8 @@ export default function PreviousProblems() {
     </section>
 
     {/* <!-- ======= Services Section ======= --> */}
-<section id="services" className="services"> 
+<section id="services" className="services">
+ <div className="container">
   <div className="row">
     <div className="col-md-12 mx-auto">
       <div className="icon-box">
@@ -66,11 +67,11 @@ export default function PreviousProblems() {
         </div> 
       </div> 
     </div> 
-  </div> 
+  </div>
+ </div>
 </section>
 
       {/* <!-- Repeat for other years --> */}
-      <div className="container">
         <div className="row">
           <div className="col-md-12 mx-auto">
             <div className="icon-box">
