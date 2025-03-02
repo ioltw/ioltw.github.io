@@ -97,7 +97,6 @@ export default function PreviousProblems() {
       </div>
     ))}
   </div>
-</section>
     
     {/* <!-- 2022 - 2016 --> */}
   {[2022, 2021, 2020, 2019, 2018, 2017, 2016].map((year) => (
