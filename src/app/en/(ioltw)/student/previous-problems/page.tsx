@@ -45,6 +45,24 @@ export default function PreviousProblems() {
     {/* <!-- ======= Services Section ======= --> */}
     <section id="services" className="services">
       <div className="container">
+        {/* <!-- Repeat for 2025 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2025 National Team Trial - Round 1</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2025_1st_round_zh.pdf" className="btn btn-outline-danger">Problems (Traditional Chinese)</a>
+                    <a href="/problems/TOL2025_1st_round_en.pdf" className="btn btn-outline-danger">Problems (English)</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2024 --> */}
         <div className="row">
           <div className="col-md-12 mx-auto">
             <div className="icon-box">
@@ -74,7 +92,7 @@ export default function PreviousProblems() {
             </div>
           </div>
         </div>
-        {/* <!-- Repeat for other years --> */}
+        {/* <!-- Repeat for 2023 --> */}
         <div className="row">
           <div className="col-md-12 mx-auto">
             <div className="icon-box">

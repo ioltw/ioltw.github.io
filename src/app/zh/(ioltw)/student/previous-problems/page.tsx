@@ -43,93 +43,267 @@ export default function PreviousProblems() {
     </section>
 
     {/* <!-- ======= Services Section ======= --> */}
-{/* <!-- ======= Services Section ======= --> */}
-<section id="services" className="services">
-  <div className="container">
-    {/* <!-- 2025 --> */}
-    <div className="row">
-      <div className="col-md-12 mx-auto">
-        <div className="icon-box">
-          <h4>2025 全國初選</h4>
-          <div className="icon-row">
-            <div>
-              <i className="bi bi-card-text"></i>
-              <div className="button-group">
-                <a href="/problems/TOL2025_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
-                <a href="/problems/TOL2025_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+    <section id="services" className="services">
+      <div className="container">
+        {/* <!-- Repeat for 2025 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2025 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2025_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2025_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2024 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2024 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2024_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2024_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2024_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
+                    <a href="/problems/TOL2024_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2024_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2023 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2023 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2023_1st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2023_1st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2023_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
+                    <a href="/problems/TOL2023_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2023_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2022 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2022 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2022_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                    <a href="/problems/TOL2022_1st_round_revised.pdf" className="btn btn-outline-danger">題目(修訂版)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2022_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2022_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2021 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2021 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2021_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2021_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2021_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2020 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2020 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2020_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2020_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2020_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2019 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2019 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2019_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2019_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2019_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2018 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2018 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2018_1st_round.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2018_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/zh/3years_w.html" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2017 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2017 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2017_problemset.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {/* <!-- Repeat for 2016 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2016 全國初選</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2016_problemset.pdf" className="btn btn-outline-danger">題目</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2016_solutions.pdf" className="btn btn-outline-danger">解答</a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
 
-    {/* <!-- 2024 - 2023 --> */}
-    {[2024, 2023].map((year) => (
-      <div className="row" key={year}>
-        <div className="col-md-12 mx-auto">
-          <div className="icon-box">
-            <h4>{year} 全國初選</h4>
-            <div className="icon-row">
-              <div>
-                <i className="bi bi-card-text"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_1st_round_zh.pdf`} className="btn btn-outline-danger">題目</a>
-                  <a href={`/problems/TOL${year}_1st_round_en.pdf`} className="btn btn-outline-danger">Problem(English)</a>
-                </div>
-              </div>
-              <div>
-                <i className="bi bi-card-checklist"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_solutions_zh.pdf`} className="btn btn-outline-danger">解答</a>
-                  <a href={`/problems/TOL${year}_solutions_en.pdf`} className="btn btn-outline-danger">Solution(English)</a>
-                </div>
-              </div>
-              <div>
-                <i className="bi bi-bar-chart"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_Sta_Report.pdf`} className="btn btn-outline-danger">統計資料</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    ))}
-  </div>
-    
-    {/* <!-- 2022 - 2016 --> */}
-  {[2022, 2021, 2020, 2019, 2018, 2017, 2016].map((year) => (
-      <div className="row" key={year}>
-        <div className="col-md-12 mx-auto">
-          <div className="icon-box">
-            <h4>{year} 全國初選</h4>
-            <div className="icon-row">
-              <div>
-                <i className="bi bi-card-text"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_1st_round_zh.pdf`} className="btn btn-outline-danger">題目</a>
-                </div>
-              </div>
-              <div>
-                <i className="bi bi-card-checklist"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_solutions_zh.pdf`} className="btn btn-outline-danger">解答</a>
-                </div>
-              </div>
-              <div>
-                <i className="bi bi-bar-chart"></i>
-                <div className="button-group">
-                  <a href={`/problems/TOL${year}_Sta_Report.pdf`} className="btn btn-outline-danger">統計資料</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    ))}
-  </div>
-</section>
 
   </main>
   );
