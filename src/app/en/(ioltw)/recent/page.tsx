@@ -32,6 +32,86 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+  <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2025/03/14 Taiwan National Team Preliminary Results & Answer Key Released</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      The results and answer key for the National Preliminary Competition are out!
+      <br />
+      The official list of qualified and waitlisted candidates for the first-round national team selection can be found in the announcement.
+      <br />
+      You can also check the English and Chinese answer keys and competition statistics via the links below.
+      <br />
+      This year, 165 participants took the exam, with 17 candidates (top 10%) qualifying as official first-round national team members and 8 candidates (top 15%) placed on the waitlist.
+      <br />
+      For more information, please visit the Taiwan Linguistics Olympiad Facebook page. <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+    </p>
+    <p>
+      ★ Individual scores will be available for inquiry via the Taiwan Linguistics Olympiad registration system from 12 PM on March 16. Thank you for your patience.
+      <br />
+      ★ If any officially selected first-round national team member is unable to participate in APLO (Asia-Pacific Linguistics Olympiad), waitlisted candidates will be notified for substitution in order of ranking.
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2025初選國手正取.jpg" target="_blank"><img src="/img/recent_attachments/2025初選國手正取.jpg" alt="2025初選國手正取" title="2025初選國手正取" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2025初選國手備取.jpg" target="_blank"><img src="/img/recent_attachments/2025初選國手備取.jpg" alt="2025初選國手備取" title="2025初選國手備取" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
+	<div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2025/02/07 Registration Open for Taiwan Linguistics Olympiad National Team Preliminary Selection!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Please register through <a href="https://reg.ioltw.org">【全國初選報名系統】</a>
+      <br />
+      The event will take place on Sunday, March 2, 2025, with a registration fee of NT$1000.
+      <br />
+      A cash subsidy of NT$500 will be refunded on the competition day for students from central, southern, eastern, and outlying island regions. However, the full amount must be paid at the time of registration.
+      <br />
+      Registration fees are non-refundable except in cases of force majeure, such as earthquakes or typhoons.
+      <br />
+      For more information, please visit the Taiwan Linguistics Olympiad Facebook page. <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2025臺灣語言學奧林匹亞 (1)_page-0001.jpg" target="_blank">
+       <img src="/img/recent_attachments/2025臺灣語言學奧林匹亞 (1)_page-0001.jpg"  alt="國際語奧台灣代表隊初選" title="國際語奧台灣代表隊初選" style={{ width: "60%" }} />
+      </a>
+    </p>
+  </div>
+</div>
+		      
+	<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2025/01/15 Taiwan Linguistics Olympiad Linguistic Puzzle Camp Opens!</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+            The Linguistic Puzzle Camp will be held from February 5 to February 7 at the NTU College of Liberal Arts Lecture Hall. Registration is open from January 15 to January 21. Please refer to the registration system for details. Spots are limited, so sign up as soon as possible!
+        	    </p>
+            <p>
+            🔔Reminder: Students who have registered in previous years must register again. Due to the large number of participants each year, past records are cleared annually.
+            </p>
+        	    <p>
+        	    <b>Registration link:</b><a href="https://reg.ioltw.org" target="_blank" rel="noopener noreferrer">https://reg.ioltw.org</a>
+        	    </p>
+        	    <p>
+            <a href="/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" target="_blank"><img src="/img/recent_attachments/91a809f9-ad5f-45c4-8cd5-17f8aaf0e622.jpg" alt="台灣語奧解題營" title="台灣語奧解題營" style={{width: "60%"}}/></a>
+            </p>
+            <p>
+            <a href="/img/recent_attachments/c2def618-ffb7-47df-b3da-2670a8b829db.jpg" target="_blank"><img src="/img/recent_attachments/c2def618-ffb7-47df-b3da-2670a8b829db.jpg" alt="台灣語奧解題營時程表" title="台灣語奧解題營時程表" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
