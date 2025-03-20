@@ -35,11 +35,11 @@ export default function Recent() {
   <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
-    <h4><b>2025/03/14 Taiwan National Team Preliminary Results & Answer Key Released</b></h4>
+    <h4><b>2025/03/14 Taiwan National Team First-round Trial Results & Answer Key Released</b></h4>
   </div>
   <div className="col-lg-7">
     <p>
-      The results and answer key for the National Preliminary Competition are out!
+      The results and answer key for the National Team First-round Trial are out!
       <br />
       The official list of qualified and waitlisted candidates for the first-round national team selection can be found in the announcement.
       <br />
@@ -66,7 +66,7 @@ export default function Recent() {
 	<div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
-    <h4><b>2025/02/07 Registration Open for Taiwan Linguistics Olympiad National Team Preliminary Selection!</b></h4>
+    <h4><b>2025/02/07 Registration Open for Taiwan National Team First-round Trial!</b></h4>
   </div>
   <div className="col-lg-7">
     <p>
