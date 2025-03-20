@@ -32,6 +32,37 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+    <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2025/03/14 台灣國手選拔初賽結果 & 解答公布</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      全國初選競賽結果與解答出爐！
+      <br />
+      本次一階國手之正取、備取名單請參見圖示。
+      <br />
+      中、英文試題解答與競賽結果統計歡迎參考下列連結。
+      <br />
+      本屆競賽實際應考人數 165 人，錄取 17 名 (應考人數前 10%) 為正取一階國手，8 名 (應考人數前 15%) 為備取。
+      <br />
+      更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+    </p>
+    <p>
+      ★ 個人成績可於 3/16 12 pm 後於台灣語奧報名系統查詢，敬請耐心等候，謝謝配合。
+      <br />
+      ★ 如正取一階國手無法參加決賽（APLO 亞太語奧），將通知備取依序遞補。
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2025初選國手正取.jpg" target="_blank"><img src="/img/recent_attachments/2025初選國手正取.jpg" alt="2025初選國手正取" title="2025初選國手正取" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2025初選國手備取.jpg" target="_blank"><img src="/img/recent_attachments/2025初選國手備取.jpg" alt="2025初選國手備取" title="2025初選國手備取" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
 	<div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
