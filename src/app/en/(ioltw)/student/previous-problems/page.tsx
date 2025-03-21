@@ -58,6 +58,19 @@ export default function PreviousProblems() {
                     <a href="/problems/TOL2025_1st_round_en.pdf" className="btn btn-outline-danger">Problems (English)</a>
                   </div>
                 </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2025_solutions_zh.pdf" className="btn btn-outline-danger">Solutions (Traditional Chinese)</a>
+                    <a href="/problems/TOL2025_solutions_en.pdf" className="btn btn-outline-danger">Solutions (English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2025_Sta_Report.pdf" className="btn btn-outline-danger">Statistical Data</a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
