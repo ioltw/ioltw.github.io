@@ -73,6 +73,9 @@ export default function LearningResources() {
                     <h6>以下為歷屆參賽者與國手的經驗分享、參賽心得與相關資源：</h6>
                     <ul>
                         <li>
+                            <a href="/pdf/exp_4.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語奧解題－形態句法題型的語素分析策略</a>
+                        </li>
+                        <li>
                             <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語言學奧林匹亞競賽準備與解題經驗分享</a>
                         </li>
                         <li>
