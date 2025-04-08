@@ -74,6 +74,9 @@ export default function LearningResources() {
                 <h6>Here are experience shares, competition insights, and related resources from past participants and national team members:</h6>
                 <ul>
                   <li>
+                    <a href="/pdf/exp_4.pdf" target="_blank" style={{color: "#2782ce"}}>Cheng-You Ko：Linguistics Olympiad Problem Solving — Morpheme Analysis Strategies for Morphosyntactic Questions</a>
+                  </li>
+                  <li>
                     <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>Cheng-You Ko: Sharing on Preparation and Problem Solving for the Linguistics Olympiad (in Chinese)</a>
                   </li>
                   <li>
