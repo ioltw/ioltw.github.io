@@ -57,7 +57,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          &copy; Taiwan Olympiad in Linguistics, 2024. Last Updated 2025/3/21
+          &copy; Taiwan Olympiad in Linguistics, 2024. Last Updated 2025/4/9
         </div>
         <div className="credits">
           {/* <!-- All the links in the footer should remain intact. -->
