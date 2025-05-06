@@ -41,7 +41,7 @@ export default function Recent() {
             <p>
               恭喜台灣隊獲得 2025 亞太語奧 1 金 3 銀 4 銅， 與新加坡、日本、中國、韓國隊並列第一！<a href="https://aplo.asia/results/aplo-2025-results/">【亞太語奧官方成績】</a>
               <br/>
-              <a href="/img/recent_attachments/2025aplolist.jpg" target="_blank"><img src="/img/recent_attachments/2025aplolist.jpg" alt="APLO2024_results" title="2025aplolist" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/APLO2025_results.jpg" target="_blank"><img src="/img/recent_attachments/APLO2025_results.jpg" alt="APLO2024_results" title="APLO2025_results" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
