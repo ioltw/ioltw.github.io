@@ -32,6 +32,20 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2024/05/04　國際語奧 IOL2025 臺灣代表隊【國手錄取名單】</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              恭喜台灣隊獲得 2025 亞太語奧 1 金 3 銀 4 銅， 與新加坡、日本、中國、韓國隊並列第一！<a href="https://aplo.asia/results/aplo-2025-results/">【亞太語奧官方成績】</a>
+              <br/>
+              <a href="/img/recent_attachments/APLO2025_results.jpg" target="_blank"><img src="/img/recent_attachments/APLO2025_results.jpg" alt="APLO2024_results" title="APLO2025_results" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+	      
     <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>

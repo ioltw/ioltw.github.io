@@ -32,6 +32,20 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2024/05/04　Taiwan Team Selected for IOL 2025 【National Team Selection List】</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+            Congratulations to the Taiwan team for winning 1 gold, 3 silver, and 4 bronze medals at the 2025 Asia Pacific Linguistics Olympiad (APLO), tying for first place with teams from Singapore, Japan, China and South Korea!<a href="https://aplo.asia/results/aplo-2025-results/">【Official APLO Results】</a> 
+              <br/>
+              <a href="/img/recent_attachments/APLO2025_results.jpg" target="_blank"><img src="/img/recent_attachments/APLO2025_results.jpg" alt="APLO2024_results" title="APLO2025_results" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
   <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
