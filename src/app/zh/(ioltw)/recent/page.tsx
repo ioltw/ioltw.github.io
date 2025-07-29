@@ -32,29 +32,6 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
-	 <div className="row faq-item d-flex align-items-stretch">
-	  <div className="col-lg-5">
-	    <i className='bx bxs-pin'></i>
-	    <h4>
-	      <b>2025/07/29　IOL 2025 國際語奧台灣隊獲個人賽二銀五銅一佳作、團體賽一金一銀佳績！</b>
-	    </h4>
-	  </div>
-	  <div className="col-lg-7">
-	    <p>
-	      {"\u{1F389}\u{1F389}\u{1F389}"}狂賀！狂賀！{"\u{1F389}\u{1F389}\u{1F389}"}<br/>
-	      地主隊榮耀全開、大放異彩！<br/><br/>
-	      {"\u{2728}"}我國八位國手全數榮獲個人賽與團體賽獎項，是今年獎牌數最多的國家，寫下歷史新紀錄！<br/>
-	      {"\u{1F3C6}"}團體賽兩支代表隊更是雙雙勇奪金牌與銀牌，成為本屆國際語言學奧林匹亞最大贏家！<br/><br/>
-	      全場最耀眼的焦點，非台灣隊莫屬！為台灣喝采！{"\u{1F1F9}\u{1F1FC}\u{1F525}"}<br/><br/>
-	      新聞報導：<br/>
-	      <a href="https://news.ltn.com.tw/news/life/paper/1717714" target="_blank" rel="noopener noreferrer">【自由】語言學奧賽 我獲10獎牌史上最佳</a><br/>
-	      <a href="https://news.ltn.com.tw/news/life/breakingnews/5122168" target="_blank" rel="noopener noreferrer">【自由】國際語奧賽傳捷報 台灣代表隊史上最佳奪1金3銀5銅</a><br/>
-	      <a href="https://newtalk.tw/news/view/2025-07-26/984157" target="_blank" rel="noopener noreferrer">【Newtalk】台灣代表隊勇奪10獎橫掃語言學奧林匹亞！史上最佳成績、團體賽包辦金銀牌</a><br/>
-	      <a href="https://udn.com/news/story/6898/8898723" target="_blank" rel="noopener noreferrer">【聯合】語言學奧林匹亞 我小將團體賽「金包銀」創史上最佳紀錄</a>
-	    </p>
-	  </div>
-	</div>
-
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
