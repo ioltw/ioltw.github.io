@@ -912,9 +912,19 @@ export default function PreviousResults() {
                                     </thead>
                                     <tbody>
                                         <tr style={{backgroundColor: "#FFFB9B", height: "30px"}}>
+                                            <td>2025</td>
+                                            <td>Gold</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#FFFB9B", height: "30px"}}>
                                             <td>2017</td>
                                             <td>Gold</td>
                                             <td>TaiTWO</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEEEEE", height: "30px"}}>
+                                            <td>2025</td>
+                                            <td>Silver</td>
+                                            <td>Taiwan Black Bear</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEEEEE", height: "30px"}}>
                                             <td>2022</td>
