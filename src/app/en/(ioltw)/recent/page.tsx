@@ -40,13 +40,13 @@ export default function Recent() {
           <div className="col-lg-7">
             <p>
 
-		\u{1F389}\u{1F389}\u{1F389} Congratulations! Congratulations! \u{1F389}\u{1F389}\u{1F389}
+		🎉🎉🎉 Congratulations! Congratulations! 🎉🎉🎉
 		The home team shone brilliantly and dazzled everyone!
 
-		\u{2728} All eight of our national contestants won individual and team awards, making us the country with the highest number of medals this year — setting a new historic record!
-		\u{1F3C6} Our teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year’s International Linguistics Olympiad!
+		✨ All eight of our national contestants won individual and team awards, making us the country with the highest number of medals this year — setting a new historic record!
+		🏆 Our teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year’s International Linguistics Olympiad!
 
-		The brightest spotlight of the entire event was on Team Taiwan! Let’s cheer for Taiwan! \u{1F1F9}\u{1F1FC}\u{1F525}
+		The brightest spotlight of the entire event was on Team Taiwan! Let’s cheer for Taiwan! 🇹🇼🔥
 
 		News reports:<br/>
               <a href="https://news.ltn.com.tw/news/life/paper/1717714">【自由】語言學奧賽 我獲10獎牌史上最佳</a><br/>
