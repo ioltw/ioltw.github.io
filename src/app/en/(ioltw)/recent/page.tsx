@@ -44,8 +44,8 @@ export default function Recent() {
 	      {"\u{1F389}\u{1F389}\u{1F389}"} Congratulations! Congratulations! {"\u{1F389}\u{1F389}\u{1F389}"}<br/>
 	      The home team shone brilliantly and dazzled everyone!<br/><br/>
 	      {"\u{2728}"} All eight of our national contestants won individual and team awards, making us the country with the highest number of medals this year — setting a new historic record!<br/>
-	      {"\u{1F3C6}"} Our two teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year’s International Linguistics Olympiad!<br/><br/>
-	      The brightest spotlight of the entire event was on Team Taiwan! Let’s cheer for Taiwan! {"\u{1F1F9}\u{1F1FC}\u{1F525}"}<br/><br/>
+	      {"\u{1F3C6}"} Our two teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year's International Linguistics Olympiad!<br/><br/>
+	      The brightest spotlight of the entire event was on Team Taiwan! Let's cheer for Taiwan! {"\u{1F1F9}\u{1F1FC}\u{1F525}"}<br/><br/>
 	      News reports:<br/>
 	      <a href="https://news.ltn.com.tw/news/life/paper/1717714" target="_blank" rel="noopener noreferrer">【自由】語言學奧賽 我獲10獎牌史上最佳</a><br/>
 	      <a href="https://news.ltn.com.tw/news/life/breakingnews/5122168" target="_blank" rel="noopener noreferrer">【自由】國際語奧賽傳捷報 台灣代表隊史上最佳奪1金3銀5銅</a><br/>
