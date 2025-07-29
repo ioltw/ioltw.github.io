@@ -32,31 +32,29 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
-        <div className="row faq-item d-flex align-items-stretch">
-          <div className="col-lg-5">
-            <i className='bx bxs-pin'></i>
-            <h4><b>2025/07/29　Taiwan Team Wins 2 silver medals, 5 bronze medals, and 1 honorable mention in Individual Competition, 1 gold and 1 silver medal in Team Competition at IOL 2025!</b></h4>
-          </div>
-          <div className="col-lg-7">
-            <p>
-
-		🎉🎉🎉 Congratulations! Congratulations! 🎉🎉🎉
-		The home team shone brilliantly and dazzled everyone!
-
-		✨ All eight of our national contestants won individual and team awards, making us the country with the highest number of medals this year — setting a new historic record!
-		🏆 Our teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year’s International Linguistics Olympiad!
-
-		The brightest spotlight of the entire event was on Team Taiwan! Let’s cheer for Taiwan! 🇹🇼🔥
-
-		News reports:<br/>
-              <a href="https://news.ltn.com.tw/news/life/paper/1717714">【自由】語言學奧賽 我獲10獎牌史上最佳</a><br/>
-	      <a href="https://news.ltn.com.tw/news/life/breakingnews/5122168">【自由】國際語奧賽傳捷報 台灣代表隊史上最佳奪1金3銀5銅</a><br/>
-	      <a href="https://newtalk.tw/news/view/2025-07-26/984157">【Newtalk】台灣代表隊勇奪10獎橫掃語言學奧林匹亞！史上最佳成績、團體賽包辦金銀牌</a><br/>
-              <a href="https://udn.com/news/story/6898/8898723">【聯合】語言學奧林匹亞 我小將團體賽「金包銀」創史上最佳紀錄</a>
-            </p>
-          </div>
-        </div>
-
+	 <div className="row faq-item d-flex align-items-stretch">
+	  <div className="col-lg-5">
+	    <i className='bx bxs-pin'></i>
+	    <h4>
+	      <b>2025/07/29　Taiwan Team Wins 2 silver medals, 5 bronze medals, and 1 honorable mention in Individual Competition, 1 gold and 1 silver medal in Team Competition at IOL 2025!</b>
+	    </h4>
+	  </div>
+	  <div className="col-lg-7">
+	    <p>
+	      {"\u{1F389}\u{1F389}\u{1F389}"} Congratulations! Congratulations! {"\u{1F389}\u{1F389}\u{1F389}"}<br/>
+	      The home team shone brilliantly and dazzled everyone!<br/><br/>
+	      {"\u{2728}"} All eight of our national contestants won individual and team awards, making us the country with the highest number of medals this year — setting a new historic record!<br/>
+	      {"\u{1F3C6}"} Our two teams in the team competition respectively claimed gold and silver medal, making us the biggest winner at this year’s International Linguistics Olympiad!<br/><br/>
+	      The brightest spotlight of the entire event was on Team Taiwan! Let’s cheer for Taiwan! {"\u{1F1F9}\u{1F1FC}\u{1F525}"}<br/><br/>
+	      News reports:<br/>
+	      <a href="https://news.ltn.com.tw/news/life/paper/1717714" target="_blank" rel="noopener noreferrer">【自由】語言學奧賽 我獲10獎牌史上最佳</a><br/>
+	      <a href="https://news.ltn.com.tw/news/life/breakingnews/5122168" target="_blank" rel="noopener noreferrer">【自由】國際語奧賽傳捷報 台灣代表隊史上最佳奪1金3銀5銅</a><br/>
+	      <a href="https://newtalk.tw/news/view/2025-07-26/984157" target="_blank" rel="noopener noreferrer">【Newtalk】台灣代表隊勇奪10獎橫掃語言學奧林匹亞！史上最佳成績、團體賽包辦金銀牌</a><br/>
+	      <a href="https://udn.com/news/story/6898/8898723" target="_blank" rel="noopener noreferrer">【聯合】語言學奧林匹亞 我小將團體賽「金包銀」創史上最佳紀錄</a>
+	    </p>
+	  </div>
+	</div>
+	
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
