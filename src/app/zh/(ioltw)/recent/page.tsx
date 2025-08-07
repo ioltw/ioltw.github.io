@@ -32,6 +32,19 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+    <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2025/08/07　第四屆臺灣中學生語言科學科展 開始報名！</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              有興趣做語言學／語言科學的探索嗎？快來報名科展把你的發現分享給大家！<br/>
+							歡迎點選：<a href="https://sites.google.com/view/scifair-2025/%E9%A6%96%E9%A0%81">【第四屆科展網站】</a>
+            </p>
+          </div>
+        </div>
+	      
         <div className="row faq-item d-flex align-items-stretch">
 	  <div className="col-lg-5">
 	    <i className='bx bxs-pin'></i>
