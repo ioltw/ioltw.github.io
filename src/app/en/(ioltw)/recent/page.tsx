@@ -32,6 +32,19 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2025/08/07　Registration Open for the Fourth Taiwan High School Language Science Fair!</b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+            Interested in exploring linguistics and language science? Sign up for the science fair and share your discoveries with everyone!<br/>
+            Click here:<a href="https://sites.google.com/view/scifair-2025/%E9%A6%96%E9%A0%81">【Fourth Science Fair Website】</a>
+            </p>
+          </div>
+        </div>
+	      
 	 <div className="row faq-item d-flex align-items-stretch">
 	  <div className="col-lg-5">
 	    <i className='bx bxs-pin'></i>
