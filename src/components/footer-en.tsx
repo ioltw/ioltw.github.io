@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="col-lg-3 col-md-6 footer-links">
             <h4>Links</h4>
             <ul>
-            <li><i className="bx bx-chevron-right"></i> <a href="https://ioltw.github.io/scifair-2024/">The 3rd High School Language Science Fair in Taiwan (2024)</a></li>
+            <li><i className="bx bx-chevron-right"></i> <a href="https://sites.google.com/view/scifair-2025/%E9%A6%96%E9%A0%81">The 4th High School Language Science Fair in Taiwan (2025)</a></li>
             <li><i className="bx bx-chevron-right"></i> <a href="https://ioling.org/">International Linguistics Olympiad</a></li>
             <li><i className="bx bx-chevron-right"></i> <a href="https://aplo.asia/">Asia Pacific Linguistics Olympiad</a></li>
             </ul>
