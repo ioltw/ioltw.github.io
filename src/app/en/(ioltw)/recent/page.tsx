@@ -49,7 +49,7 @@ export default function Recent() {
       <br />
       For more information, please visit the Taiwan Linguistics Olympiad Facebook page. FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
 	  <br />
-      {"\u{1F4DC}"}[Award Winners] as shown in the image
+      {"\u{1F4DC}"}【Award Winners】 as shown in the image
     </p>
     <p>
       <a href="/img/recent_attachments/scifair2025list1.png" target="_blank"><img src="/img/recent_attachments/scifair2025list1.png" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
