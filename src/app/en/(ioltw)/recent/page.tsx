@@ -32,6 +32,34 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+    <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2025/10/28 Announcement of Results for the Fourth Taiwan High School Language Science Fair!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      {"\u{1F389}"}The Fourth Taiwan High School Language Science Fair successfully concluded last Saturday (10/25)!
+      <br />
+      This year’s competition was especially intense, with outstanding participants from all over Taiwan presenting impressive research and creative ideas across various fields of linguistics. The judges noted that many projects demonstrated a level of maturity in research methods, data analysis, and presentation skills that exceeded typical middle school standards, leaving a strong impression.
+      <br />
+      We sincerely thank all participants for their hard work in preparation, as well as the parents, teachers, and guests who attended in person, making this event even more fulfilling for language enthusiasts!
+      <br />
+	  Congratulations to all award-winning participants, and we welcome everyone to continue following and supporting the Taiwan Linguistics Olympiad!
+      <br />
+      For more information, please visit the Taiwan Linguistics Olympiad Facebook page. FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+	  <br />
+      {"\u{1F4DC}"}[Award Winners] as shown in the image
+    </p>
+    <p>
+      <a href="/img/recent_attachments/scifair2025list1.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list1.jpg" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/scifair2025list2.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list2.jpg" alt="scifair2025list2" title="scifair2025list2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+		  
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
