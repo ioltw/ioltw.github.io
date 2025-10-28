@@ -52,10 +52,10 @@ export default function Recent() {
       {"\u{1F4DC}"}【得獎名單】如圖
     </p>
     <p>
-      <a href="/img/recent_attachments/scifair2025list1.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list1.jpg" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
+      <a href="/img/recent_attachments/scifair2025list1.png" target="_blank"><img src="/img/recent_attachments/scifair2025list1.png" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
     </p>
     <p>
-      <a href="/img/recent_attachments/scifair2025list2.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list2.jpg" alt="scifair2025list2" title="scifair2025list2" style={{width: "60%"}}/></a>
+      <a href="/img/recent_attachments/scifair2025list2.png" target="_blank"><img src="/img/recent_attachments/scifair2025list2.png" alt="scifair2025list2" title="scifair2025list2" style={{width: "60%"}}/></a>
     </p>
   </div>
 </div>
