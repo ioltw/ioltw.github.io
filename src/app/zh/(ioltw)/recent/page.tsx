@@ -32,6 +32,36 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+    <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2025/10/28 第四屆台灣中學生語言科學科展 結果公告! </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      {"\u{1F389}"}第四屆台灣中學生語言科學科展已於上週六（10/25）圓滿落幕！
+      <br />
+      本屆科展競爭格外激烈，來自全台各地的優秀選手帶來精彩的研究與創意發想，涵蓋語言學中的各式各樣的領域。
+      <br />
+      評審老師表示，許多作品在研究方法、資料分析與展示表達上都展現了超越中學生水準的成熟度，令人印象深刻。
+      <br />
+      感謝所有選手在準備過程中的努力，也誠摯感謝蒞臨現場的家長、老師等來賓，讓這場屬於語言愛好者的盛會更加圓滿！
+      <br />
+	  恭喜所有得獎的參賽者，也歡迎大家持續關注與支持台灣語奧！
+      <br />
+      更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+	  <br />
+      {"\u{1F4DC}"}【得獎名單】如圖
+    </p>
+    <p>
+      <a href="/img/recent_attachments/scifair2025list1.jpg" target="_blank"><img src="/img/recent_attachments/cifair2025list1.jpg" alt="cifair2025list1" title="cifair2025list1" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/cifair2025list2.jpg" target="_blank"><img src="/img/recent_attachments/cifair2025list2.jpg" alt="cifair2025list2" title="cifair2025list2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+		  
     <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
