@@ -41,7 +41,7 @@ export default function Recent() {
     <p>
       {"\u{1F389}"}The Fourth Taiwan High School Language Science Fair successfully concluded last Saturday (10/25)!
       <br />
-      This year’s competition was especially intense, with outstanding participants from all over Taiwan presenting impressive research and creative ideas across various fields of linguistics. The judges noted that many projects demonstrated a level of maturity in research methods, data analysis, and presentation skills that exceeded typical middle school standards, leaving a strong impression.
+      This year's competition was especially intense, with outstanding participants from all over Taiwan presenting impressive research and creative ideas across various fields of linguistics. The judges noted that many projects demonstrated a level of maturity in research methods, data analysis, and presentation skills that exceeded typical middle school standards, leaving a strong impression.
       <br />
       We sincerely thank all participants for their hard work in preparation, as well as the parents, teachers, and guests who attended in person, making this event even more fulfilling for language enthusiasts!
       <br />
@@ -52,10 +52,10 @@ export default function Recent() {
       {"\u{1F4DC}"}[Award Winners] as shown in the image
     </p>
     <p>
-      <a href="/img/recent_attachments/scifair2025list1.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list1.jpg" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
+      <a href="/img/recent_attachments/scifair2025list1.png" target="_blank"><img src="/img/recent_attachments/scifair2025list1.png" alt="scifair2025list1" title="scifair2025list1" style={{width: "60%"}}/></a>
     </p>
     <p>
-      <a href="/img/recent_attachments/scifair2025list2.jpg" target="_blank"><img src="/img/recent_attachments/scifair2025list2.jpg" alt="scifair2025list2" title="scifair2025list2" style={{width: "60%"}}/></a>
+      <a href="/img/recent_attachments/scifair2025list2.png" target="_blank"><img src="/img/recent_attachments/scifair2025list2.png" alt="scifair2025list2" title="scifair2025list2" style={{width: "60%"}}/></a>
     </p>
   </div>
 </div>
