@@ -32,6 +32,20 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+	        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2025/10/31　2025 Taiwan Linguistics Olympiad Information Session — Registration Now Open! </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              All high school students and parents interested in learning more about the Linguistics Olympiad are welcome to sign up for free using the form below. <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【Information Session Registration Form】</a>
+              <br/>
+              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+		  
     <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
@@ -99,7 +113,7 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/05/04　Taiwan Team Selected for IOL 2025 【National Team Selection List】</b></h4>
+            <h4><b>2025/05/04　Taiwan Team Selected for IOL 2025 【National Team Selection List】</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
