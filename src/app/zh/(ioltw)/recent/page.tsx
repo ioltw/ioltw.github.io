@@ -32,6 +32,20 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+	        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2025/10/31　2025 台灣語言學奧林匹亞推廣說明會 開放報名中！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              歡迎各位有興趣了解語言學奧林匹亞的中學生與家長，填寫以下表單免費報名！<a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【推廣說明會報名表單】</a>
+              <br/>
+              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
     <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
@@ -100,7 +114,7 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2024/05/04　國際語奧 IOL2025 臺灣代表隊【國手錄取名單】</b></h4>
+            <h4><b>2025/05/04　國際語奧 IOL2025 臺灣代表隊【國手錄取名單】</b></h4>
           </div>
           <div className="col-lg-7">
             <p>
