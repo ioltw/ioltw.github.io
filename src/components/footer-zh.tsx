@@ -57,7 +57,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          &copy; 台灣語言學奧林匹亞競賽, 2024. 最近更新日期：2025/10/28
+          &copy; 台灣語言學奧林匹亞競賽, 2024. 最近更新日期：2025/11/1
         </div>
         <div className="credits">
           {/* <!-- All the links in the footer should remain intact. -->
