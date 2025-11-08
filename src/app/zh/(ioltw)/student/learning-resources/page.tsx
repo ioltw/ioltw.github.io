@@ -76,13 +76,13 @@ export default function LearningResources() {
                             <a href="/pdf/exp_4.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語奧解題－形態句法題型的語素分析策略</a>
                         </li>
                         <li>
-                            <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語言學奧林匹亞競賽準備與解題經驗分享</a>
+                            <a href="/pdf/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>柯承佑：語言學奧林匹亞競賽準備與解題經驗分享</a>
                         </li>
                         <li>
-                            <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu: How to Engage Linguistics Olympiad?</a>
+                            <a href="/pdf/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu: How to Engage Linguistics Olympiad?</a>
                         </li>
                         <li>
-                            <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_3.pdf" target="_blank" style={{color: "#2782ce"}}>馬靖超：國手經驗談：語奧簡介與入門指南</a>
+                            <a href="/pdf/exp_3.pdf" target="_blank" style={{color: "#2782ce"}}>馬靖超：國手經驗談：語奧簡介與入門指南</a>
                         </li>
                     </ul>
                 </div>
