@@ -77,13 +77,13 @@ export default function LearningResources() {
                     <a href="/pdf/exp_4.pdf" target="_blank" style={{color: "#2782ce"}}>Cheng-You Ko：Linguistics Olympiad Problem Solving — Morpheme Analysis Strategies for Morphosyntactic Questions</a>
                   </li>
                   <li>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>Cheng-You Ko: Sharing on Preparation and Problem Solving for the Linguistics Olympiad (in Chinese)</a>
+                    <a href="/pdf/exp_1.pdf" target="_blank" style={{color: "#2782ce"}}>Cheng-You Ko: Sharing on Preparation and Problem Solving for the Linguistics Olympiad (in Chinese)</a>
                   </li>
                   <li>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu: How to Engage Linguistics Olympiad? (in English)</a>
+                    <a href="/pdf/exp_2.pdf" target="_blank" style={{color: "#2782ce"}}>Eric Wu: How to Engage Linguistics Olympiad? (in English)</a>
                   </li>
                   <li>
-                    <a href="https://lope.linguistics.ntu.edu.tw/ioltw/exp/exp_3.pdf" target="_blank" style={{color: "#2782ce"}}>Ching Chao Ma: National Team Experience: Introduction to the Linguistics Olympiad and a Beginner's Guide (in Chinese)</a>
+                    <a href="/pdf/exp_3.pdf" target="_blank" style={{color: "#2782ce"}}>Ching Chao Ma: National Team Experience: Introduction to the Linguistics Olympiad and a Beginner's Guide (in Chinese)</a>
                   </li>
                 </ul>
               </div>
