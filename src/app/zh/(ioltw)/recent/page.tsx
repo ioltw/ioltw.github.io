@@ -32,6 +32,60 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/1/9　✨ 國際語奧臺灣代表隊選拔初賽＆臺灣語奧邏輯訓練營 正式開放報名！✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              想一探語言學的奧妙，並挑戰國際語言學奧林匹亞嗎？千萬別錯過以下的活動！</a>
+              <br/>
+			  📚 臺灣語奧邏輯訓練營</a>
+              <br/>
+			  活動時間：2/6（五）– 2/8（日）  9:10-16:20</a>
+			  <br/>
+			  活動地點：國立臺灣大學</a>
+			  <br/>
+			  活動內容：由語言學專家與歷屆國手親自指導，帶領學員認識語言學多元領域，學習系統化的解題技巧，累積扎實實力，收穫滿滿！</a>
+			  <br/>
+			  🏆 國際語奧臺灣代表隊選拔初賽</a>
+			  <br/>
+			  活動時間：2/27（五） 13:30-16:00</a>
+			  <br/>
+			  考場地點：</a>
+			  <br/>
+			  北部｜國立臺灣大學</a>
+	  		  <br/>
+			  中部｜逢甲大學</a>
+	  		  <br/>
+			  南部｜國立中山大學</a>
+			  <br/>
+			  ➜ 中南部考生也能就近應試，更加便利！</a>
+	  		  <br/>
+			  <a href="https://drive.google.com/file/d/1COD1n9Cxz48qlp2MzxLLVAFzdps9rkKF/view?usp=drive_link">【選拔初賽簡章】</a>
+	  		  <br/>
+			  📝 報名與費用資訊</a>
+	  		  <br/>
+			  解題營報名與繳費期限：1/12 – 1/19｜費用 5000 元</a>
+	          <br/>
+			  初賽報名與繳費期限：1/12 – 2/8｜費用 1200 元</a>
+	          <br/>
+			  兩項活動合報優惠價只要 5500 元！</a>
+	  	      <br/>
+			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
+	          <br/>
+			  ⚠️ 本活動除不可抗力因素外，恕不退費。</a>
+	          <br/>
+			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖</a>
+              <br/>
+              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+			  <br/>
+              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
 	        <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
