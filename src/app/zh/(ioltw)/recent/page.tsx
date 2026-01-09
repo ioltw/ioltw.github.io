@@ -39,49 +39,49 @@ export default function Recent() {
           </div>
           <div className="col-lg-7">
             <p>
-              想一探語言學的奧妙，並挑戰國際語言學奧林匹亞嗎？千萬別錯過以下的活動！</a>
+              想一探語言學的奧妙，並挑戰國際語言學奧林匹亞嗎？千萬別錯過以下的活動！
               <br/>
-			  📚 臺灣語奧邏輯訓練營</a>
+			  📚 臺灣語奧邏輯訓練營
               <br/>
-			  活動時間：2/6（五）– 2/8（日）  9:10-16:20</a>
+			  活動時間：2/6（五）– 2/8（日）  9:10-16:20
 			  <br/>
-			  活動地點：國立臺灣大學</a>
+			  活動地點：國立臺灣大學
 			  <br/>
-			  活動內容：由語言學專家與歷屆國手親自指導，帶領學員認識語言學多元領域，學習系統化的解題技巧，累積扎實實力，收穫滿滿！</a>
+			  活動內容：由語言學專家與歷屆國手親自指導，帶領學員認識語言學多元領域，學習系統化的解題技巧，累積扎實實力，收穫滿滿！
 			  <br/>
-			  🏆 國際語奧臺灣代表隊選拔初賽</a>
+			  🏆 國際語奧臺灣代表隊選拔初賽
 			  <br/>
-			  活動時間：2/27（五） 13:30-16:00</a>
+			  活動時間：2/27（五） 13:30-16:00
 			  <br/>
-			  考場地點：</a>
+			  考場地點：
 			  <br/>
-			  北部｜國立臺灣大學</a>
+			  北部｜國立臺灣大學
 	  		  <br/>
-			  中部｜逢甲大學</a>
+			  中部｜逢甲大學
 	  		  <br/>
-			  南部｜國立中山大學</a>
+			  南部｜國立中山大學
 			  <br/>
-			  ➜ 中南部考生也能就近應試，更加便利！</a>
+			  ➜ 中南部考生也能就近應試，更加便利！
 	  		  <br/>
 			  <a href="https://drive.google.com/file/d/1COD1n9Cxz48qlp2MzxLLVAFzdps9rkKF/view?usp=drive_link">【選拔初賽簡章】</a>
 	  		  <br/>
-			  📝 報名與費用資訊</a>
+			  📝 報名與費用資訊
 	  		  <br/>
-			  解題營報名與繳費期限：1/12 – 1/19｜費用 5000 元</a>
+			  解題營報名與繳費期限：1/12 – 1/19｜費用 5000 元
 	          <br/>
-			  初賽報名與繳費期限：1/12 – 2/8｜費用 1200 元</a>
+			  初賽報名與繳費期限：1/12 – 2/8｜費用 1200 元
 	          <br/>
-			  兩項活動合報優惠價只要 5500 元！</a>
+			  兩項活動合報優惠價只要 5500 元！
 	  	      <br/>
 			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
 	          <br/>
-			  ⚠️ 本活動除不可抗力因素外，恕不退費。</a>
+			  ⚠️ 本活動除不可抗力因素外，恕不退費。
 	          <br/>
-			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖</a>
+			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖
               <br/>
-              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/TOL2026_first1.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first1.png" alt="TOL2026_first1.png" title="TOL2026_first1.png" style={{width: "60%"}}/></a>
 			  <br/>
-              <a href="/img/recent_attachments/2025推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2025推廣說明會.png" alt="2025推廣說明會" title="2025推廣說明會" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/TOL2026_first2.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first2.png" alt="TOL2026_first2.png" title="TOL2026_first2.png" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
