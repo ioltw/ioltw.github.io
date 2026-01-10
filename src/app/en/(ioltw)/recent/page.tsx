@@ -46,7 +46,7 @@ export default function Recent() {
       Interested in exploring the wonders of linguistics and challenging the International Linguistics Olympiad?
       Don’t miss the following exciting events!
       <br />
-
+      <br />
       📚 Taiwan Linguistics Logic Training Camp
       <br />
       Date: Feb 6 (Fri) – Feb 8 (Sun), 9:10–16:20
@@ -55,11 +55,17 @@ export default function Recent() {
       <br />
       Program Description: Led by linguistics experts and former national team members, this camp introduces participants to diverse fields of linguistics, teaches systematic problem-solving strategies, and helps build a solid foundation for competition.
       <br />
-
+	  Meals & Accommodation: Lunch will be provided each day; accommodation is not included.
+      <br />
+      <br />
       🏆 Taiwan Selection Preliminary Round for the International Linguistics Olympiad
       <br />
       Date: Feb 27 (Fri), 13:30–16:00
-      <br />
+	  <br />
+      Eligibility: Open to all junior and senior high school students interested in linguistic logic (see the guidelines for details).
+	  <br />
+      Competition Format Update: This year introduces major changes to the competition format, including a new High School Recommendation Track and an additional Selection Semi-Final Round. Please refer to page 4 of the guidelines for further details.
+	  <br />
       Test Locations:
       <br />
       Northern Taiwan ｜ National Taiwan University
@@ -70,12 +76,12 @@ export default function Recent() {
       <br />
       ➜ Participants from central and southern Taiwan can take the test closer to home for added convenience!
       <br />
-
+      <br />
       <a href="https://drive.google.com/file/d/1COD1n9Cxz48qlp2MzxLLVAFzdps9rkKF/view?usp=drive_link">
         【Preliminary Round Guidelines】
       </a>
       <br />
-
+      <br />
       📝 Registration & Fees
       <br />
       Training Camp registration & payment period: Jan 12 – Jan 19 ｜ Fee: NT$5,000
@@ -84,12 +90,12 @@ export default function Recent() {
       <br />
       Special bundle price for both events: NT$5,500 only!
       <br />
-
+      <br />
       <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">
         【Registration Form】
       </a>
       <br />
-
+      <br />
       ⚠️ No refunds will be issued except in cases of force majeure.
       <br />
       Seats are limited—seize the opportunity to join us on a journey into linguistics and take on the international stage! 🌍📖
