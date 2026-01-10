@@ -41,6 +41,7 @@ export default function Recent() {
             <p>
               想一探語言學的奧妙，並挑戰國際語言學奧林匹亞嗎？千萬別錯過以下的活動！
               <br/>
+			  <br/>
 			  📚 臺灣語奧邏輯訓練營
               <br/>
 			  活動時間：2/6（五）– 2/8（日）  9:10-16:20
@@ -49,9 +50,14 @@ export default function Recent() {
 			  <br/>
 			  活動內容：由語言學專家與歷屆國手親自指導，帶領學員認識語言學多元領域，學習系統化的解題技巧，累積扎實實力，收穫滿滿！
 			  <br/>
+			  活動食宿：每日皆提供午餐，但無提供住宿
+			  <br/>
+			  <br/>
 			  🏆 國際語奧臺灣代表隊選拔初賽
 			  <br/>
 			  活動時間：2/27（五） 13:30-16:00
+			  <br/>
+			  參賽資格：所有對語言邏輯有興趣的國高中生（詳見簡章）
 			  <br/>
 			  考場地點：
 			  <br/>
@@ -63,8 +69,10 @@ export default function Recent() {
 			  <br/>
 			  ➜ 中南部考生也能就近應試，更加便利！
 	  		  <br/>
+			  <br/>
 			  <a href="https://drive.google.com/file/d/1COD1n9Cxz48qlp2MzxLLVAFzdps9rkKF/view?usp=drive_link">【選拔初賽簡章】</a>
 	  		  <br/>
+			  <br/>
 			  📝 報名與費用資訊
 	  		  <br/>
 			  解題營報名與繳費期限：1/12 – 1/19｜費用 5000 元
@@ -73,8 +81,10 @@ export default function Recent() {
 	          <br/>
 			  兩項活動合報優惠價只要 5500 元！
 	  	      <br/>
+			  <br/>
 			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
 	          <br/>
+			  <br/>
 			  ⚠️ 本活動除不可抗力因素外，恕不退費。
 	          <br/>
 			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖
