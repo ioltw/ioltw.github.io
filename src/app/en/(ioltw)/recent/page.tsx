@@ -37,7 +37,7 @@ export default function Recent() {
     <i className="bx bxs-pin"></i>
     <h4>
       <b>
-        2026/1/9 ✨ Registration Now Open: Taiwan Selection Preliminary Round for the International Linguistics Olympiad & Taiwan Linguistics Logic Training Camp ✨
+        2026/01/09 ✨ Registration Now Open: Taiwan Selection Preliminary Round for the International Linguistics Olympiad & Taiwan Linguistics Logic Training Camp ✨
       </b>
     </h4>
   </div>
@@ -100,6 +100,7 @@ export default function Recent() {
       <br />
       Seats are limited—seize the opportunity to join us on a journey into linguistics and take on the international stage! 🌍📖
       <br />
+	  <br />
 
       <a href="/img/recent_attachments/TOL2026_first1.png" target="_blank">
         <img
@@ -110,6 +111,8 @@ export default function Recent() {
         />
       </a>
       <br />
+
+	  <br />
 
       <a href="/img/recent_attachments/TOL2026_first2.png" target="_blank">
         <img
