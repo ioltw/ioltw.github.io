@@ -35,7 +35,7 @@ export default function Recent() {
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2026/1/9　✨ 國際語奧臺灣代表隊選拔初賽＆臺灣語奧邏輯訓練營 正式開放報名！✨ </b></h4>
+            <h4><b>2026/01/09　✨ 國際語奧臺灣代表隊選拔初賽＆臺灣語奧邏輯訓練營 正式開放報名！✨ </b></h4>
           </div>
           <div className="col-lg-7">
             <p>
@@ -91,7 +91,9 @@ export default function Recent() {
 	          <br/>
 			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖
               <br/>
+			  <br/>
               <a href="/img/recent_attachments/TOL2026_first1.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first1.png" alt="TOL2026_first1.png" title="TOL2026_first1.png" style={{width: "60%"}}/></a>
+			  <br/>
 			  <br/>
               <a href="/img/recent_attachments/TOL2026_first2.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first2.png" alt="TOL2026_first2.png" title="TOL2026_first2.png" style={{width: "60%"}}/></a>
             </p>
