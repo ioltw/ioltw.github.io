@@ -35,6 +35,32 @@ export default function Recent() {
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
+            <h4><b>2026/01/13　✨ 國際語言學奧林匹亞競賽臺灣國手學校推薦辦法公布 ✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              昨天起，語奧邏輯訓練營與國手選拔初賽報名正式開跑，歡迎各位踴躍報名！同時，關於本次賽制新增的「高中推薦管道」之詳細流程，公布「國際語言學奧林匹亞競賽臺灣國手學校推薦辦法」以供參考。
+              <br/>
+			  此外，還有一個好消息：為鼓勵參加語奧邏輯訓練營，若非北部學生（非居住於臺北、新北、基隆、桃園、新竹、宜蘭之學生）「合報」訓練營與選拔初賽兩活動，可於初賽現場領取500元補助金！
+              <br/>
+			  最後，由於簡章有細微修改，最新版本簡章連結一併公布於下方。
+			  <br/>
+			  <br/>
+			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1d1Pp-98VWKgmkU6sXsfjpVLwBKchETWi/view?usp=sharing">【推薦辦法】</a>
+	  		  <br/>
+			  <a href="https://drive.google.com/file/d/1h5ImXCXxdhXFva-Fy2m_kooRGzudBU1A/view?usp=drive_link">【選拔初賽簡章】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/2026年語奧國手養成計劃.jpg" target="_blank"><img src="/img/recent_attachments/2026年語奧國手養成計劃.jpg" alt="2026年語奧國手養成計劃" title="2026年語奧國手養成計劃" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
             <h4><b>2026/01/09　✨ 國際語奧臺灣代表隊選拔初賽＆臺灣語奧邏輯訓練營 正式開放報名！✨ </b></h4>
           </div>
           <div className="col-lg-7">
@@ -92,10 +118,10 @@ export default function Recent() {
 			  名額有限，敬請把握機會，與我們一起踏上語言學的探索之旅，挑戰國際舞台！ 🌍📖
               <br/>
 			  <br/>
-              <a href="/img/recent_attachments/TOL2026_first1.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first1.png" alt="TOL2026_first1.png" title="TOL2026_first1.png" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/TOL2026_first1.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first1.png" alt="TOL2026_first1" title="TOL2026_first1" style={{width: "60%"}}/></a>
 			  <br/>
 			  <br/>
-              <a href="/img/recent_attachments/TOL2026_first2.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first2.png" alt="TOL2026_first2.png" title="TOL2026_first2.png" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/TOL2026_first2.png" target="_blank"><img src="/img/recent_attachments/TOL2026_first2.png" alt="TOL2026_first2" title="TOL2026_first2" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
