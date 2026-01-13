@@ -33,6 +33,37 @@ export default function Recent() {
         </div>
 
 		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/01/13　✨ School Recommendation Guidelines for the Taiwan Team of the International Linguistics Olympiad ✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              Registration for the Linguistics Logic Training Camp and the National Team Preliminary Selection officially opened yesterday—everyone is welcome to sign up!
+              <br/>
+			  In response to this year’s newly introduced High School Recommendation Pathway, we are also releasing the School Recommendation Guidelines for the Taiwan Team of the International Linguistics Olympiad for your reference.
+              <br/>
+			  <br/>
+			  More good news: To encourage participation in the Linguistics Logic Training Camp, students from outside Northern Taiwan (i.e., not residing in Taipei, New Taipei, Keelung, Taoyuan, Hsinchu, or Yilan) who register for both the Training Camp and the Preliminary Selection will receive a NT$500 travel subsidy, which can be collected on-site at the preliminary round.
+			  <br/>
+			  <br/>
+			  Please note that the brochure has undergone minor revisions. The latest version is provided via the link below—be sure to check it out!
+			  <br/>
+			  <br/>
+			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【Registration Form】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1d1Pp-98VWKgmkU6sXsfjpVLwBKchETWi/view?usp=sharing">【School Recommendation Guidelines】</a>
+	  		  <br/>
+			  <a href="https://drive.google.com/file/d/1h5ImXCXxdhXFva-Fy2m_kooRGzudBU1A/view?usp=drive_link">【Preliminary Selection Brochure】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/2026年語奧國手養成計劃.jpg" target="_blank"><img src="/img/recent_attachments/2026年語奧國手養成計劃.jpg" alt="2026年語奧國手養成計劃" title="2026年語奧國手養成計劃" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
+
+		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className="bx bxs-pin"></i>
     <h4>
