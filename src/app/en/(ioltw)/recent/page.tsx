@@ -50,7 +50,7 @@ export default function Recent() {
 			  Please note that the brochure has undergone minor revisions. The latest version is provided via the link below—be sure to check it out!
 			  <br/>
 			  <br/>
-			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【Registration Form】</a>
+			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【Registration Form】</a>
 			  <br/>
 			  <a href="https://drive.google.com/file/d/1d1Pp-98VWKgmkU6sXsfjpVLwBKchETWi/view?usp=sharing">【School Recommendation Guidelines】</a>
 	  		  <br/>
@@ -124,7 +124,7 @@ export default function Recent() {
       Special bundle price for both events: NT$5,500 only!
       <br />
       <br />
-      <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">
+      <a href="https://forms.gle/dfV5jLegx6P2CLmh7">
         【Registration Form】
       </a>
       <br />
