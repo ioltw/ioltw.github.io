@@ -46,7 +46,7 @@ export default function Recent() {
 			  最後，由於簡章有細微修改，最新版本簡章連結一併公布於下方。
 			  <br/>
 			  <br/>
-			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
+			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【報名表單】</a>
 			  <br/>
 			  <a href="https://drive.google.com/file/d/1d1Pp-98VWKgmkU6sXsfjpVLwBKchETWi/view?usp=sharing">【推薦辦法】</a>
 	  		  <br/>
@@ -112,7 +112,7 @@ export default function Recent() {
 			  兩項活動合報優惠價只要 5500 元！
 	  	      <br/>
 			  <br/>
-			  <a href="https://forms.gle/BUCTgpFZVUX3cEEV8">【報名表單】</a>
+			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【報名表單】</a>
 	          <br/>
 			  <br/>
 			  ⚠️ 本活動除不可抗力因素外，恕不退費。
