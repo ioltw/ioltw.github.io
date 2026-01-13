@@ -50,6 +50,8 @@ export default function Recent() {
 			  <br/>
 			  <a href="https://drive.google.com/file/d/1d1Pp-98VWKgmkU6sXsfjpVLwBKchETWi/view?usp=sharing">【推薦辦法】</a>
 	  		  <br/>
+			  <a href="https://docs.google.com/document/d/1GOvHAmYVtUU5K5IbJX8HPD9GnaH4kdm_/edit?usp=drive_link&ouid=103998949466742933415&rtpof=true&sd=true">【推薦學生名單表格】</a>
+	  		  <br/>
 			  <a href="https://drive.google.com/file/d/1h5ImXCXxdhXFva-Fy2m_kooRGzudBU1A/view?usp=drive_link">【選拔初賽簡章】</a>
 	  		  <br/>
 			  <br/>
