@@ -50,8 +50,8 @@ export default function RegisterInformation() {
               <h3>1. Participate in the "National Team Trial - Round 1"</h3>
               <h4>After online registration and payment, confirm your eligibility to compete for the first stage of national selection.</h4>
               <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
-                <a href="https://lope.linguistics.ntu.edu.tw/ioltw/TOL-Regulation.pdf" className="btn btn-outline-danger">Read the [Taiwan National Selection Regulations] 👀 </a>
-                <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
+                <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Read the [Taiwan National Selection Regulations] 👀 </a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
               </div>
             </div>
           </div>
