@@ -73,7 +73,7 @@ export default function AboutTol() {
               <li className="list-group-item border-0">
                 <h5><strong>TOL Selection Process</strong></h5>
                 <p>
-                  Held once a year (usually in February or March). Top performers in the TOL selection are eligible for training programs and a chance to compete for a spot on the national team.
+                  Held once a year, including a Preliminary Round, a Semi-final Round, and a Final Round (APLO). Top performers in the TOL Selection Preliminary Round or students nominated by their senior high schools are eligible for Stage I Training Program and a chance to compete for a spot on the national team in the following rounds.
                 </p>
               </li>
 
@@ -82,8 +82,9 @@ export default function AboutTol() {
                 <p>
                   Announced around the end of each year.
                 </p>
-                <a href="/en/student/register-information" className="btn btn-outline-danger">How to Register</a>
-                <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">Visit the TOL preliminary registration system</a>
+                <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Preliminary Round Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
+                <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">School Nomination Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">Visit the TOL preliminary registration system</a>
               </li>
             </ul>
 
