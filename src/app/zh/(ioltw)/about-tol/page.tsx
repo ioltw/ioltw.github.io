@@ -58,7 +58,7 @@ export default function AboutTol() {
                 <h5><strong>TOL 參賽資格</strong></h5>
                 <ol className="list-group list-group-numbered">
                   <li className="list-group-item border-0">我國政府核准立案之中學、海外僑校及臺商學校等在學學生(七年級至高中三年級)。</li>
-                  <li className="list-group-item border-0">2025 年 7 月 1 日之時點未滿 20 歲。</li>
+                  <li className="list-group-item border-0">2026 年 7 月 1 日之時點未滿 20 歲。</li>
                   <li className="list-group-item border-0">不具全球任一大專院校之學生身分，且不曾就讀於全球任一大專院校。</li>
                 </ol>
               </li>
@@ -79,7 +79,7 @@ export default function AboutTol() {
               <li className="list-group-item border-0">
                 <h5><strong>TOL 選拔機制</strong></h5>
                 <p>
-                  每年舉辦一次（通常於 2 ～ 3 月），且 TOL 選拔賽中表現優異者可參與當年度之語奧培訓課程，角逐正式國手之位，詳細流程請見下方報名資訊。
+                  每年舉辦一次，包含初賽、複賽、決賽（即亞太語奧），且 TOL 選拔初賽中表現優異，或獲各高中推薦者，可參與當年度之一階國手培訓課程，於複賽及決賽角逐正式國手之位，詳細流程請見下方報名資訊。
                 </p>
               </li>
 
@@ -88,8 +88,9 @@ export default function AboutTol() {
                 <p>
                   預計每年年底左右公告。
                 </p>
-                <a href="/pdf/2025TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">TOL報名方式</a>
-                <a href="https://reg.ioltw.org/" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
+                <a href="/pdf/2025TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">2026國際語言學奧林匹亞競賽台灣國手選拔賽說明簡章</a>
+                <a href="/pdf/2025TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">2026國際語言學奧林匹亞競賽臺灣國手學校推薦辦法</a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
               </li>
             </ul>
 
