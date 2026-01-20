@@ -84,7 +84,7 @@ export default function AboutTol() {
                 </p>
                 <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Preliminary Round Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
                 <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">School Nomination Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
-                <a href="ttps://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Visit the TOL preliminary registration system</a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">Visit the TOL preliminary registration system</a>
               </li>
             </ul>
 
