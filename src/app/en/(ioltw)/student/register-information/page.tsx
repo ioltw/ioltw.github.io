@@ -51,7 +51,7 @@ export default function RegisterInformation() {
               <h4>After online registration and payment, confirm your eligibility to compete for the first stage of national selection.</h4>
               <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
                 <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Read the [Taiwan National Selection Regulations] 👀 </a>
-                <a href="ttps://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
               </div>
             </div>
           </div>
