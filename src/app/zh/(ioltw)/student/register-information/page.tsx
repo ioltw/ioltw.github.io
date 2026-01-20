@@ -51,7 +51,7 @@ export default function RegisterInformation() {
                 <h4>線上報名繳費後，確認參賽資格，始得角逐第一階國手資格。</h4>
                 <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
                   <a href="/pdf/2026TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">閱讀 【台灣國手選拔辦法】 👀</a>
-                  <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">前往 台灣語奧全國初選報名系統</a>
+                  <a href="ttps://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">前往 台灣語奧全國初選報名系統</a>
                 </div>
               </div>
             </div>
