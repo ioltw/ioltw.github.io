@@ -90,7 +90,7 @@ export default function AboutTol() {
                 </p>
                 <a href="/pdf/2026TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">2026國際語言學奧林匹亞競賽台灣國手選拔賽說明簡章</a>
                 <a href="/pdf/2026TOL_nomination.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">2026國際語言學奧林匹亞競賽臺灣國手學校推薦辦法</a>
-                <a href="ttps://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
+                <a href="https://forms.gle/dfV5jLegx6P2CLmh7" className="btn btn-outline-danger">前往台灣語奧全國初選報名系統</a>
               </li>
             </ul>
 
