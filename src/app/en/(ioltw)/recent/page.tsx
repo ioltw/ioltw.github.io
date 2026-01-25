@@ -47,6 +47,7 @@ Registration for the preliminary selection round is still open—please be sure 
 			  <br/>
 			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【Registration Form】</a>
 	  		  <br/>
+				</p>
           </div>
         </div>
 
