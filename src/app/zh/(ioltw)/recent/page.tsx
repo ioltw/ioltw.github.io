@@ -32,6 +32,23 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/01/25　✨ 國際語言學奧林匹亞競賽臺灣國手自學生推薦辦法公布 ✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              考量到高中自學生於原推薦辦法中無推薦管道，因此公布自學生的推薦辦法如下，讓自學的同學有更公平的機會參與培訓與競賽。選拔初賽仍然開放報名中，請大家把握機會喔！
+              <br/>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/13QL-SBYlF6ULI2FISPJsCLDQtb0w8JC5/view?usp=drive_link">【自學生推薦辦法】</a>
+			  <br/>
+			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【報名表單】</a>
+	  		  <br/>
+          </div>
+        </div>
+		  
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
