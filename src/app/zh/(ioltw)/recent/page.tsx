@@ -46,6 +46,7 @@ export default function Recent() {
 			  <br/>
 			  <a href="https://forms.gle/dfV5jLegx6P2CLmh7">【報名表單】</a>
 	  		  <br/>
+				</p>
           </div>
         </div>
 		  
