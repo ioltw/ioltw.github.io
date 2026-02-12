@@ -32,6 +32,32 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/02/12　✨ Important Announcement: Registration Opens for the Taiwan Linguistics Olympiad Problem-Solving Training Course! ✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              Over the years, we have received many inquiries about training courses. However, aside from the problem-solving camp first held two years ago (renamed the Logic Training Camp this year), the Taiwan Linguistics Olympiad has not previously offered any regular courses for general students; only short-term training sessions for national team members have been available before competitions.
+              <br/>
+			  Recognizing the shortage of instructional resources in Olympiad linguistics, we have decided to respond to the expectations of students who are passionate about the Linguistics Olympiad. In the coming semester, we will invite many outstanding former national team members and students from the NTU Graduate Institute of Linguistics to offer a new “Linguistics Olympiad Problem-Solving Training Course.” This course is designed for students who wish to improve their problem-solving skills but are unsure where to begin or how to approach problems efficiently, providing an opportunity to discover their potential and strengthen their abilities.
+			  <br/>
+			  Through this course, we not only hope to cultivate more strong contestants and help the representatives of Taiwan achieve even better results, but also to pass on the techniques of Olympiad problem solving, the experience accumulated by previous participants, and the spirit refined over the past decade.
+			  <br/>
+			  The course will run on a semester basis, with classes held on several Saturdays between March and July, from 14:00 to 15:30. As this is currently a pilot program, we plan to open two classes. Each class requires a minimum of 5 students to run, accommodates up to 10 students, and the total enrollment will be capped at 20 students. Space is limited—registration will be accepted on a first-come, first-served basis!
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1VQNvDK71uOcb8tlUqhPwHWgKN6NO4_kC/view?usp=sharing">【Problem-Solving Training Course Brochure】</a>
+			  <br/>
+			  <a href="https://forms.gle/bQRRwq9vBv9gWH1v6">【Registration Form】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/Problem-Solving_Training_Course.png" target="_blank"><img src="/img/recent_attachments/Problem-Solving_Training_Course.png" alt="Problem-Solving_Training_Course" title="Problem-Solving_Training_Course" style={{width: "60%"}}/></a>
+			</p>
+          </div>
+        </div>
+
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
