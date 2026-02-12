@@ -32,6 +32,32 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/02/12　✨ 重大資訊：臺灣語奧解題培訓班 嶄新活動報名開跑！ ✨ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              長期以來，我們收到許多關於培訓課程的詢問；但除了兩年前開始舉辦的解題營(今年起改稱邏輯訓練營)之外，台灣語奧尚無任何提供給一般學生的定期課程，僅有賽前專屬國手的短期培訓。
+              <br/>
+			  深感於語奧教學資源的缺乏，我們決定回應各位愛好語奧的同學的期待，在即將到來的新學期，聘請眾多優秀語奧前國手和臺大語言所學生，開設「語奧解題培訓班」，讓有意精進解題能力，卻不知道從何開始，不清楚如何有效率解題的同學，獲得發掘潛能，增強實力的機會。
+              <br/>
+			  透過本課程，我們不僅希望能培育更多強大國手，讓臺灣語奧代表隊的成績更上一層樓，更期盼語奧解題的技術、前人積累的經驗與十年來淬煉的精神，可以此課程為媒介薪火相傳。
+			  <br/>
+			  本課程為學期制，於3月至7月間數個週六的下午14:00-15:30上課。由於目前為試辦階段，因此預計開辦2班，採5人成班，10人滿班，上限20名的方式進行。名額有限，先報名先錄取喔！
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1VQNvDK71uOcb8tlUqhPwHWgKN6NO4_kC/view?usp=sharing">【解題培訓班簡章】</a>
+			  <br/>
+			  <a href="https://forms.gle/bQRRwq9vBv9gWH1v6">【報名表單】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/Problem-Solving_Training_Course.png" target="_blank"><img src="/img/recent_attachments/Problem-Solving_Training_Course.png" alt="Problem-Solving_Training_Course" title="Problem-Solving_Training_Course" style={{width: "60%"}}/></a>
+			</p>
+          </div>
+        </div>
+
 		 <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
@@ -39,7 +65,7 @@ export default function Recent() {
           </div>
           <div className="col-lg-7">
             <p>
-            <a href="/img/recent_attachments/2026schedule.png" target="_blank"><img src="/img/2026schedule.png" alt="2026schedule" title="2026schedule" style={{width: "60%"}}/></a>
+            <a href="/img/recent_attachments/2026schedule.png" target="_blank"><img src="/img/recent_attachments/2026schedule.png" alt="2026schedule" title="2026schedule" style={{width: "60%"}}/></a>
             </p>
           </div>
         </div>
