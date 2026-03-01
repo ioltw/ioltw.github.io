@@ -36,14 +36,14 @@ export default function AboutUs() {
             <a href="https://homepage.ntu.edu.tw/~gilntu/">
               <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 className="fw-normal fs-6">國立臺灣大學語言學研究所</h4>
+            <h4 className="fw-normal fs-5">國立臺灣大學語言學研究所</h4>
           </div>
       
           <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a>
               <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 className="fw-normal fs-6">臺灣語⾔⽂化與資訊協會</h4>
+            <h4 className="fw-normal fs-5">臺灣語⾔⽂化與資訊協會</h4>
           </div>
         </div>
 
@@ -55,7 +55,7 @@ export default function AboutUs() {
             <a href="https://www.k12ea.gov.tw/ap/index.aspx">
               <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
-            <h4 className="fw-normal fs-6">教育部國教署</h4>
+            <h4 className="fw-normal fs-5">教育部國教署</h4>
           </div>
        </div>
 
@@ -67,21 +67,21 @@ export default function AboutUs() {
             <a href="https://liberal.ntu.edu.tw/home.jsp?lang=tw">
               <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 className="fw-normal fs-6">臺灣語⾔學學會</h4>
+            <h4 className="fw-normal fs-5">臺灣語⾔學學會</h4>
           </div>
 
           <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://liberal.ntu.edu.tw/home.jsp?lang=tw">
               <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 className="fw-normal fs-6">國立臺灣大學文學院</h4>
+            <h4 className="fw-normal fs-5">國立臺灣大學文學院</h4>
           </div>
       
           <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://fll.fcu.edu.tw/">
               <img src="/img/clients/Feng_Chia.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 className="fw-normal fs-6">逢甲大學外國語文學系</h4>
+            <h4 className="fw-normal fs-5">逢甲大學外國語文學系</h4>
           </div>
       
          
@@ -89,7 +89,7 @@ export default function AboutUs() {
             <a href="https://zephyr.nsysu.edu.tw/index.php">
               <img src="/img/clients/Sun_Yat-Sen.jpg" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
-            <h4 className="fw-normal fs-6">國立中山大學外國語文學系</h4>
+            <h4 className="fw-normal fs-5">國立中山大學外國語文學系</h4>
           </div>
         </div>
           
