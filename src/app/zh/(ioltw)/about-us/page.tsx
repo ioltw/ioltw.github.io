@@ -48,6 +48,7 @@ export default function AboutUs() {
         </div>
 
         <div className="my-4"></div>
+        <div className="my-4"></div>
 
         <h2 style={{fontWeight: "700"}}>指導單位</h2>
         
@@ -61,6 +62,7 @@ export default function AboutUs() {
           </div>
        </div>
 
+        <div className="my-4"></div>
         <div className="my-4"></div>
         
         <h2 style={{fontWeight: "700"}}>協辦單位</h2>
