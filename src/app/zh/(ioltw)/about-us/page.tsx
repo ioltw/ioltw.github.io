@@ -90,7 +90,7 @@ export default function AboutUs() {
             </div>
           </div>
           
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Grace_Kuo.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
@@ -100,7 +100,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Haowen_Jiang.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
@@ -110,7 +110,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-          <div className="col-lg-6 mt-4 mt-lg-0">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
@@ -120,7 +120,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-          <div className="col-lg-6 mt-4 mt-lg-0">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Li-Bang_Chen.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
@@ -130,7 +130,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-         <div className="col-lg-6 mt-4 mt-lg-0">
+         <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
