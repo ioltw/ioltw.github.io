@@ -25,62 +25,72 @@ export default function AboutUs() {
 
     {/* <!-- ======= Clients Section =======  --> */}
     <section id="clients" className="clients section-bg">
-      <h2 style={{fontWeight: "700"}}>籌辦單位</h2>
+
       <div className="container">
+
+        <h2 style={{fontWeight: "700"}}>主辦單位</h2>
+        
         <div className="row d-flex justify-content-center">
           
           <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://homepage.ntu.edu.tw/~gilntu/">
               <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 style={{fontWeight: "600"}}>主辦單位</h4>
-            <p>國立台灣大學語言學研究所</p>
+            <h4 style={{fontWeight: "600"}}>國立臺灣大學語言學研究所</h4>
           </div>
       
+          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+              <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+            <h4 style={{fontWeight: "600"}}>臺灣語⾔⽂化與資訊協會</h4>
+          </div>
+        </div>
+
+        <h2 style={{fontWeight: "700"}}>指導單位</h2>
+        
+        <div className="row d-flex justify-content-center">
+             
           <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://www.k12ea.gov.tw/ap/index.aspx">
-              <img src="/img/clients/edu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+              <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
-            <h4 style={{fontWeight: "600"}}>指導單位</h4>
-            <p>教育部國教署</p>
+            <h4 style={{fontWeight: "600"}}>教育部國教署</h4>
           </div>
-      
-         
-          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
-            <a href="https://linguist.tw/zh-tw/">
-              <img src="/img/clients/lst2.png" className="img-fluid" alt="" style={{width: "100px"}}/>
-            </a>
-            <h4 style={{fontWeight: "600"}}>協辦單位</h4>
-            <p>臺灣語⾔學學會</p>
-          </div>
+       </div>
 
-          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+        <h2 style={{fontWeight: "700"}}>協辦單位</h2>
+        
+        <div className="row d-flex justify-content-center">
+
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://liberal.ntu.edu.tw/home.jsp?lang=tw">
               <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 style={{fontWeight: "600"}}>協辦單位</h4>
-            <p>國立台灣大學文學院</p>
+            <h4 style={{fontWeight: "600"}}>臺灣語⾔學學會</h4>
+          </div>
+
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://liberal.ntu.edu.tw/home.jsp?lang=tw">
+              <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+            </a>
+            <h4 style={{fontWeight: "600"}}>國立臺灣大學文學院</h4>
           </div>
       
-          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
-            <a href="https://www.aca.ntu.edu.tw/w/aca/index">
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://fll.fcu.edu.tw/">
               <img src="/img/clients/Feng_Chia.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 style={{fontWeight: "600"}}>協辦單位</h4>
-            <p>逢甲大學外國語文學系</p>
+            <h4 style={{fontWeight: "600"}}>逢甲大學外國語文學系</h4>
           </div>
       
          
-          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
-            <a href="https://www.k12ea.gov.tw/ap/index.aspx">
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://zephyr.nsysu.edu.tw/index.php">
               <img src="/img/clients/Sun_Yat-Sen.jpg" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
-            <h4 style={{fontWeight: "600"}}>協辦單位</h4>
-            <p>國立中山大學外國語文學系</p>
+            <h4 style={{fontWeight: "600"}}>國立中山大學外國語文學系</h4>
           </div>
-          
-    
         </div>
+          
       </div>
     </section>
 
