@@ -40,9 +40,6 @@ export default function AboutUs() {
           </div>
       
           <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
-            <a>
-              <img src="/img/clients/blank.png" className="img-fluid" style={{width: "100px"}} alt=""/>
-            </a>
             <h4 className="fw-normal fs-5">臺灣語⾔⽂化與資訊協會</h4>
           </div>
         </div>
