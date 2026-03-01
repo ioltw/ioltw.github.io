@@ -93,7 +93,7 @@ export default function AboutUs() {
          
           <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://zephyr.nsysu.edu.tw/index.php">
-              <img src="/img/clients/Sun_Yat-Sen.jpg" className="img-fluid" alt="" style={{width: "100px"}}/>
+              <img src="/img/clients/Sun_Yat-Sen.png" className="img-fluid" alt="" style={{width: "100px"}}/>
             </a>
             <h4 className="fw-normal fs-5">國立中山大學外國語文學系</h4>
           </div>
