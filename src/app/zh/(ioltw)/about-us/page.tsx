@@ -72,6 +72,26 @@ export default function AboutUs() {
 
           <div className="col-lg-6">
             <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/Janice_Fon.png" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>馮怡蓁</h4>
+                <span>行政培訓組</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-6">
+            <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/Shu-Kai_Hsieh.jpg" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>謝舒凱</h4>
+                <span>行政培訓組</span>
+              </div>
+            </div>
+          </div>
+          
+          <div className="col-lg-6">
+            <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Grace_Kuo.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>郭貞秀</h4>
@@ -80,11 +100,41 @@ export default function AboutUs() {
             </div>
           </div>
 
+          <div className="col-lg-6">
+            <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/Haowen_Jiang.png" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>江豪文</h4>
+                <span>行政培訓組</span>
+              </div>
+            </div>
+          </div>
+
           <div className="col-lg-6 mt-4 mt-lg-0">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/Chien-Chih_Ken_Lin.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>林建志</h4>
+                <h4>蕭素英</h4>
+                <span>行政培訓組</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-6 mt-4 mt-lg-0">
+            <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/Li-Bang_Chen.jpg" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>陳立邦</h4>
+                <span>行政培訓組</span>
+              </div>
+            </div>
+          </div>
+
+         <div className="col-lg-6 mt-4 mt-lg-0">
+            <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>黃師緯</h4>
                 <span>行政培訓組</span>
               </div>
             </div>
@@ -92,30 +142,9 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/Chenhao_Chiu.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Anya_Ho.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
-                <h4>邱振豪</h4>
-                <span>財務公關組</span>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-lg-6 mt-4">
-            <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/Claire_Chou.jpg" className="img-fluid" alt=""/></div>
-              <div className="member-info">
-                <h4>周芷瑄</h4>
-                <span>財務公關組</span>
-              </div>
-            </div>
-          </div>
-
-          
-          <div className="col-lg-6 mt-4">
-            <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/Yu-Wei_Edward_Chu.jpg" className="img-fluid" alt=""/></div>
-              <div className="member-info">
-                <h4>朱昱威</h4>
+                <h4>何婷嵐</h4>
                 <span>財務公關組</span>
               </div>
             </div>
