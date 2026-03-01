@@ -67,7 +67,7 @@ export default function AboutUs() {
         <div className="row d-flex justify-content-center">
 
           <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
-            <a href="https://liberal.ntu.edu.tw/home.jsp?lang=tw">
+            <a href="https://linguist.tw/zh-tw/">
               <img src="/img/clients/lst2.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
             <h4 className="fw-normal fs-5">臺灣語⾔學學會</h4>
