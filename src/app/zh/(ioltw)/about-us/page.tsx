@@ -110,7 +110,7 @@ export default function AboutUs() {
 
         <div className="row">
 
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Janice_Fon.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
@@ -120,7 +120,7 @@ export default function AboutUs() {
             </div>
           </div>
 
-          <div className="col-lg-6">
+          <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Shu-Kai_Hsieh.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
