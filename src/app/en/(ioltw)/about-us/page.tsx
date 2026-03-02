@@ -24,36 +24,78 @@ export default function AboutUs() {
     </section>
 
     {/* <!-- ======= Clients Section =======  --> */}
-    <section id="clients" className="clients section-bg">
-      <h2 style={{fontWeight: "700"}}>About Us</h2>
+<section id="clients" className="clients section-bg">
+
       <div className="container">
+
+        <h2 style={{fontWeight: "700"}}>Organizers</h2>
+        
         <div className="row d-flex justify-content-center">
           
-          <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
+          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
             <a href="https://homepage.ntu.edu.tw/~gilntu/">
-              <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "140px"}} alt=""/>
+              <img src="/img/clients/ntugil.png" className="img-fluid" style={{width: "100px"}} alt=""/>
             </a>
-            <h4 style={{fontWeight: "600"}}>Organizer</h4>
-            <p>Graduate Institute of Linguistics, National Taiwan University</p>
+            <h4 className="fw-normal fs-5">Graduate Institute of Linguistics, National Taiwan University</h4>
           </div>
       
-          <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
-            <a href="https://www.aca.ntu.edu.tw/w/aca/index">
-              <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "140px"}} alt=""/>
-            </a>
-            <h4 style={{fontWeight: "600"}}>Co-organizer</h4>
-            <p>College of Liberal Arts, National Taiwan University</p>
+          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <h4 className="fw-normal fs-5">Taiwan Language, Culture and Information Association</h4>
           </div>
-      
-          <div className="col-lg-3 col-md-4 col-6 d-flex flex-column justify-content-center mx-3 mb-4">
-            <a href="https://www.k12ea.gov.tw/ap/index.aspx">
-              <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "140px"}}/>
-            </a>
-            <h4 style={{fontWeight: "600"}}>Advisor</h4>
-            <p>K-12 Education Administration, Ministry of Education</p>
-          </div>
-    
         </div>
+
+        <div className="my-4"></div>
+        <div className="my-4"></div>
+
+        <h2 style={{fontWeight: "700"}}>Advisor</h2>
+        
+        <div className="row d-flex justify-content-center">
+             
+          <div className="col-lg-4 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://www.k12ea.gov.tw/En/">
+              <img src="/img/clients/edu.png" className="img-fluid" alt="" style={{width: "100px"}}/>
+            </a>
+            <h4 className="fw-normal fs-5">K-12 Education Administration, Ministry of Education</h4>
+          </div>
+       </div>
+
+        <div className="my-4"></div>
+        <div className="my-4"></div>
+        
+        <h2 style={{fontWeight: "700"}}>Co-organizers</h2>
+        
+        <div className="row d-flex justify-content-center">
+
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://linguist.tw/en/">
+              <img src="/img/clients/lst2.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+            </a>
+            <h4 className="fw-normal fs-5">Linguistic Society of Taiwan</h4>
+          </div>
+
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://liberal.ntu.edu.tw/home.jsp?lang=en">
+              <img src="/img/clients/ntu.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+            </a>
+            <h4 className="fw-normal fs-5">College of Liberal Arts, National Taiwan University</h4>
+          </div>
+      
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://fll.fcu.edu.tw/en/">
+              <img src="/img/clients/Feng_Chia.png" className="img-fluid" style={{width: "100px"}} alt=""/>
+            </a>
+            <h4 className="fw-normal fs-5">Department of Foreign Languages and Literature, Feng Chia Univeristy</h4>
+          </div>
+      
+         
+          <div className="col-lg-3 col-md-6 col-12 d-flex flex-column justify-content-center mb-4">
+            <a href="https://zephyr.nsysu.edu.tw/index.php">
+              <img src="/img/clients/Sun_Yat-Sen.png" className="img-fluid" alt="" style={{width: "100px"}}/>
+            </a>
+            <h4 className="fw-normal fs-5">Department of Foreign Languages and Literature, National Sun Yat-sen University</h4>
+          </div>
+        </div>
+          
       </div>
     </section>
 
