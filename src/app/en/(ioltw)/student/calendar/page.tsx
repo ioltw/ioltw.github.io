@@ -90,7 +90,7 @@ export default function Calendar() {
                 </div>
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
-                        <h5 className="card-title"><i className="bi bi-people me-2"></i>National Team Selection Semifinal Round</h5>
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>National Team Selection Secondary Round</h5>
                         <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
                     </div>
                 </div>
