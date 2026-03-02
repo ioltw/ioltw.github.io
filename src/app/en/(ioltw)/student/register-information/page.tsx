@@ -47,8 +47,8 @@ export default function RegisterInformation() {
         <div className="row">
           <div className="col-md-8 mx-auto">
             <div className="icon-box">
-              <h3>1. Participate in the "National Team Trial - Round 1"</h3>
-              <h4>After online registration and payment, confirm your eligibility to compete for the first stage of national selection.</h4>
+              <h3>1. Participate in the National Team Selection Preliminary Round </h3>
+              <h4>After online registration and payment, confirm your eligibility to compete for the selection preliminary round</h4>
               <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
                 <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Read the [Taiwan National Selection Regulations] 👀 </a>
                 <a href="https://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
@@ -60,17 +60,27 @@ export default function RegisterInformation() {
         <div className="row">
           <div className="col-md-8 mx-auto">
             <div className="icon-box">
-              <h3>2. Complete the First Stage National Team Training Course and Participate in the Final Selection Test</h3>
-              <h4>Those selected in the first stage must attend the first stage training course to participate in the final selection test (i.e., the Asia-Pacific Linguistics Olympiad, which is included in the scoring). Official national team members will be selected based on accumulated scores and announced.</h4>
+              <h3>2. Complete the National Team Stage I Training Program and Participate in the Selection Semifinal Round</h3>
+              <h4>Those selected in the preliminary round or through the high school nomination pathway must participate in the National Team Stage I Training Program to participate in the Selection Semifinal Round.</h4>
               <a href="https://aplo.asia/" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>Asia-Pacific Linguistics Olympiad (APLO)</a>
             </div>
           </div>
         </div>
+        {/* <!-- New Added In 2026 --> */}
+          <div className="row">
+            <div className="col-md-8 mx-auto">
+              <div className="icon-box">
+                <h3>3. Participate in the Selection Final Round</h3>
+                <h4>Advancement to the final round (i.e., the Asia Pacific Linguistics Olympiad) will be determined by taking the higher of either “100% semifinal round score” or “20% preliminary round score + 80% semifinal round score.” Official national team members will be selected based on the score of final round and announced.</h4>
+                <a href="https://aplo.asia/" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>APLO 亞太語奧</a>
+              </div>
+            </div>
+          </div>
         {/* <!-- Repeat for 2022 --> */}
         <div className="row">
           <div className="col-md-8 mx-auto">
             <div className="icon-box">
-              <h3>3. Participate in Official National Team Training & Camp</h3>
+              <h3>4. Participate in National Team Stage II Training Program & Camp</h3>
               <h4>As an official national team member, you must participate in official training and pre-competition camp, including various mock competitions and team collaboration training before going abroad.</h4>
             </div>
           </div>
