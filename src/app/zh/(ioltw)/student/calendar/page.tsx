@@ -32,7 +32,105 @@ export default function Calendar() {
         </div>
       </div>
     </section>
-    
+
+    <div className="container">
+        <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>2026年重要日程</h1>
+        <div className="timeline position-relative">
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年10月</div>
+                    <div className="text-muted">10月25日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-body-text me-2"></i>語言學科展</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年2月</div>
+                    <div className="text-muted">2月6日至2月8日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-controller me-2"></i>語奧邏輯訓練營</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學博雅教學館</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年2月</div>
+                    <div className="text-muted">2月27日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>語奧國手選拔初賽</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年3月</div>
+                    <div className="text-muted">3月14日至3月15日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>語奧一階國手培訓課程</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年3月</div>
+                    <div className="text-muted">3月15日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>語奧國手選拔複賽</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年3月</div>
+                    <div className="text-muted">3月29日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>語奧國手選拔決賽</h5>
+                        <p className="card-text"><small className="text-muted">台灣大學文學院</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年4-7月</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-award me-2"></i>語奧二階國手培訓課程</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2026年7月-2026年8月</div>
+                    <div className="text-muted">7月26日至8月2日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言學奧林匹亞</h5>
+                        <p className="card-text"><small className="text-muted">羅馬尼亞 București</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div className="container">
         <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>2025年重要日程</h1>
         <div className="timeline position-relative">
@@ -91,6 +189,18 @@ export default function Calendar() {
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
                         <h5 className="card-title"><i className="bi bi-award me-2"></i>語言解謎鐵人賽</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">2025年7月</div>
+                    <div className="text-muted">7月21日至7月26日</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言學奧林匹亞</h5>
+                        <p className="card-text"><small className="text-muted">臺灣 臺北</small></p>
                     </div>
                 </div>
             </div>
@@ -160,7 +270,7 @@ export default function Calendar() {
                 </div>
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
-                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言奧林匹亞</h5>
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言學奧林匹亞</h5>
                         <p className="card-text"><small className="text-muted">巴西 Brasília</small></p>
                     </div>
                 </div>
@@ -234,7 +344,7 @@ export default function Calendar() {
                 </div>
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
-                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言奧林匹亞</h5>
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>國際語言學奧林匹亞</h5>
                         <p className="card-text"><small className="text-muted">保加利亞 Bansko</small></p>
                     </div>
                 </div>
