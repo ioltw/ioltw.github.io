@@ -47,8 +47,8 @@ export default function RegisterInformation() {
           <div className="row">
             <div className="col-md-8 mx-auto">
               <div className="icon-box">
-                <h3>1. 參加「全國初選 — 台灣國手選拔賽（TOL）」</h3>
-                <h4>線上報名繳費後，確認參賽資格，始得角逐第一階國手資格。</h4>
+                <h3>1. 參加國手選拔初賽</h3>
+                <h4>線上報名繳費後，確認參賽資格，始得角逐一階國手資格。</h4>
                 <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
                   <a href="/pdf/2026TOL_rules.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-danger">閱讀 【台灣國手選拔辦法】 👀</a>
                   <a href="https://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">前往 台灣語奧全國初選報名系統</a>
@@ -60,8 +60,17 @@ export default function RegisterInformation() {
           <div className="row">
             <div className="col-md-8 mx-auto">
               <div className="icon-box">
-                <h3>2. 完成一階國手培訓課程以及參加決選測驗</h3>
-                <h4>入選第一階國手者，必須參加一階國手培訓課程，始得參加決選測驗（即亞太語奧競賽，列入積分）。正式國手將以各次積分累積成果遴選並公告名單。</h4>
+                <h3>2. 完成一階國手培訓課程以及參加國手選拔複賽</h3>
+                <h4>經由初賽或學校推薦入選一階國手者，必須參加一階國手培訓課程，始得參加複賽。</h4>
+              </div>
+            </div>
+          </div>
+          {/* <!-- New Added In 2026 --> */}
+          <div className="row">
+            <div className="col-md-8 mx-auto">
+              <div className="icon-box">
+                <h3>3. 參加選拔決賽</h3>
+                <h4>晉級決賽（即亞太語奧競賽）成績計算為「100%複賽成績」或「20%初賽成績+80%複賽成績」擇優採計。正式國手將以決賽成績遴選，並公告名單。</h4>
                 <a href="https://aplo.asia/" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>APLO 亞太語奧</a>
               </div>
             </div>
@@ -70,8 +79,8 @@ export default function RegisterInformation() {
           <div className="row">
             <div className="col-md-8 mx-auto">
               <div className="icon-box">
-                <h3>3. 參與正式國手培訓＆集訓</h3>
-                <h4>成為正式國手者，須參加正式國手培訓＆賽前集訓，進行出國比賽前的各種模擬競賽與團隊合作訓練。</h4>
+                <h3>4. 參與二階國手培訓課程＆集訓</h3>
+                <h4>成為正式國手者，須參加二階國手培訓課程＆賽前集訓，進行出國比賽前的各種模擬競賽與團隊合作訓練。</h4>
               </div>
             </div>
           </div>
