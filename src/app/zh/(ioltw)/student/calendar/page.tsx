@@ -119,7 +119,7 @@ export default function Calendar() {
             </div>
             <div className="timeline-item mb-5">
                 <div className="d-flex align-items-center mb-2">
-                    <div className="h4 fw-bold text-secondary me-3">2026年7月-2026年8月</div>
+                    <div className="h4 fw-bold text-secondary me-3">2026年7-8月</div>
                     <div className="text-muted">7月26日至8月2日</div>
                 </div>
                 <div className="card border-light shadow-sm">
