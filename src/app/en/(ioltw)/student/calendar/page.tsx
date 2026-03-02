@@ -32,6 +32,105 @@ export default function Calendar() {
           </div>
         </div>
       </section>
+
+          <div className="container">
+        <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>Important Dates in 2026</h1>
+        <div className="timeline position-relative">
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">October 2025</div>
+                    <div className="text-muted">October 25</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-body-text me-2"></i>Language Science Fair</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">February 2026</div>
+                    <div className="text-muted">February 6 - 8</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-controller me-2"></i>Linguistics Logic Training Camp</h5>
+                        <p className="card-text"><small className="text-muted">Boya Lecture Building, National Taiwan University</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">February 2026</div>
+                    <div className="text-muted">February 27</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-person-lines-fill me-2"></i>National Team Selection Preliminary Round</h5>
+                        <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">March 2026</div>
+                    <div className="text-muted">March 14 - 15</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-award me-2"></i>National Team Stage I Training Program</h5>
+                        <p className="card-text"><small className="text-muted">National Taiwan University</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">March 2026</div>
+                    <div className="text-muted">March 15</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>National Team Selection Secondary Round</h5>
+                        <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">March 2026</div>
+                    <div className="text-muted">March 29</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-people me-2"></i>National Team Selection Final Round</h5>
+                        <p className="card-text"><small className="text-muted">College of Liberal Arts, National Taiwan University</small></p>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">April - July 2026</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-award me-2"></i>National Team Stage II Training Program</h5>
+                    </div>
+                </div>
+            </div>
+            <div className="timeline-item mb-5">
+                <div className="d-flex align-items-center mb-2">
+                    <div className="h4 fw-bold text-secondary me-3">July - August 2026</div>
+                    <div className="text-muted">July 26 - August 2</div>
+                </div>
+                <div className="card border-light shadow-sm">
+                    <div className="card-body">
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>International Linguistics Olympiad/h5>
+                        <p className="card-text"><small className="text-muted">București, Romania</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
       
       <div className="container">
         <h1 className="mb-5"><i className="bi bi-calendar3 me-2"></i>Important Dates in 2025</h1>
@@ -91,6 +190,18 @@ export default function Calendar() {
             <div className="card border-light shadow-sm">
               <div className="card-body">
                 <h5 className="card-title"><i className="bi bi-award me-2"></i>LingPuz Marathon</h5>
+              </div>
+            </div>
+          </div>
+          <div className="timeline-item mb-5">
+            <div className="d-flex align-items-center mb-2">
+              <div className="h4 fw-bold text-secondary me-3">July 2025</div>
+              <div className="text-muted">July 21 - 26</div>
+            </div>
+            <div className="card border-light shadow-sm">
+              <div className="card-body">
+                <h5 className="card-title"><i className="bi bi-globe me-2"></i>International Linguistics Olympiad</h5>
+                <p className="card-text"><small className="text-muted">Taipei, Taiwan</small></p>
               </div>
             </div>
           </div>
