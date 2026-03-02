@@ -120,6 +120,26 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>Sally Chen</h4>
+                <span>Administration</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-6 mt-4">
+            <div className="member d-flex align-items-start">
+              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="member-info">
+                <h4>Shuping Huang</h4>
+                <span>Administration</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-6 mt-4">
+            <div className="member d-flex align-items-start">
               <div className="pic"><img src="/img/team/Li-Bang_Chen.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>Li-Bang Chen</h4>
