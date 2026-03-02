@@ -48,7 +48,7 @@ export default function RegisterInformation() {
           <div className="col-md-8 mx-auto">
             <div className="icon-box">
               <h3>1. Participate in the National Team Selection Preliminary Round </h3>
-              <h4>After online registration and payment, confirm your eligibility to compete for the selection preliminary round</h4>
+              <h4>After online registration and payment, confirm your eligibility to compete for the Preliminary Round.</h4>
               <div style={{display: "flex", justifyContent: "center", gap: "40px", alignItems: "center"}}>
                 <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Read the [Taiwan National Selection Regulations] 👀 </a>
                 <a href="https://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Go to Taiwan Linguistics Olympiad National Preliminary Registration System</a>
@@ -60,8 +60,8 @@ export default function RegisterInformation() {
         <div className="row">
           <div className="col-md-8 mx-auto">
             <div className="icon-box">
-              <h3>2. Complete the National Team Stage I Training Program and Participate in the Selection Semifinal Round</h3>
-              <h4>Those selected in the preliminary round or through the high school nomination pathway must participate in the National Team Stage I Training Program to participate in the Selection Semifinal Round.</h4>
+              <h3>2. Complete the National Team Stage I Training Program and Participate in the Selection Secondary Round</h3>
+              <h4>Those selected in the Preliminary Round or through the High School Nomination Pathway must participate in the National Team Stage I Training Program to participate in the Secondary Round.</h4>
               <a href="https://aplo.asia/" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>Asia-Pacific Linguistics Olympiad (APLO)</a>
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function RegisterInformation() {
             <div className="col-md-8 mx-auto">
               <div className="icon-box">
                 <h3>3. Participate in the Selection Final Round</h3>
-                <h4>Advancement to the final round (i.e., the Asia Pacific Linguistics Olympiad) will be determined by taking the higher of either “100% semifinal round score” or “20% preliminary round score + 80% semifinal round score.” Official national team members will be selected based on the score of final round and announced.</h4>
+                <h4>Advancement to the Final Round (i.e., the Asia Pacific Linguistics Olympiad) will be determined by taking the higher of either “100% Secondary Round score” or “20% Preliminary Round score + 80% Secondary Round score.” Official national team members will be selected based on the score of Final Round and announced.</h4>
                 <a href="https://aplo.asia/" className="btn btn-outline-danger" style={{marginLeft: "80px"}}>APLO 亞太語奧</a>
               </div>
             </div>
