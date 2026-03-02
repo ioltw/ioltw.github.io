@@ -124,7 +124,7 @@ export default function Calendar() {
                 </div>
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
-                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>International Linguistics Olympiad/h5>
+                        <h5 className="card-title"><i className="bi bi-globe me-2"></i>International Linguistics Olympiad</h5>
                         <p className="card-text"><small className="text-muted">București, Romania</small></p>
                     </div>
                 </div>
