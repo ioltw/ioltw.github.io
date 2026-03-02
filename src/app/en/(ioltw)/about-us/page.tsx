@@ -150,7 +150,7 @@ export default function AboutUs() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="/img/team/user.png" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="/img/team/Elio_Huang.png" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>Elio Huang</h4>
                 <span>Administration</span>
