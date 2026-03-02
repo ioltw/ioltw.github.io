@@ -78,7 +78,7 @@ export default function Calendar() {
                 </div>
                 <div className="card border-light shadow-sm">
                     <div className="card-body">
-                        <h5 className="card-title"><i className="bi bi-people me-2"></i>語奧一階國手培訓課程</h5>
+                        <h5 className="card-title"><i className="bi bi-award me-2"></i>語奧一階國手培訓課程</h5>
                         <p className="card-text"><small className="text-muted">台灣大學</small></p>
                     </div>
                 </div>
