@@ -32,6 +32,27 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+<div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/03/06　Announcement of Results, Problems, and Solutions for the 2026 TOL National Team Selection Round 1</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      The results and solutions for the National Team Selection Round 1 have been released!
+      <br/>
+      The list of admitted and waitlisted candidates for the National Team Stage I can be found in the PDF file linked below.
+      <br/>
+      The Chinese and English problem sets, solutions, and statistical data of the competition results have been published. Please visit the “Past Problems” section in the “For Students” on the official website.
+      <br/>
+      A total of 209 participants took part in this competition. Among contestants who were not nominated through high schools or the homeschool recommendation channel, 41 candidates were admitted as National Team Stage I members and 8 were placed on the waiting list. If an admitted candidate is unable to attend the Round 2 on the afternoon of March 15, please send an email to ioltwtwiol@gmail.com by March 10. Waitlisted candidates will then be invited in order.
+      <br/>
+      <br/>
+      <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjwRDAOt5LA7TQ/view?usp=sharing">【List of National Team Stage I Candidates】</a>
+    </p>
+  </div>
+</div>
+
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
