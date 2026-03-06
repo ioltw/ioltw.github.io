@@ -45,6 +45,36 @@ export default function PreviousProblems() {
     {/* <!-- ======= Services Section ======= --> */}
     <section id="services" className="services">
       <div className="container">
+        {/* <!-- Repeat for 2026 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
+              <h4>2025 National Team Trial - Round 1</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_1st_round_zh.pdf" className="btn btn-outline-danger">Problems (Traditional Chinese)</a>
+                    <a href="/problems/TOL2026_1st_round_en.pdf" className="btn btn-outline-danger">Problems (English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_1st_round_solutions_zh.pdf" className="btn btn-outline-danger">Solutions (Traditional Chinese)</a>
+                    <a href="/problems/TOL2026_1st_round_solutions_en.pdf" className="btn btn-outline-danger">Solutions (English)</a>
+                  </div>
+                </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_1st_round_Sta_Report.pdf" className="btn btn-outline-danger">Statistical Data</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* <!-- Repeat for 2025 --> */}
         <div className="row">
           <div className="col-md-12 mx-auto">
