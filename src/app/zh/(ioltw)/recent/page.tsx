@@ -32,6 +32,27 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+ 		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/06　2026TOL 台灣國手選拔初賽結果 & 題目 & 解答公布 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              全國初選競賽結果與解答出爐！
+              <br/>
+			  本次一階國手之正取、備取名單請見下方pdf檔案連結。
+              <br/>
+			  中、英文試題、解答以及競賽成績統計資料將於稍後公布，歡迎前往官網「學生專區」中的「歷屆試題」查看。
+			  <br/>
+			  本屆競賽實際應考人數 209 人，於「未受高中或自學生管道推薦」之考生中錄取 41 名為正取一階國手，8 名為備取。 若正取一階國手無法參加 3/15 下午的複賽，請於 3/10 前寄信至 ioltwtwiol@gmail.com 告知，將通知備取依序遞補。
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjS7OHaPbbRDAOt5LA7TQ/view?usp=sharing">【一階國手名單】</a>
+			</p>
+          </div>
+        </div>
+		  
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
