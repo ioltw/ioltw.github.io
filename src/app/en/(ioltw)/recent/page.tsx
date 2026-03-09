@@ -35,6 +35,23 @@ export default function Recent() {
 <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
+    <h4><b>2026/03/09  Correction to the 2026 TOL List of National Team Stage I Candidates </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Due to administrative reasons, the admitted and waitlisted candidates for the National Team Stage I have been corrected as follows. We apologize for any inconvenience caused. After the correction, among candidates who were not recommended through the high school or homeschool nomination channels, 38 have been admitted as National Team Stage I members and 9 have been placed on the waiting list.
+      <br/>
+      In addition, please note that the pre-training notice for the National Team Stage I and the notice for the selection round have already been sent to all National Team Stage I members. Please check your email.
+      <br/>
+      <br/>
+      <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjS7OHaPbbRDAOt5LA7TQ/view?usp=sharing">【List of National Team Stage I Candidates】</a>
+    </p>
+  </div>
+</div>
+		  
+<div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2026/03/06　Announcement of Results, Problems, and Solutions for the 2026 TOL National Team Selection Round 1</b></h4>
   </div>
   <div className="col-lg-7">
