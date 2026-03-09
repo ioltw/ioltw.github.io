@@ -49,7 +49,7 @@ export default function PreviousProblems() {
         <div className="row">
           <div className="col-md-12 mx-auto">
             <div className="icon-box">
-              <h4>2025 National Team Trial - Round 1</h4>
+              <h4>2026 Round 1</h4>
               <div className="icon-row">
                 <div>
                   <i className="bi bi-card-text"></i>
