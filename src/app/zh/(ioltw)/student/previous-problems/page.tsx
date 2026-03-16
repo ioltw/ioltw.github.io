@@ -55,8 +55,8 @@ export default function PreviousProblems() {
                 <div>
                   <i className="bi bi-card-text"></i>
                   <div className="button-group">
-                    <a href="/problems/TOL2026_2st_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
-                    <a href="/problems/TOL2026_2st_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
+                    <a href="/problems/TOL2026_2nd_round_zh.pdf" className="btn btn-outline-danger">題目(正體中文)</a>
+                    <a href="/problems/TOL2026_2nd_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
                   </div>
                 </div>
             
