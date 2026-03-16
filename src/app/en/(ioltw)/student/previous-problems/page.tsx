@@ -49,6 +49,23 @@ export default function PreviousProblems() {
         <div className="row">
           <div className="col-md-12 mx-auto">
             <div className="icon-box">
+              <h4>2026 Round 2</h4>
+              <div className="icon-row">
+                <div>
+                  <i className="bi bi-card-text"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_2nd_round_zh.pdf" className="btn btn-outline-danger">Problems (Traditional Chinese)</a>
+                    <a href="/problems/TOL2026_2nd_round_en.pdf" className="btn btn-outline-danger">Problems (English)</a>
+                  </div>
+                </div>
+            
+              </div>
+            </div>
+          </div>
+        {/* <!-- Repeat for 2026 --> */}
+        <div className="row">
+          <div className="col-md-12 mx-auto">
+            <div className="icon-box">
               <h4>2026 Round 1</h4>
               <div className="icon-row">
                 <div>
