@@ -35,6 +35,27 @@ export default function Recent() {
 <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
+    <h4><b>2026/03/16 2026 TOL Asia Pacific Linguistics Olympiad (APLO) National Team Selection Announcement </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      A total of 176 contestants participated in the Selection Round 2, with 156 completing the contest. After careful evaluation by the problem committee, 39 outstanding contestants have been selected as national team members to participate in the APLO on March 29, along with 8 additional alternates.
+      <br/>
+      The list of selected team members is as follows. Congratulations to those who have been selected! For those who were not selected, please do not be discouraged and keep up the good work. Score reports will be sent to all participants as soon as possible.
+      <br/>
+      Please also note that advancement to APLO is determined by taking the better of the following two calculations: “80% of Round 2 score + 20% of Round 1 score” or “100% of Round 2 score.”
+      <br/>
+      If any selected contestant wishes to decline their qualification for the APLO, please send an email to ioltwtwiol@gmail.com before 17:00 on March 20 (Friday).
+      <br/>
+      <br/>
+      <a href="https://drive.google.com/file/d/1J9k4DsNNobrzEnD_PZFQvWWm9_LFuSEQ/view?usp=sharing">[APLO National Team Members and Alternates List]</a>
+    </p>
+  </div>
+</div>
+
+<div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2026/03/09  Correction to the 2026 TOL List of National Team Stage I Candidates </b></h4>
   </div>
   <div className="col-lg-7">
