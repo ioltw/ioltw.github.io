@@ -35,6 +35,27 @@ export default function Recent() {
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/16 2026TOL 亞太語奧 (APLO) 國手錄取名單公告 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              本次複賽共有 176 名選手參賽，156 名完賽。經出題委員審慎評分，錄取 39 名成績優秀的正取選手參加 3/29 亞太語奧，並另取 8 名備取選手。
+              <br/>
+			  國手錄取名單如下。恭喜入選的同學！未能入選的同學也別氣餒，請再接再厲！成績單我們將盡快寄送給各位。
+			  <br/>
+		      另請注意，晉級亞太語奧的成績計算方式為「80%複賽得分＋20%初賽得分」或「100%複賽得分」兩者擇優採計。
+			  <br/>
+			  若正取選手欲放棄參加亞太語奧之國手資格，請於 3/20 (五) 17:00 前寄信到 ioltwtwiol@gmail.com 通知。
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1J9k4DsNNobrzEnD_PZFQvWWm9_LFuSEQ/view?usp=sharing">【亞太語奧國手正取、備取名單】</a>
+			</p>
+          </div>
+        </div>
+		  
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
             <h4><b>2026/03/09  2026TOL 一階國手名單更正 </b></h4>
           </div>
           <div className="col-lg-7">
