@@ -59,6 +59,12 @@ export default function PreviousProblems() {
                     <a href="/problems/TOL2026_2nd_round_en.pdf" className="btn btn-outline-danger">Problem(English)</a>
                   </div>
                 </div>
+                <div>
+                  <i className="bi bi-bar-chart"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_2nd_round_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                  </div>
+                </div>
             
               </div>
             </div>
