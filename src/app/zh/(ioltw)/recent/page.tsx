@@ -32,6 +32,21 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/20 2026TOL 第一階段國手培訓課程講義 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              本次第一階段國手培訓之課程講義，請見下方連結。
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/drive/folders/1pCSK1EX-rhKpgdaQqxdjkCyJPheDRtpa?usp=sharing">【第一階段國手培訓課程講義】</a>
+			</p>
+          </div>
+        </div>
+		  
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
@@ -56,13 +71,13 @@ export default function Recent() {
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
-            <h4><b>2026/03/09  2026TOL 一階國手名單更正 </b></h4>
+            <h4><b>2026/03/09  2026TOL 第一階段國手培訓課程錄取名單更正 </b></h4>
           </div>
           <div className="col-lg-7">
             <p>
-              由於行政因素，更正一階國手之正取、備取名單如下，造成不便，敬請見諒。更正後於「未受高中或自學生管道推薦」之考生中錄取 38 名為正取一階國手，9 名為備取。
+              由於行政因素，更正第一階段國手培訓課程之正取、備取名單如下，造成不便，敬請見諒。更正後於「未受高中或自學生管道推薦」之考生中錄取 38 名為正取，9 名為備取。
               <br/>
-			  另外提醒，一階國手培訓行前通知、選拔複賽賽前通知已寄發給各位一階國手，敬請查收。
+			  另外提醒，第一階段國手培訓行前通知、選拔複賽賽前通知已寄發給各位錄取者，敬請查收。
 			  <br/>
 			  <br/>
 			  <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjS7OHaPbbRDAOt5LA7TQ/view?usp=sharing">【一階國手名單】</a>
