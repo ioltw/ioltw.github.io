@@ -32,6 +32,21 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+　　　  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/20 2026TOL National Team Training Program Stage I Course Handouts </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              Please see the link below for the course handouts for the National Team Training Program Stage I this year.
+			  <br/>
+			  <br/>
+			  <a href="https://drive.google.com/drive/folders/1pCSK1EX-rhKpgdaQqxdjkCyJPheDRtpa?usp=sharing">【National Team Training Program Stage I Course Handouts】</a>
+			</p>
+          </div>
+        </div>
+
 <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
@@ -56,16 +71,16 @@ export default function Recent() {
 <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
-    <h4><b>2026/03/09  Correction to the 2026 TOL List of National Team Stage I Candidates </b></h4>
+    <h4><b>2026/03/09  Correction to the 2026 TOL List of National Team Training Program Stage I Qualified Persons </b></h4>
   </div>
   <div className="col-lg-7">
     <p>
-      Due to administrative reasons, the admitted and waitlisted candidates for the National Team Stage I have been corrected as follows. We apologize for any inconvenience caused. After the correction, among candidates who were not recommended through the high school or homeschool nomination channels, 38 have been admitted as National Team Stage I members and 9 have been placed on the waiting list.
+      Due to administrative reasons, the admitted and waitlisted National Team Training Program Stage I qualified persons have been corrected as follows. We apologize for any inconvenience caused. After the correction, among paritcipants who were not recommended through the high school or homeschool nomination channels, 38 have been admitted as National Team Training Program Stage I qualified persons and 9 have been placed on the waiting list.
       <br/>
-      In addition, please note that the pre-training notice for the National Team Stage I and the notice for the selection round have already been sent to all National Team Stage I members. Please check your email.
+      In addition, please note that the pre-training notice for the National Team Stage I and the notice for the selection round have already been sent to all National Team Training Program Stage I qualified persons. Please check your email.
       <br/>
       <br/>
-      <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjS7OHaPbbRDAOt5LA7TQ/view?usp=sharing">【List of National Team Stage I Candidates】</a>
+      <a href="https://drive.google.com/file/d/1QwR7TMmwLI2wjS7OHaPbbRDAOt5LA7TQ/view?usp=sharing">【List of National Team Training Program Stage I Qualified Persons】</a>
     </p>
   </div>
 </div>
