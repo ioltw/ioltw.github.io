@@ -60,6 +60,13 @@ export default function PreviousProblems() {
                   </div>
                 </div>
                 <div>
+                  <i className="bi bi-card-checklist"></i>
+                  <div className="button-group">
+                    <a href="/problems/TOL2026_2nd_round_solutions_zh.pdf" className="btn btn-outline-danger">解答(正體中文)</a>
+                    <a href="/problems/TOL2026_2nd_round_solutions_en.pdf" className="btn btn-outline-danger">Solution(English)</a>
+                  </div>
+                </div>
+                <div>
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
                     <a href="/problems/TOL2026_2nd_round_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
