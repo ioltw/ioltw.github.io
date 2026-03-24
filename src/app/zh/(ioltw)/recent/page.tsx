@@ -35,6 +35,21 @@ export default function Recent() {
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/25 語言學奧林匹亞規則書寫指引 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              本指引介紹了語奧作答時，有關語言規則的呈現方法。
+			  <br/>
+			  <br/>
+			  <a href="/pdf/Guide_to_Presenting_Rules_zh.pdf">【語言學奧林匹亞規則書寫指引】</a>
+			</p>
+          </div>
+        </div>
+		  
+        <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
             <h4><b>2026/03/20 2026TOL 第一階段國手培訓課程講義 </b></h4>
           </div>
           <div className="col-lg-7">
