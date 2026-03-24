@@ -32,6 +32,21 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+	    <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/03/25 Guide to Presenting Rules in the Linguistics Olympiad </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              This guide introduces ways to show your linguistic rules when writing your solutions for the Linguistics Olympiad.
+			  <br/>
+			  <br/>
+			  <a href="/pdf/Guide_to_Presenting_Rules_en.pdf">【Guide to Presenting Rules in the Linguistics Olympiad】</a>
+			</p>
+          </div>
+        </div>
+
 　　　  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
