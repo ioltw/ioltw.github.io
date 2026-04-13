@@ -32,6 +32,26 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+	  	   <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/04/13 🎉 Congratulations! Team Taiwan Achieves Outstanding Results at the APLO 2026! </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Team Taiwan delivered an exceptional performance in this year’s competition, earning 1 gold, 3 silver, and 4 bronze medals. The average score of the top eight contestants ranked third overall among all participating regions. These eight awardees have also been selected as official members of the 2026 International Linguistics Olympiad (IOL) Taiwan team, with four additional students named as alternates. Score reports will be sent to all participants as soon as possible.
+      <br/>
+      Congratulations to all official team members! We look forward to seeing you reach new heights and represent Taiwan with distinction at the IOL in Romania later this year. We also extend our sincere appreciation to every participant for their dedication and outstanding efforts!
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026國手獲獎.png" target="_blank"><img src="/img/recent_attachments/2026國手獲獎.png" alt="2026國手獲獎" title="2026國手獲獎" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026國手名單.png" target="_blank"><img src="/img/recent_attachments/2026國手名單.png" alt="2026國手名單" title="2026國手名單" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
 	    <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
