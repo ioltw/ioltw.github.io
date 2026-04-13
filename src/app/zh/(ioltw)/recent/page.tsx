@@ -32,6 +32,26 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+	   <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/04/13 🎉 狂賀！臺灣隊於 2026 亞太語奧再創佳績！ </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      臺灣隊在本屆競賽中表現亮眼，榮獲 1 金、3 銀、4 銅的優異成績，全國前八名平均分數更高居第三名！本次的八位獲獎同學亦同時入選 2026 國際語奧臺灣隊正式國手，另有四位同學列為備取。競賽成績單將儘早寄發給各位選手。
+      <br/>
+      恭喜所有正式國手，期待你們在今年於羅馬尼亞舉行的國際語奧中再創高峰、為國爭光！同時也誠摯感謝每一位參賽選手的全力投入與精彩表現！
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026國手獲獎.png" target="_blank"><img src="/img/recent_attachments/2026國手獲獎.png" alt="2026國手獲獎" title="2026國手獲獎" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026國手名單.png" target="_blank"><img src="/img/recent_attachments/2026國手名單.png" alt="2026國手名單" title="2026國手名單" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
         <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
