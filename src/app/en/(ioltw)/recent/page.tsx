@@ -32,6 +32,19 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/05/19　July - December 2026 Upcoming Events </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+            <a href="/img/recent_attachments/2026-2event.png" target="_blank"><img src="/img/recent_attachments/2026-2event.png" alt="2026-2event" title="2026-2event" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
+
 	  	   <div className="row faq-item d-flex align-items-stretch"> 
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
