@@ -33,6 +33,61 @@ export default function Recent() {
         </div>
 
 		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/06/03　TOL Beginner Logic Summer Camp｜Registration Now Open! </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Do you enjoy solving puzzles, logical reasoning, or exploring the diversity of languages around the world?
+      <br/>
+      No prior background in linguistics is required—just bring your curiosity, observation skills, and logical thinking, and step into the fascinating world of the Linguistics Olympiad!
+      <br/>
+      <br/>
+      📅 Camp Dates | August 19–21, 2026 (Wed–Fri)
+      <br/>
+      <br/>
+      ✨ Camp Highlights
+      <br/>
+      🔍 Diverse Linguistics Topics: Explore phonetics, morphology, syntax, language and culture, and a variety of topics commonly encountered in linguistics and Linguistics Olympiad problems.
+      <br/>
+      🧩 Mock Competition & Practice Sessions: Through carefully designed mock contests and detailed explanations, participants will develop problem-solving skills, competition strategies, and teamwork abilities.
+      <br/>
+      🏅 Experience Sharing by Former National Team Members: Hear firsthand stories from former International Linguistics Olympiad contestants about preparation strategies, problem-solving techniques, and competition experiences.
+      <br/>
+      🤝 Meet Like-Minded Peers: Learn and connect with students from different regions who share an interest in languages and logical reasoning.
+      <br/>
+      <br/>
+      💰 Discounts & Special Offers
+      　<br/>
+      　<br/>
+      　🎉 Group Registration (4 Participants): Save NT$1,500 per person!
+      　<br/>
+      🐦 Early-Bird Discount: Complete your registration by July 11 (Sat) to enjoy the early-bird rate.
+      　<br/>
+      　🌏 Central/Southern Taiwan & Rural Area Discount: Special discounts are available for students from Central and Southern Taiwan as well as rural areas. Limited discounted spots are available, so register early!
+      <br/>
+      ⏰ Important Dates: Early-Bird Deadline – July 11 (Sat); Registration Deadline – August 7 (Fri)
+      <br/>
+      <br/>
+      No prior linguistics background required—just your curiosity and logical thinking!
+      <br/>
+      Spend three exciting days discovering the fun of Linguistics Olympiad problem solving and take your first step into the world of linguistics.
+      <br/>
+	  TOL Beginner Logic Summer Camp | 8/19–8/21 — We look forward to seeing you take on the challenge!
+      <br/>
+      <br/>
+      <a href="https://forms.gle/ng78jKfpYHKf5733A">【Registration Form】</a>
+      <br/>
+      <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【Camp Brochure】</a>
+      <br/>
+      <br/>
+      <a href="/img/recent_attachments/2026summercamp.jpg" target="_blank"><img src="/img/recent_attachments/2026summercamp.jpg" alt="2026summercamp" title="2026summercamp" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
             <h4><b>2026/05/19　July - December 2026 Upcoming Events </b></h4>
