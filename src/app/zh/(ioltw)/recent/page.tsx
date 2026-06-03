@@ -32,6 +32,59 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/06/03　語奧初階邏輯夏令營｜即日起開放報名！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              你是否喜歡解謎、推理，或對世界上的各種語言感到好奇？
+              <br/>
+			  不用具備語言學基礎，只要帶著你的觀察力與邏輯思維，就能踏入語言學奧林匹亞的精彩世界！
+              <br/>
+			  <br/>
+			  📅 活動日期 | 2026/8/19（三）～ 8/21（五）
+			  <br/>
+			  <br/>
+			  ✨ 營隊特色
+			  <br/>
+			  🔍 多元語言學主題課程：從語音、構詞、句法到語言中的文化，帶你認識各種語言學主題與練習語奧相關題型。
+			  <br/>
+			  🧩 模擬競賽實戰演練：透過精心設計的模擬賽與講解，培養解題技巧、競賽思維與團隊合作精神。
+			  <br/>
+			  🏅 前國手經驗分享：邀請曾參與國際語奧的學長姐，分享備賽歷程、解題心得與參賽經驗。
+			  <br/>
+			  🤝 結交同好：與來自各地、同樣熱愛語言與邏輯推理的夥伴共同學習交流。
+			  <br/>
+			  <br/>
+			  💰 優惠方案
+			　<br/>
+			　<br/>
+			　🎉 四人團體報名：每人現省 1,500 元！
+			　<br/>
+			  🐦 早鳥優惠：於 7/11（六）前 完成報名，即可享有早鳥優惠。
+			　<br/>
+			　🌏 中南部與偏鄉優惠：鼓勵各地學生參與，提供中南部及偏鄉學員專屬優惠方案。優惠名額有限，請大家把握！
+			  <br/>
+			  ⏰ 重要時程：早鳥優惠截止－7/11（六）；報名截止－8/7（五）
+			  <br/>
+			  <br/>
+			  無需語言學基礎，只要你的邏輯與好奇心！
+			  <br/>
+			  三天帶你體驗語奧解題的樂趣，踏出語言學探索的第一步！
+			  <br/>
+			  <br/>
+			  <a href="https://forms.gle/ng78jKfpYHKf5733A">【報名表單】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【簡章連結】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/2026summercamp.jpg" target="_blank"><img src="/img/recent_attachments/2026summercamp.jpg" alt="2026summercamp" title="2026summercamp" style={{width: "60%"}}/></a>
+			</p>
+          </div>
+        </div>
+
 		 <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
