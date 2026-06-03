@@ -59,13 +59,13 @@ export default function Recent() {
       <br/>
       <br/>
       💰 Discounts & Special Offers
-      　<br/>
-      　<br/>
-      　🎉 Group Registration (4 Participants): Save NT$1,500 per person!
-      　<br/>
+      <br/>
+      <br/>
+      🎉 Group Registration (4 Participants): Save NT$1,500 per person!
+      <br/>
       🐦 Early-Bird Discount: Complete your registration by July 11 (Sat) to enjoy the early-bird rate.
-      　<br/>
-      　🌏 Central/Southern Taiwan & Rural Area Discount: Special discounts are available for students from Central and Southern Taiwan as well as rural areas. Limited discounted spots are available, so register early!
+      <br/>
+      🌏 Central/Southern Taiwan & Rural Area Discount: Special discounts are available for students from Central and Southern Taiwan as well as rural areas. Limited discounted spots are available, so register early!
       <br/>
       ⏰ Important Dates: Early-Bird Deadline – July 11 (Sat); Registration Deadline – August 7 (Fri)
       <br/>
