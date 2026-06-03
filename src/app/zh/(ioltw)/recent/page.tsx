@@ -74,6 +74,8 @@ export default function Recent() {
 			  <br/>
 			  三天帶你體驗語奧解題的樂趣，踏出語言學探索的第一步！
 			  <br/>
+			  語奧初階邏輯夏令營｜8/19～8/21 等你來挑戰！
+			  <br/>
 			  <br/>
 			  <a href="https://forms.gle/ng78jKfpYHKf5733A">【報名表單】</a>
 			  <br/>
