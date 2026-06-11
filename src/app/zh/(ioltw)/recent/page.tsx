@@ -77,7 +77,7 @@ export default function Recent() {
 			  <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【簡章連結】</a>
 	  		  <br/>
 			  <br/>
-              <a href="/img/recent_attachments/2026summertimetable.jpg" target="_blank"><img src="/img/recent_attachments/2026summertimetable.jpg" alt="2026summertimetable" title="2026summertimetable" style={{width: "60%"}}/></a>
+              <a href="/img/recent_attachments/2026summertimetable.png" target="_blank"><img src="/img/recent_attachments/2026summertimetable.png" alt="2026summertimetable" title="2026summertimetable" style={{width: "60%"}}/></a>
 			</p>
           </div>
         </div>
