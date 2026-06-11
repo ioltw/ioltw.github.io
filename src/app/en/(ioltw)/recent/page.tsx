@@ -32,6 +32,56 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+<div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/06/10　📢 TOL Beginner Logic Summer Camp Schedule Released! </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Wondering what you'll learn at the camp? The course schedule is now available! Participants will explore a wide range of topics, including phonetics, morphology, syntax, and language & culture, through expert-led lectures designed to introduce the fascinating world of linguistics and the Linguistics Olympiad.
+      <br/>
+      <br/>
+      In addition to our enriching courses, the camp also features:
+      <br/>
+      🧩 Mock competitions and problem-solving sessions
+      <br/>
+      🏅 Experience sharing by former national team members
+      <br/>
+      🤝 Opportunities to meet and learn with fellow language enthusiasts from across Taiwan
+      <br/>
+      <br/>
+      📅 Camp Dates｜August 19 (Wed) – August 21 (Fri)
+      <br/>
+      🐦 Early-Bird Deadline｜July 11 (Sat)
+      <br/>
+      ⏰ Registration Deadline｜August 7 (Fri)
+      <br/>
+      🎉 Group Registration (4 Participants): Save NT$1,500 per person
+      <br/>
+      🌏 Special discounts available for students from Central/Southern Taiwan and rural areas
+      　<br/>
+      　<br/>
+      🎉 Group Registration: Save NT$1,500 per person when registering as a group of four!
+      　<br/>
+      🐦 Early-Bird Discount: Register by July 11 (Sat) to enjoy the early-bird rate.
+      　<br/>
+      🌏 Central/Southern Taiwan & Rural Area Discount: To encourage participation from students across Taiwan, special discounts are available for students from Central and Southern Taiwan as well as rural areas. Discounted spots are limited, so be sure to register early!
+      <br/>
+      <br/>
+      No prior background in linguistics is required—just bring your curiosity and logical thinking, and experience the excitement of Linguistics Olympiad problem solving! We look forward to seeing you this summer!
+      <br/>
+      <br/>
+      <a href="https://forms.gle/ng78jKfpYHKf5733A">【Registration Form】</a>
+      <br/>
+      <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【Camp Brochure】</a>
+      <br/>
+      <br/>
+      <a href="/img/recent_attachments/2026summertimetable.png" target="_blank"><img src="/img/recent_attachments/2026summertimetable.png" alt="2026summertimetable" title="2026summertimetable" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+		  
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
