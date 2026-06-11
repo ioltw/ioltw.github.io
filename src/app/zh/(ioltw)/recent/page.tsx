@@ -35,6 +35,56 @@ export default function Recent() {
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
+            <h4><b>2026/06/10　📢 語奧初階邏輯夏令營 課表公布！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              想知道在營隊會學到什麼嗎？課程內容現已公開，包含從語音、構詞、句法到語言與文化等多元主題的專家授課，帶領大家一步步認識語言學與語奧的魅力！
+              <br/>
+              <br/>
+			  除了充實的課程之外，營隊還包含以下精彩內容：
+			  <br/>
+			  🧩 模擬競賽與題目講解
+			  <br/>
+			  🏅 前國手經驗分享
+			  <br/>
+			  🤝 與全台同好交流學習
+			  <br/>
+			  <br/>
+			  📅 活動日期｜8/19（三）–8/21（五）
+			  <br/>
+			  🐦 早鳥優惠至｜7/11（六）
+			  <br/>
+			  ⏰ 報名截止｜8/7（五）
+			  <br/>
+			  🎉 四人團體報名每人現省 1,500 元
+			  <br/>
+			  🌏 中南部與偏鄉學員另享專屬優惠
+			　<br/>
+			　<br/>
+			  🎉 四人團體報名：每人現省 1,500 元！
+			　<br/>
+			  🐦 早鳥優惠：於 7/11（六）前 完成報名，即可享有早鳥優惠。
+			　<br/>
+			  🌏 中南部與偏鄉優惠：鼓勵各地學生參與，提供中南部及偏鄉學員專屬優惠方案。優惠名額有限，請大家把握！
+			  <br/>
+			  <br/>
+		      無需語言學基礎，只要帶著好奇心與邏輯思維，就能體驗語奧解題的樂趣！期待與大家在暑假相見！
+			  <br/>
+			  <br/>
+			  <a href="https://forms.gle/ng78jKfpYHKf5733A">【報名表單】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【簡章連結】</a>
+	  		  <br/>
+			  <br/>
+              <a href="/img/recent_attachments/2026summertimetable.jpg" target="_blank"><img src="/img/recent_attachments/2026summertimetable.jpg" alt="2026summertimetable" title="2026summertimetable" style={{width: "60%"}}/></a>
+			</p>
+          </div>
+        </div>
+		  
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
             <h4><b>2026/06/03　語奧初階邏輯夏令營｜即日起開放報名！ </b></h4>
           </div>
           <div className="col-lg-7">
