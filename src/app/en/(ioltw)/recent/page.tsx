@@ -32,6 +32,37 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/06/23　📢 TOL Beginner Logic Summer Camp Website Now Live! </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              The official website for this camp is now live, providing information about the camp program, registration process, important notes, and more. Early bird discounts are still available, and we warmly welcome everyone interested in learning more about the Linguistics Olympiad to join us!
+              <br/>
+			  <br/>
+                <a href="https://ioltaiwan.github.io/ioltw-camp-2026/index.html">【Official Website】</a>
+			  <br/>
+			  <br/>
+			  📅 Event Dates｜Aug. 19 (Wed)–Aug. 21 (Fri)
+			  <br/>
+			  🐦 Early Bird Discount Until｜July 11 (Sat)
+			  <br/>
+			  ⏰ Registration Deadline｜August 7 (Fri)
+			  <br/>
+			  🎉 Save NT$1,500 per person with a group registration of four
+			  <br/>
+			  🌏 Additional discounts are available for students from Central/Southern Taiwan and rural areas
+			　<br/>
+			  <br/>
+			  <a href="https://forms.gle/ng78jKfpYHKf5733A">【Registration Form】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【Program Brochure】</a>
+			</p>
+          </div>
+        </div>
+
 <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
