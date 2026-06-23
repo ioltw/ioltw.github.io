@@ -32,6 +32,37 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/06/23　📢 語奧初階邏輯夏令營 網站公布！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+              本次營隊的官方網站正式上線，提供營隊活動資訊、報名方式、注意事項等內容給大家參考。現在報名仍然適用早鳥優惠，歡迎想了解語奧的大家踴躍參加！
+              <br/>
+			  <br/>
+                <a href="https://ioltaiwan.github.io/ioltw-camp-2026/index.html">【官方網站網址】</a>
+			  <br/>
+			  <br/>
+			  📅 活動日期｜8/19（三）–8/21（五）
+			  <br/>
+			  🐦 早鳥優惠至｜7/11（六）
+			  <br/>
+			  ⏰ 報名截止｜8/7（五）
+			  <br/>
+			  🎉 四人團體報名每人現省 1,500 元
+			  <br/>
+			  🌏 中南部與偏鄉學員另享專屬優惠
+			　<br/>
+			  <br/>
+			  <a href="https://forms.gle/ng78jKfpYHKf5733A">【報名表單】</a>
+			  <br/>
+			  <a href="https://drive.google.com/file/d/1ZZMFYUcXbidU5wfKiT93zHnouFO33Dm2/view?usp=drive_link">【簡章連結】</a>
+			</p>
+          </div>
+        </div>
+
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
