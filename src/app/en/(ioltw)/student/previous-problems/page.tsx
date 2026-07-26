@@ -69,6 +69,7 @@ export default function PreviousProblems() {
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
                     <a href="/problems/TOL2026_2nd_round_Sta_Report.pdf" className="btn btn-outline-danger">Statistical Data</a>
+                    <a href="/problems/TOL2026_2nd_round_School_Report.pdf" className="btn btn-outline-danger">Top 10 Schools by Total Score</a>
                   </div>
                 </div>
             
