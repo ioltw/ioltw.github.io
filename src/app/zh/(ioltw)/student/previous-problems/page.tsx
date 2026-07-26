@@ -70,6 +70,7 @@ export default function PreviousProblems() {
                   <i className="bi bi-bar-chart"></i>
                   <div className="button-group">
                     <a href="/problems/TOL2026_2nd_round_Sta_Report.pdf" className="btn btn-outline-danger">統計資料</a>
+                    <a href="/problems/TOL2026_2nd_round_School_Report.pdf" className="btn btn-outline-danger">各校總分前10名</a>
                   </div>
                 </div>
             
