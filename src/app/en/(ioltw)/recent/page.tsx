@@ -33,6 +33,30 @@ export default function Recent() {
         </div>
 
 		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/06 Taiwan Team Wins 2 silver medals, 3 bronze medals, and 3 honorable mentions in Individual Competition, 1 bronze medal and 1 honorable mention in Team Competition at IOL 2026!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Continuing the achievement from last year, all eight members of the Taiwan team once again received awards in both the Individual and Team Contests. Congratulations to all of our contestants!
+      <br/>
+      　<br/>
+      　Congratulatory Messages from the President and Vice President:
+      <br/>
+      <a href="/pdf/SVK_2026001.pdf">【賴總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
+      　<br/>
+      　<a href="/pdf/SVK_2026002.pdf">【蕭副總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
+      　<br/>
+      　<br/>
+      　News reports:
+      　<br/>
+      　<a href="https://udn.com/news/story/6885/9668964">【經濟日報】國際語言學奧林匹亞競賽　台灣隊奪2銀4銅全員獲獎</a>
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
             <h4><b>2026/06/23　📢 TOL Beginner Logic Summer Camp Website Now Live! </b></h4>
