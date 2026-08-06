@@ -32,6 +32,30 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/08/06 IOL 2026 國際語奧台灣隊獲個人賽二銀三銅三佳作、團體賽一銅一佳作佳績！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			  延續上屆紀錄，我國八位國手再次全員榮獲個人賽與團體賽獎項！恭喜台灣隊的國手們！
+			  <br/>
+			　<br/>
+			　正副總統賀電：
+			  <br/>
+			  <a href="/pdf/SVK_2026001.pdf">【賴總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
+			　<br/>
+			　<a href="/pdf/SVK_2026002.pdf">【蕭副總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
+			　<br/>
+			　<br/>
+			　新聞報導：
+			　<br/>
+			　<a href="https://udn.com/news/story/6885/9668964">【經濟日報】國際語言學奧林匹亞競賽　台灣隊奪2銀4銅全員獲獎</a>
+			</p>
+          </div>
+        </div>
+
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
