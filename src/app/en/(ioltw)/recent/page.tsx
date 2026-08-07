@@ -42,16 +42,16 @@ export default function Recent() {
       Continuing the achievement from last year, all eight members of the Taiwan team once again received awards in both the Individual and Team Contests. Congratulations to all of our contestants!
       <br/>
       　<br/>
-      　Congratulatory Messages from the President and Vice President:
+	  Congratulatory Messages from the President and Vice President:
       <br/>
       <a href="/pdf/SVK_2026001.pdf">【賴總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
-      　<br/>
-      　<a href="/pdf/SVK_2026002.pdf">【蕭副總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
-      　<br/>
-      　<br/>
-      　News reports:
-      　<br/>
-      　<a href="https://udn.com/news/story/6885/9668964">【經濟日報】國際語言學奧林匹亞競賽　台灣隊奪2銀4銅全員獲獎</a>
+      <br/>
+	  <a href="/pdf/SVK_2026002.pdf">【蕭副總統書面賀電 2026年度國際語言學奧林匹亞競賽】</a>
+      <br/>
+      <br/>
+	  News reports:
+      <br/>
+	  <a href="https://udn.com/news/story/6885/9668964">【經濟日報】國際語言學奧林匹亞競賽　台灣隊奪2銀4銅全員獲獎</a>
     </p>
   </div>
 </div>
