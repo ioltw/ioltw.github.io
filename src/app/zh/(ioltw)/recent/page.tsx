@@ -32,6 +32,86 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/10　📢 2026 臺灣語奧解題培訓班（進階班）熱烈招生中！</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      — 臺大語言所團隊 × 歷屆優秀前國手 親自授課 —
+      <br/>
+      極小班深度研討 ｜ 8 堂精準邏輯淬煉 ｜ 系統化進階實戰
+      <br/>
+      <br/>
+      過往，臺灣語奧的頂尖培訓僅限於選拔出的國手；但無數潛能優異的學員，往往在進入國手門檻前，就因缺乏引路人而遺憾停滯。為了不讓任何一份熱情與天賦被埋沒，我們將十年來淬煉的語奧精神與解題技術，化為一套可被學習、可複製的進階思維體系。
+      <br/>
+      <br/>
+      📌 <b>課程安排與參加資格</b>
+      <br/>
+      📅 學期制課程｜2026 年 9 月至 2027 年 1 月間數個週六 14:00–16:00 上課，全學期共 8 堂。
+      <br/>
+      🎓 參加對象｜限升國中一年級至高中三年級（7–12 年級）學生參加。
+      <br/>
+      🧩 建議基礎｜建議具備語言學奧林匹亞解題基礎，例如曾修習本培訓班初階班課程，或具備同等程度者。
+      <br/>
+      👥 極小班教學｜滿 5 人即正式開班，上限 12 名。
+      <br/>
+      <br/>
+      🏃 名額有限，先報名先錄取喔！
+      <br/>
+      <br/>
+      <a href="https://forms.gle/Q5zQcuTNFMnagtap9">【線上報名表單】</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1bKZ5OKHdT8lXZrNPWz5hly_XmlMAavr-qEagLNvclt4/edit?usp=sharing">【完整簡章連結】</a>
+	  <br/>
+	  <br/>
+	  <a href="/img/recent_attachments/2026Senior2.png" target="_blank"><img src="/img/recent_attachments/2026Senior2.png" alt="2026Senior2" title="2026Senior2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/10　📢 2026 臺灣語奧解題培訓班（初階班）熱烈招生中！</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      — 臺大語言所團隊 × 歷屆優秀前國手 親自授課 —
+      <br/>
+      小班制高效互動 ｜ 8 堂系統邏輯建構 ｜ 扎實探索語言密碼
+      <br/>
+      <br/>
+      💡 <b>突破自學瓶頸，讓天賦發揮事半功倍</b>
+      <br/>
+      過往臺灣的語奧教育資源相當稀缺，無數對語言邏輯懷抱熱情的學員，常因缺乏系統化指導而陷入獨自摸索的瓶頸。
+      <br/>
+      承接 2026 上半年試辦課程的滿滿好評與熱烈迴響，我們見證了孩子們在邏輯思維上的跨越式突破！今年下半年，我們持續以臺灣語奧豐富的資源與傳承多年的經驗為後盾，帶領大家跨越解題障礙、高效提升實力！
+      <br/>
+      <br/>
+      📌 <b>課程亮點與安排</b>
+      <br/>
+      📅 雙週彈性上課｜2026 年 9 月至 2027 年 1 月間進行，特定週六 14:00–15:30，全學期共 8 堂，學習從容無負擔。
+      <br/>
+      🌱 零基礎輕鬆入門｜限升國一至高三（7–12 年級）學生參加，無須任何語言學背景，只要對邏輯推理與語言探索抱持好奇即可報名！
+      <br/>
+      👥 精緻小班教學｜滿 10 人即正式開班，上限 20 名，確保每位學員都能獲得高品質的互動與引導。
+      <br/>
+      <br/>
+      🏃 名額有限，依繳費順序先後錄取！
+      <br/>
+      <br/>
+      <a href="https://forms.gle/6M2dxLNSB691jnG49">【線上報名表單】</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1velXs-L5aNmLsSeUO8mwhn25wLVz8Z6K0bZ8doqGYE4/edit?usp=sharing">【完整簡章連結】</a>
+      <br/>
+	  <br/>
+	  <a href="/img/recent_attachments/2026Junior2.png" target="_blank"><img src="/img/recent_attachments/2026Junior2.png" alt="2026Junior2" title="2026Junior2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
