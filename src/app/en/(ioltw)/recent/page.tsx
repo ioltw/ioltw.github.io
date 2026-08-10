@@ -35,6 +35,86 @@ export default function Recent() {
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/10　📢 2026 TOL Problem-Solving Training Course (Advanced Level, Session 2) — Enrollment Now Open!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      — Taught by the NTU Graduate Institute of Linguistics team and distinguished former Taiwan IOL team members —
+      <br/>
+      Intensive ultra-small-group discussion ｜ 8 sessions of advanced logical training ｜ Systematic higher-level problem-solving practice
+      <br/>
+      <br/>
+      In the past, Taiwan's most advanced Linguistics Olympiad training was largely reserved for students already selected for the national team. Yet many highly promising students reached a plateau before that stage simply because they lacked experienced guidance. To ensure that enthusiasm and talent are not left undeveloped, we have distilled a decade of Taiwan Linguistics Olympiad experience and problem-solving techniques into a structured and learnable system of advanced reasoning.
+      <br/>
+      <br/>
+      📌 <b>Course Schedule & Eligibility</b>
+      <br/>
+      📅 Semester-format course｜Held on selected Saturdays from September 2026 to January 2027, 14:00–16:00, for a total of 8 sessions.
+      <br/>
+      🎓 Eligibility｜Open to students entering Grades 7–12.
+      <br/>
+      🧩 Recommended background｜Participants are advised to have prior Linguistics Olympiad problem-solving experience, such as completion of our introductory course or an equivalent level of preparation.
+      <br/>
+      👥 Ultra-small classes｜The course will open with at least 5 students and is capped at 12.
+      <br/>
+      <br/>
+      🏃 Places are limited and will be offered on a first-come, first-served basis!
+      <br/>
+      <br/>
+      <a href="https://forms.gle/Q5zQcuTNFMnagtap9">【Online Registration Form】</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1bKZ5OKHdT8lXZrNPWz5hly_XmlMAavr-qEagLNvclt4/edit?usp=sharing">【Full Program Information】</a>
+	  <br/>
+      <br/>
+      <a href="/img/recent_attachments/2026Senior2.png" target="_blank"><img src="/img/recent_attachments/2026Senior2.png" alt="2026Senior2" title="2026Senior2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/10　📢 2026 TOL Problem-Solving Training Course (Introductory Level, Session 2) — Enrollment Now Open!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      — Taught by the NTU Graduate Institute of Linguistics team and distinguished former Taiwan IOL team members —
+      <br/>
+      Highly interactive small classes ｜ 8 sessions of systematic logical training ｜ A solid introduction to decoding language puzzles
+      <br/>
+      <br/>
+      💡 <b>Break through the limits of self-study and develop your potential more efficiently</b>
+      <br/>
+      Opportunities for structured Linguistics Olympiad training have long been limited in Taiwan. Many students fascinated by language and logic have had to explore the subject on their own, often without the systematic guidance needed to make steady progress.
+      <br/>
+      Following the enthusiastic feedback from our pilot course in the first half of 2026, we saw students make remarkable progress in logical reasoning. This fall, we will continue to draw on Taiwan Linguistics Olympiad's extensive resources and years of accumulated experience to help students overcome problem-solving barriers and improve efficiently.
+      <br/>
+      <br/>
+      📌 <b>Course Highlights & Schedule</b>
+      <br/>
+      📅 Flexible biweekly schedule｜Held from September 2026 to January 2027 on selected Saturdays, 14:00–15:30, for a total of 8 sessions.
+      <br/>
+      🌱 Beginner-friendly｜Open to students entering Grades 7–12. No prior linguistics background is required—curiosity about logical reasoning and language is all you need!
+      <br/>
+      👥 Small-class instruction｜The course will open with at least 10 students and is capped at 20, ensuring high-quality interaction and individualized guidance.
+      <br/>
+      <br/>
+      🏃 Places are limited and admission is determined by payment order.
+      <br/>
+      <br/>
+      <a href="https://forms.gle/6M2dxLNSB691jnG49">【Online Registration Form】</a>
+      <br/>
+      <a href="https://docs.google.com/document/d/1velXs-L5aNmLsSeUO8mwhn25wLVz8Z6K0bZ8doqGYE4/edit?usp=sharing">【Full Program Information】</a>
+	  <br/>
+      <br/>
+      <a href="/img/recent_attachments/2026Junior2.png" target="_blank"><img src="/img/recent_attachments/2026Junior2.png" alt="2026Junior2" title="2026Junior2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2026/08/06 Taiwan Team Wins 2 silver medals, 3 bronze medals, and 3 honorable mentions in Individual Competition, 1 bronze medal and 1 honorable mention in Team Competition at IOL 2026!</b></h4>
   </div>
   <div className="col-lg-7">
