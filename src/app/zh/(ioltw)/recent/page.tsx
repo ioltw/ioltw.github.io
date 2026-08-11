@@ -35,6 +35,77 @@ export default function Recent() {
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/11　📣 第五屆臺灣中學生語言科學科展正式開放報名！</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      對語言充滿好奇，想用科學的方法探索語言背後的規律嗎？
+      <br/>
+      <br/>
+      一年一度的「臺灣中學生語言科學科展」正式開跑，今年的活動簡章與官方網站也已同步上線！
+      <br/>
+      <br/>
+      本屆科展將提供中學生一個從觀察、提問到研究與發表的舞台，邀請大家運用創意與科學思考，發掘語言世界中值得深入探索的現象。
+      <br/>
+      <br/>
+      🏆 本屆科展前八名獲獎者，將直接取得「2027 臺灣語奧國手選拔複賽」參賽資格！
+      <br/>
+      <br/>
+      活動最新消息、報名資訊以及歷屆成果回顧，都可以在官方網站查詢：
+      <br/>
+      <br/>
+      👉 <a href="https://ioltaiwan.github.io/ioltw-sciencefair-2026/">【活動網站】</a>
+      <br/>
+      <br/>
+      歡迎所有對語言、語言學與科學研究有興趣的同學踴躍參加，從一個有趣的語言現象出發，展開屬於自己的研究！
+      <br/>
+      <br/>
+      📌 <b>重要時程</b>
+      <br/>
+      <br/>
+      1️⃣ <b>投稿意願報名｜即日起至 9/7（一）23:59</b>
+      <br/>
+      👉 填寫報名表並完成初選繳費
+      <br/>
+      <a href="https://forms.gle/PzXbvui9SodbQQkL8">【投稿意願報名表】</a>
+      <br/>
+      <br/>
+      2️⃣ <b>初選投稿截止｜9/21（一）23:59</b>
+      <br/>
+      👉 完成並上傳研究論文
+      <br/>
+      <a href="https://forms.gle/j5oppqf6uN9QFHBD6">【初選投稿表單】</a>
+      <br/>
+      <br/>
+      3️⃣ <b>公告決選名單｜10/7（三）</b>
+      <br/>
+      👉 將透過 Email 與 FB 粉絲專頁同步公告
+      <br/>
+      <br/>
+      4️⃣ <b>決選意願報名｜10/12（一）</b>
+      <br/>
+      👉 入選者填寫決選報名表並完成繳費
+      <br/>
+      <br/>
+      5️⃣ <b>決選現場發表｜10/31（六）</b>
+      <br/>
+      👉 於國立高雄師範大學舉行，入選者將於台灣語言學學會年會期間進行海報發表
+      <br/>
+      <br/>
+      🔎 一個平常沒注意過的語言現象，也可能成為很棒的研究題目。
+      <br/>
+      <br/>
+      期待在今年的語言科學科展，看見大家用不同角度探索語言的精彩成果！
+      <br/>
+      <br/>
+      📬 如有任何問題，歡迎透過 Facebook 留言或 Email 與我們聯絡！
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2026/08/10　📢 2026 臺灣語奧解題培訓班（進階班）熱烈招生中！</b></h4>
   </div>
   <div className="col-lg-7">
