@@ -35,6 +35,77 @@ export default function Recent() {
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
+    <h4><b>2026/08/11　📣 Registration Now Open for the Fifth Taiwan High School Language Science Fair!</b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      Curious about language and eager to explore the patterns behind it through scientific inquiry?
+      <br/>
+      <br/>
+      The annual Taiwan High School Language Science Fair is officially underway! This year’s event guidelines and official website are now available.
+      <br/>
+      <br/>
+      The Science Fair provides secondary school students with a platform to move from observation and questioning to research and presentation. We invite students to use creativity and scientific thinking to discover linguistic phenomena worth exploring in greater depth.
+      <br/>
+      <br/>
+      🏆 The top eight award winners of this year’s Science Fair will automatically qualify for the second round of the 2027 Taiwan IOL Team Selection Contest!
+      <br/>
+      <br/>
+      For the latest announcements, registration information, and highlights from previous years, please visit the official website:
+      <br/>
+      <br/>
+      👉 <a href="https://ioltaiwan.github.io/ioltw-sciencefair-2026/">【Official Event Website】</a>
+      <br/>
+      <br/>
+      We warmly welcome all students interested in language, linguistics, and scientific research. Start with an intriguing linguistic phenomenon and turn it into a research project of your own!
+      <br/>
+      <br/>
+      📌 <b>Important Dates</b>
+      <br/>
+      <br/>
+      1️⃣ <b>Intent-to-Submit Registration｜Now through September 7 (Mon), 23:59</b>
+      <br/>
+      👉 Complete the registration form and pay the preliminary-round registration fee
+      <br/>
+      <a href="https://forms.gle/PzXbvui9SodbQQkL8">【Intent-to-Submit Registration Form】</a>
+      <br/>
+      <br/>
+      2️⃣ <b>Preliminary Submission Deadline｜September 21 (Mon), 23:59</b>
+      <br/>
+      👉 Complete and upload your research paper
+      <br/>
+      <a href="https://forms.gle/j5oppqf6uN9QFHBD6">【Preliminary Submission Form】</a>
+      <br/>
+      <br/>
+      3️⃣ <b>Finalists Announced｜October 7 (Wed)</b>
+      <br/>
+      👉 Results will be announced by email and on our Facebook page
+      <br/>
+      <br/>
+      4️⃣ <b>Final-Round Registration｜October 12 (Mon)</b>
+      <br/>
+      👉 Selected finalists must complete the final-round registration form and payment
+      <br/>
+      <br/>
+      5️⃣ <b>Final Presentation｜October 31 (Sat)</b>
+      <br/>
+      👉 The final round will be held at National Kaohsiung Normal University. Finalists will present their research posters during the Annual Meeting of the Linguistic Society of Taiwan.
+      <br/>
+      <br/>
+      🔎 A linguistic phenomenon you have never paid much attention to may turn out to be an excellent research topic.
+      <br/>
+      <br/>
+      We look forward to seeing the exciting ways students explore language from different perspectives at this year’s Linguistics Science Fair!
+      <br/>
+      <br/>
+      📬 If you have any questions, feel free to contact us through Facebook or email.
+    </p>
+  </div>
+</div>
+
+		  <div className="row faq-item d-flex align-items-stretch">
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
     <h4><b>2026/08/10　📢 2026 TOL Problem-Solving Training Course (Advanced Level, Session 2) — Enrollment Now Open!</b></h4>
   </div>
   <div className="col-lg-7">
