@@ -32,6 +32,22 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		  	 <div className="row faq-item d-flex align-items-stretch">
+      <div className="col-lg-5">
+        <i className='bx bxs-pin'></i>
+        <h4><b>2026/08/12　2027 Upcoming Events </b></h4>
+      </div>
+      <div className="col-lg-7">
+        <p>
+		Please note that next year's application period for the High School Nomination Pathway, as well as Selection Round 1 and 2, will take place significantly earlier than this year. A new event, the "Fun Open Team Contest," will also be introduced. The problems will be written by Professor Shu-Kai Hsieh, founder of the Taiwan Olympiad in Linguistics, and teams of participants of all ages are welcome to compete.
+	    <br/>
+		Registration information for the Winter Camp, Selection Round 1, and Open Team Contest is expected to be announced in early December. Stay tuned!
+		<br/>
+        <a href="/img/recent_attachments/2027-1event.png" target="_blank"><img src="/img/recent_attachments/2027-1event.png" alt="2027-1event" title="2027-1event" style={{width: "60%"}}/></a>
+        </p>
+      </div>
+    </div>
+
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
