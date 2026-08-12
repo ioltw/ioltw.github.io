@@ -43,6 +43,7 @@ export default function Recent() {
 	    <br/>
 		Registration information for the Winter Camp, Selection Round 1, and Open Team Contest is expected to be announced in early December. Stay tuned!
 		<br/>
+	    <br/>
         <a href="/img/recent_attachments/2027-1event.png" target="_blank"><img src="/img/recent_attachments/2027-1event.png" alt="2027-1event" title="2027-1event" style={{width: "60%"}}/></a>
         </p>
       </div>
