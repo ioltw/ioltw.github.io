@@ -43,6 +43,7 @@ export default function Recent() {
 		    <br/>
 			冬令營、選拔初賽與公開團體賽的報名資訊預計將於12月初公布，敬請期待！
 			<br/>
+			<br/>
             <a href="/img/recent_attachments/2027-1event.png" target="_blank"><img src="/img/recent_attachments/2027-1event.png" alt="2027-1event" title="2027-1event" style={{width: "60%"}}/></a>
             </p>
           </div>
