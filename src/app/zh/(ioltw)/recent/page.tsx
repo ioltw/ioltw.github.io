@@ -32,6 +32,22 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		 <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/08/12　2027 年活動日期預告 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			請各位注意，明年的高中生推薦管道申請、選拔初賽與複賽時程與今年相比皆有大幅度提前，並增加了新活動「趣味公開團體賽」，由臺灣語奧創辦人謝舒凱教授親自命題，開放所有年齡層組隊參賽。
+		    <br/>
+			冬令營、選拔初賽與公開團體賽的報名資訊預計將於12月初公布，敬請期待！
+			<br/>
+            <a href="/img/recent_attachments/2027-1event.png" target="_blank"><img src="/img/recent_attachments/2027-1event.png" alt="2027-1event" title="2027-1event" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
 		  <div className="row faq-item d-flex align-items-stretch">
   <div className="col-lg-5">
     <i className='bx bxs-pin'></i>
