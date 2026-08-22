@@ -114,6 +114,9 @@ export default function Recent() {
       <br/>
       We look forward to seeing the exciting ways students explore language from different perspectives at this year’s Linguistics Science Fair!
       <br/>
+	  <br/>
+	  <a href="https://drive.google.com/file/d/1866G_D8ob5L7YzKJoXjRhXj7ylScKVmO/view?usp=sharing">【Brochure link】</a>
+      <br/>
       <br/>
       📬 If you have any questions, feel free to contact us through Facebook or email.
     </p>
