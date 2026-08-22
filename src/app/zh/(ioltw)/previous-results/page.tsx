@@ -759,12 +759,6 @@ export default function PreviousResults() {
                                             <td>Taiwan Blue Magpie</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
-                                            <td>2025</td>
-                                            <td>Bronze</td>
-                                            <td>Yu-Chiao Liao</td>
-                                            <td>Taiwan Blue Magpie</td>
-                                        </tr>
-                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
                                             <td>2026</td>
                                             <td>Bronze</td>
                                             <td>Yu-An Chang</td>
@@ -781,6 +775,12 @@ export default function PreviousResults() {
                                             <td>Bronze</td>
                                             <td>Ang-Hsuan Yu</td>
                                             <td>Taiwan Black Bear</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
+                                            <td>2025</td>
+                                            <td>Bronze</td>
+                                            <td>Yu-Chiao Liao</td>
+                                            <td>Taiwan Blue Magpie</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
                                             <td>2025</td>
