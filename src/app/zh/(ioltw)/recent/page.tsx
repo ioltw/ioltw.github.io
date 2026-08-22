@@ -114,6 +114,8 @@ export default function Recent() {
       <br/>
       期待在今年的語言科學科展，看見大家用不同角度探索語言的精彩成果！
       <br/>
+	  <br/>
+	  <a href="https://drive.google.com/file/d/1866G_D8ob5L7YzKJoXjRhXj7ylScKVmO/view?usp=sharing">【簡章連結】</a>
       <br/>
       📬 如有任何問題，歡迎透過 Facebook 留言或 Email 與我們聯絡！
     </p>
