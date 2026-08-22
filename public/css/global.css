@@ -261,8 +261,20 @@ h6 {
 }
 
 @media (max-width: 991px) {
+  #header .logo {
+    width: auto;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  #navbar {
+    flex: 0 0 auto;
+    margin-left: auto;
+  }
+
   .mobile-nav-toggle {
     display: block;
+    flex-shrink: 0;
   }
 
   .navbar ul {
