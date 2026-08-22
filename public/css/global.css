@@ -261,20 +261,28 @@ h6 {
 }
 
 @media (max-width: 991px) {
+  #header .container {
+    position: relative;
+    padding-right: 60px;
+  }
+
   #header .logo {
     width: auto;
     min-width: 0;
     flex: 1 1 auto;
   }
 
-  #navbar {
-    flex: 0 0 auto;
-    margin-left: auto;
+  #navbar:not(.navbar-mobile) {
+    position: static;
   }
 
-  .mobile-nav-toggle {
+  #navbar:not(.navbar-mobile) .mobile-nav-toggle {
     display: block;
-    flex-shrink: 0;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
   }
 
   .navbar ul {
