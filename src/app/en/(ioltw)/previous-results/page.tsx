@@ -39,6 +39,59 @@ export default function PreviousResults() {
                         <div className="col-md-6">
 
                             <div itemProp="articleSection">
+                            <h3><a>Bucharest 2026</a></h3>
+                                <div className="row">
+                                    <div className="col-md-6">
+                                        <table className="table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Taiwan Black Bear</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Ang-Hsuan Yu 🥉</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Bo-Ting Wu 🥈</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Kanoa Ziyang Teng 🥈</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Shang-En Tsai <img className="tinyflag" alt="Flag"
+                                                        src="https://ioling.org/images/hm.png"/></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                    <div className="col-md-6">
+                                        <table className="table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Taiwan Blue Magpie</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Bing-Chen Shih <img className="tinyflag" alt="Flag"
+                                                        src="https://ioling.org/images/hm.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Shao-Yang Hsu 🥉</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Yu-An Chang 🥉</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Yu-Hsuan Chou <img className="tinyflag" alt="Flag"
+                                                        src="https://ioling.org/images/hm.png"/></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                             <h3><a>Taipei 2025</a></h3>
                                 <div className="row">
                                     <div className="col-md-6">
@@ -597,6 +650,18 @@ export default function PreviousResults() {
                                             <td>TaiTWO</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEEEEE", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Silver</td>
+                                            <td>Kanoa Ziyang Teng</td>
+                                            <td>Taiwan Black Bear</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEEEEE", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Silver</td>
+                                            <td>Bo-Ting Wu</td>
+                                            <td>Taiwan Black Bear</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEEEEE", height: "30px"}}>
                                             <td>2025</td>
                                             <td>Silver</td>
                                             <td>Kanoa Ziyang Teng</td>
@@ -691,6 +756,24 @@ export default function PreviousResults() {
                                             <td>Silver</td>
                                             <td>Shen-Chang Huang</td>
                                             <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Bronze</td>
+                                            <td>Yu-An Chang</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Bronze</td>
+                                            <td>Shao-Yang Hsu</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Bronze</td>
+                                            <td>Ang-Hsuan Yu</td>
+                                            <td>Taiwan Black Bear</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
                                             <td>2025</td>
@@ -796,6 +879,24 @@ export default function PreviousResults() {
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr style={{height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>HM</td>
+                                            <td>Yu-Hsuan Chou</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>HM</td>
+                                            <td>Bing-Chen Shih</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
+                                        <tr style={{height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>HM</td>
+                                            <td>Shang-En Tsai</td>
+                                            <td>Taiwan Black Bear</td>
+                                        </tr>
                                         <tr style={{height: "30px"}}>
                                             <td>2025</td>
                                             <td>HM</td>
@@ -932,6 +1033,11 @@ export default function PreviousResults() {
                                             <td>Taiwan Blue Magpie</td>
                                         </tr>
                                         <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
+                                            <td>2026</td>
+                                            <td>Bronze</td>
+                                            <td>Taiwan Black Bear</td>
+                                        </tr>
+                                        <tr style={{backgroundColor: "#EEDECC", height: "30px"}}>
                                             <td>2024</td>
                                             <td>Bronze</td>
                                             <td>Taiwan Black Bear</td>
@@ -949,6 +1055,11 @@ export default function PreviousResults() {
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td>2026</td>
+                                            <td>HM</td>
+                                            <td>Taiwan Blue Magpie</td>
+                                        </tr>
                                         <tr>
                                             <td>2022</td>
                                             <td>HM</td>
