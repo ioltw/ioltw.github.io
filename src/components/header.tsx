@@ -2,8 +2,6 @@ export default function Header() {
     return (
         <>
             <meta charSet="utf-8"/>
-            <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-
             {/* <!-- Favicons --> */}
             <link href="/img/header_and_footer/logo_from_fb.png" rel="icon"/>
             <link href="/img/header_and_footer/logo_from_fb.png" rel="apple-touch-icon"/>
