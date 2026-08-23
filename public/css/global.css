@@ -86,6 +86,9 @@ h6 {
 }
 
 #header .logo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
   font-size: 20px;
   margin: 0;
   padding: 0;
@@ -99,9 +102,13 @@ h6 {
   color: #556270;
 }
 
+#header .logo .brand-mark {
+  flex: 0 0 auto;
+}
+
 #header .logo img {
-  width: 50%;
-  height: 50%;
+  width: 50px;
+  height: auto;
   max-height: 50px;
   max-width: 50px;
 }
@@ -248,6 +255,13 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
   color: #556270;
   font-size: 28px;
   cursor: pointer;
@@ -263,25 +277,34 @@ h6 {
 @media (max-width: 991px) {
   #header .container {
     position: relative;
-    padding-right: 60px;
+    width: 100%;
   }
 
   #header .logo {
     width: auto;
     min-width: 0;
     flex: 1 1 auto;
+    overflow: hidden;
+  }
+
+  #header .brand-title {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   #navbar:not(.navbar-mobile) {
-    position: static;
+    position: relative;
+    flex: 0 0 44px;
+    width: 44px;
+    min-width: 44px;
+    margin-left: 8px;
   }
 
   #navbar:not(.navbar-mobile) .mobile-nav-toggle {
-    display: block;
-    position: absolute;
-    right: 15px;
-    top: 50%;
-    transform: translateY(-50%);
+    display: flex;
+    position: static;
     z-index: 1000;
   }
 
@@ -303,10 +326,10 @@ h6 {
 }
 
 .navbar-mobile .mobile-nav-toggle {
-  display: block;
-  position: absolute;
-  top: 15px;
-  right: 15px;
+  display: flex;
+  position: fixed;
+  top: max(8px, env(safe-area-inset-top));
+  right: max(8px, env(safe-area-inset-right));
   z-index: 1001;
 }
 
@@ -314,9 +337,10 @@ h6 {
   display: block;
   position: absolute;
   top: 55px;
-  right: 15px;
-  bottom: 15px;
-  left: 15px;
+  right: max(15px, env(safe-area-inset-right));
+  bottom: max(15px, env(safe-area-inset-bottom));
+  left: max(15px, env(safe-area-inset-left));
+  max-width: calc(100% - 30px);
   padding: 10px 0;
   background-color: #fff;
   overflow-y: auto;
@@ -354,7 +378,7 @@ h6 {
 }
 
 .navbar-mobile .dropdown ul li {
-  min-width: 200px;
+  min-width: 0;
 }
 
 .navbar-mobile .dropdown ul a {

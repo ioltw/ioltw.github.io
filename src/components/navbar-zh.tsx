@@ -5,8 +5,8 @@ export default function NavBar() {
 
         <h1 className="logo me-auto">
         {/* <!-- Uncomment below if you prefer to use an image logo --> */}
-        <a href="/zh" className="logo me-auto"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
-        <a href="/zh"> Taiwan Olympiad in Linguistics </a>
+        <a href="/zh" className="brand-mark"><img src="/img/header_and_footer/logo_from_fb.png" alt="" className="img-fluid"/></a>
+        <a href="/zh" className="brand-title">Taiwan Olympiad in Linguistics</a>
         </h1>
 
         <nav id="navbar" className="navbar">
@@ -34,7 +34,7 @@ export default function NavBar() {
               </ul>
             </li>
           </ul>
-          <i className="bi bi-list mobile-nav-toggle"></i>
+          <button className="bi bi-list mobile-nav-toggle" type="button" aria-label="開啟導覽選單" aria-expanded="false"></button>
         </nav>
       </div>
     </header>
