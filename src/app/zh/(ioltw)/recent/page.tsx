@@ -32,6 +32,58 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/09/03　2026 臺灣語言學奧林匹亞推廣說明會 開放報名中！ </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			想了解語言學奧林匹亞如何考驗學生的邏輯思考與毅力？
+		    <br/>
+			想嘗試解開未知語言交織而成的謎題？
+			<br/>
+			或是想知道披荊斬棘，登頂臺灣代表隊選手的選拔歷程？
+			<br/>
+			那絕對別錯過今年度的說明會！
+			<br/>
+			<br/>
+			📚 活動內容
+			<br/>
+			・競賽介紹 — 認識語言學奧林匹亞的比賽形式與宗旨
+			<br/>
+			・解題體驗 — 現場一起動腦試解語奧謎題
+			<br/>
+			・經驗分享 — 聽聽學長姐的準備過程與參賽經驗
+			<br/>
+			・選拔說明 — 三層競賽與學校推薦、一次弄清代表隊選手的選拔機制
+			<br/>
+			<br/>
+			📍 活動資訊
+			<br/>
+			<br/>
+			🔹 南部場：國立高雄師範大學（與第五屆語言科學科展同時同地舉行）
+			<br/>
+			🗓️ 10/31（六）14:00～15:30（13:30開始入場）
+			<br/>
+			<br/>
+			🔹 北部場：國立臺灣大學　人文館地下一樓B113-2室
+			<br/>
+			🗓️ 11/6（五）18:30～20:00（18:00開始入場）
+			<br/>
+			<br/>
+			💡 報名方式
+			歡迎各位有興趣了解語言學奧林匹亞的中學生與家長，填寫以下表單免費報名！名額有限，額滿為止，先報先得！
+			<br/>
+			<br/>
+			 <a href="https://forms.gle/UZc5iLfmvpn78MWR9">【表單連結】</a>
+			<br/>
+			<br/>
+            <a href="/img/recent_attachments/2026推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2026推廣說明會.png" alt="2026推廣說明會" title="2026推廣說明會" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
 		 <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
