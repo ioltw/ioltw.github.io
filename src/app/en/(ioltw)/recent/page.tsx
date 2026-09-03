@@ -32,6 +32,58 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/09/03　2026 Taiwan Olympiad in Linguistics Information Sessions Now Open for Registration! </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			Curious about how the Linguistics Olympiad challenges students' logical thinking and perseverance?
+		    <br/>
+			Want to try solving puzzles involving unknown languages?
+			<br/>
+			Or would you like to learn about the selection process for students who have overcome challenges to represent Taiwan on the national team?
+			<br/>
+			Then don't miss this year's information sessions!
+			<br/>
+			<br/>
+			📚 Event Highlights
+			<br/>
+			・Competition Introduction — Learn about the format and goals of the Linguistics Olympiad
+			<br/>
+			・Problem-Solving Experience — Put your thinking skills to the test with a Linguistics Olympiad puzzle
+			<br/>
+			・Experience Sharing — Hear from former contestants about their preparation and competition experiences
+			<br/>
+			・Selection Process — Get a clear overview of the three-stage competition, school recommendations, and the selection process for the Taiwan national team
+			<br/>
+			<br/>
+			📍 Event Information
+			<br/>
+			<br/>
+			🔹 Southern Session: National Kaohsiung Normal University (held at the same time and location as the 5th Taiwan High School Language Science Fair)
+			<br/>
+			🗓️ October 31 (Sat.) 14:00–15:30 (Entry begins at 13:30)
+			<br/>
+			<br/>
+			🔹 Northern Session: National Taiwan University, Humanities Building, B1, Room B113-2
+			<br/>
+			🗓️ November 6 (Fri.) 18:30–20:00 (Entry begins at 18:00)
+			<br/>
+			<br/>
+			💡 Registration
+			Students and parents interested in learning more about the Linguistics Olympiad are welcome to register for free using the form below! Space is limited and registration will close once all spots are filled. First come, first served!
+			<br/>
+			<br/>
+			 <a href="https://forms.gle/UZc5iLfmvpn78MWR9">【Registration Form】</a>
+			<br/>
+			<br/>
+            <a href="/img/recent_attachments/2026推廣說明會.png" target="_blank"><img src="/img/recent_attachments/2026推廣說明會.png" alt="2026 Linguistics Olympiad Information Sessions" title="2026 Linguistics Olympiad Information Sessions" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
 		  	 <div className="row faq-item d-flex align-items-stretch">
       <div className="col-lg-5">
         <i className='bx bxs-pin'></i>
