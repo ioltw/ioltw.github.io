@@ -32,6 +32,36 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/10/07　🎉【第五屆臺灣中學生語言科學科展｜決選名單公布！】🎉 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			經過初選的激烈競爭，第五屆臺灣中學生語言科學科展的決選入選名單正式揭曉！恭喜所有成功晉級決選的同學👏
+			<br/>
+			也請晉級的組別於 10/12（一）23:59 前完成決選報名表單填寫及費用繳交！
+			<br/>
+				<a href="https://forms.gle/4BzFknXxfWa5uGZ18">【決選報名表單】</a>
+			<br/>
+			<br/>
+			期待在決選現場與大家見面，也期待看見各位同學展現自己的研究成果與創意！也歡迎大家持續關注明年度國手選拔的資訊公告，一起踏上語奧的旅程！
+			<br/>
+			<br/>
+			📬 如有任何問題，歡迎與我們聯絡：
+			<br/>
+			■ 主辦單位信箱：ioltwtwiol@gmail.com
+			<br/>
+			■ 主辦單位電話：02-3366-4105 何小姐
+			<br/>
+            <a href="/img/recent_attachments/scifair2026list1.jpg" target="_blank"><img src="/img/recent_attachments/scifair2026list1.jpg" alt="scifair2026list1" title="scifair2026list1" style={{width: "60%"}}/></a>
+			<br/>
+            <a href="/img/recent_attachments/scifair2026list2.jpg" target="_blank"><img src="/img/recent_attachments/scifair2026list2.jpg" alt="scifair2026list2" title="scifair2026list2" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
 		  <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
