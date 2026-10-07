@@ -32,6 +32,36 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+	<div className="row faq-item d-flex align-items-stretch">
+      <div className="col-lg-5">
+        <i className='bx bxs-pin'></i>
+        <h4><b>2026/10/07　🎉【5th Taiwan High School Language Science Fair｜Finalists Announced!】🎉 </b></h4>
+      </div>
+      <div className="col-lg-7">
+        <p>
+		After a highly competitive preliminary round, the finalists for the 5th Taiwan High School Language Science Fair have officially been announced! Congratulations to all the students who have advanced to the final round! 👏
+		<br/>
+		All finalist teams are reminded to complete the final-round registration form and payment by 11:59 PM on October 12 (Monday)!
+		<br/>
+			<a href="https://forms.gle/4BzFknXxfWa5uGZ18">【Final-Round Registration Form】</a>
+		<br/>
+		<br/>
+		We look forward to seeing everyone at the final round and witnessing your research achievements and creativity! We also welcome everyone to stay tuned for announcements about next year's IOL national team selection and join us on the journey to the International Linguistics Olympiad!
+		<br/>
+		<br/>
+		📬 If you have any questions, please feel free to contact us:
+		<br/>
+		■ Organizer's Email: ioltwtwiol@gmail.com
+		<br/>
+		■ Organizer's Phone: 02-3366-4105 (Ms. Ho)
+		<br/>
+        <a href="/img/recent_attachments/scifair2026list1.jpg" target="_blank"><img src="/img/recent_attachments/scifair2026list1.jpg" alt="scifair2026list1" title="scifair2026list1" style={{width: "60%"}}/></a>
+		<br/>
+        <a href="/img/recent_attachments/scifair2026list2.jpg" target="_blank"><img src="/img/recent_attachments/scifair2026list2.jpg" alt="scifair2026list2" title="scifair2026list2" style={{width: "60%"}}/></a>
+        </p>
+      </div>
+    </div>
+
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
