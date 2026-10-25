@@ -35,6 +35,32 @@ export default function Recent() {
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
+            <h4><b>2026/10/25　【第五屆臺灣中學生語言科學科展 時程與資訊公告】 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			📍活動將於國立高雄師範大學和平校區「行政大樓7樓」舉行：海報展覽與評比地點為706教室，家長休息室為702教室。
+			<br/>
+			✨「評審評比」將分為兩場進行：上半場為第1至8組，下半場為第9至16組。請各隊伍準備一份4分鐘的簡報，評審將前往各組聆聽，並於報告結束後針對內容進行約3分鐘的問答。請注意報告時長將列入評分依據。為避免影響評審，請選手以外人士勿進入評審評比組之區域，敬請見諒。
+			<br/>
+			🔥評審評比結束後，將進行「人氣評比」，開放陪同到場之家長、指導老師及同學觀看展覽並線上投票，獲得最高票的組別頒發「人氣獎」。
+			<br/>
+			🧾大會提供140公分*80公分尺寸的海報架。由於簡章中所寫的A0大小紙張會稍微超出海報架，參賽者可自行斟酌將海報列印為A0或A1大小。現場備有張貼工具，參賽者毋須自備。
+			<br/>
+			💧場地設有飲水機與茶水，為響應環保，請自行攜帶水壺或杯子使用。
+			<br/>
+			ℹ️當天14:00-15:30將同時舉行語言學奧林匹亞推廣說明會，提醒先前有報名南部場的學生與家長請記得出席。
+			<br/>
+			👈最後，我們誠摯邀請對本次科展有興趣的朋友前來共襄盛舉，也請大家配合場地規範以及工作人員的指示！
+			<br/>
+            <a href="/img/recent_attachments/2026sci_schedule.jpg" target="_blank"><img src="/img/recent_attachments/2026sci_schedule.jpg" alt="2026sci_schedule" title="2026sci_schedule" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+
+		<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
             <h4><b>2026/10/07　🎉【第五屆臺灣中學生語言科學科展｜決選名單公布！】🎉 </b></h4>
           </div>
           <div className="col-lg-7">
