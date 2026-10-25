@@ -32,6 +32,32 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+<div className="row faq-item d-flex align-items-stretch">
+          <div className="col-lg-5">
+            <i className='bx bxs-pin'></i>
+            <h4><b>2026/10/25　【5th Taiwan High School Language Science Fair | Schedule and Event Information】 </b></h4>
+          </div>
+          <div className="col-lg-7">
+            <p>
+			📍The event will take place on the 7th floor of the Administration Building at National Kaohsiung Normal University's Heping Campus. The poster exhibition and judging will be held in Room 706, and the parents' lounge will be in Room 702.
+			<br/>
+			✨Judging will be conducted in two sessions: Groups 1–8 in the first session and Groups 9–16 in the second. Each team should prepare a 4-minute presentation. Judges will visit each team's station to listen to the presentation, followed by approximately 3 minutes of Q&A. Please note that adherence to the presentation time limit will be considered in scoring. To avoid disrupting the judging process, only contestants may enter the area where judging is taking place. Thank you for your understanding.
+			<br/>
+			🔥After judging concludes, voting for the Most Popular Award will begin. Accompanying parents, supervising teachers, and students are welcome to view the exhibits and vote online. The team receiving the most votes will receive the Most Popular Award.
+			<br/>
+			🧾The organizers will provide poster stands measuring 140 cm × 80 cm. As the A0 paper size specified in the brochure slightly exceeds the dimensions of the stands, contestants may choose to print their posters in either A0 or A1 size. Poster mounting supplies will be available on site; contestants do not need to bring their own.
+			<br/>
+			💧A water dispenser and tea will be available at the venue. To help reduce waste, please bring your own water bottle or cup.
+			<br/>
+			ℹ️Taiwan Olympiad in Linguistics Information Session will also take place from 14:00 to 15:30 that day. Students and parents who previously registered for the southern Taiwan session are reminded to attend.
+			<br/>
+			👈Finally, we warmly invite everyone interested in the science fair to join us. Please follow the venue rules and staff instructions!
+			<br/>
+            <a href="/img/recent_attachments/2026sci_schedule.jpg" target="_blank"><img src="/img/recent_attachments/2026sci_schedule.jpg" alt="2026sci_schedule" title="2026sci_schedule" style={{width: "60%"}}/></a>
+            </p>
+          </div>
+        </div>
+		  
 	<div className="row faq-item d-flex align-items-stretch">
       <div className="col-lg-5">
         <i className='bx bxs-pin'></i>
