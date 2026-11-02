@@ -32,6 +32,34 @@ export default function Recent() {
           <p>最新消息</p>
         </div>
 
+		<div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/11/2 🎉 第五屆臺灣中學生語言科學科展於上週六（10/31）順利畫下句點！ </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      {"\u{1F389}"}第四屆台灣中學生語言科學科展已於上週六（10/25）圓滿落幕！
+      <br />
+      本屆賽事精彩紛呈，來自全臺各地的優秀選手，以豐富的創意與扎實的研究，探索語言學的多元面向。評審老師也肯定，許多作品無論在研究方法、資料分析，或是成果展示與表達上，都展現出超越中學生階段的成熟表現，令人驚豔。
+      <br />
+      感謝每一位參賽者用心投入，讓我們看見語言學研究的無限可能；也感謝到場支持的家長、老師與各位來賓，共同成就這場語言學愛好者的年度盛會！
+      <br />
+	  再次祝賀所有得獎選手，也恭喜本屆榮獲前三名或優選的選手，獲得2027年國際語奧臺灣國手選拔複賽的參賽資格！歡迎大家繼續關注臺灣語奧，支持更多年輕學子探索語言的奧妙！
+      <br />
+      更多資訊詳見台灣語奧 FB <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【粉絲專頁】</a>
+	  <br />
+      {"\u{1F4DC}"}【得獎名單】如圖
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026sci1.png" target="_blank"><img src="/img/recent_attachments/2026sci1.png" alt="2026sci1" title="2026sci1" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026sci2.png" target="_blank"><img src="/img/recent_attachments/2026sci2.png" alt="2026sci2" title="2026sci2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
 		<div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
