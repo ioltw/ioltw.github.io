@@ -32,6 +32,34 @@ export default function Recent() {
           <p>Latest News</p>
         </div>
 
+		  <div className="row faq-item d-flex align-items-stretch"> 
+  <div className="col-lg-5">
+    <i className='bx bxs-pin'></i>
+    <h4><b>2026/11/2 Announcement of Results for the 5th Taiwan High School Language Science Fair! </b></h4>
+  </div>
+  <div className="col-lg-7">
+    <p>
+      {"\u{1F389}"}The 5th Taiwan High School Language Science Fair　concluded successfully last Saturday (10/31)!
+      <br />
+      This year's competition featured outstanding participants from across Taiwan, who explored diverse areas of linguistics through creative ideas and rigorous research. The judges praised many projects for demonstrating a level of maturity beyond secondary school expectations in their research methods, data analysis, and presentations.
+      <br />
+      Thank you to every participant for your dedication and for showing us the vast possibilities of linguistic research. We also thank the parents, teachers, and guests who joined us and helped make this annual gathering of linguistics enthusiasts a success!
+      <br />
+      Congratulations once again to all award recipients! Participants who placed in the top three or received an Honorable Mention have also qualified for 2027 TOL National Team Selection Round 2. Stay connected with the Taiwan Olympiad in Linguistics and support more young students as they explore the wonders of language!
+      <br />
+      For more information, please visit the Taiwan Olympiad in Linguistics <a href="https://www.facebook.com/Taiwan.Olympiad.in.Linguistics/?locale=zh_TW">【Facebook Page】</a>
+      <br />
+      {"\u{1F4DC}"}【Award Winners】 as shown in the image
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026sci1.png" target="_blank"><img src="/img/recent_attachments/2026sci1.png" alt="2026sci1" title="2026sci1" style={{width: "60%"}}/></a>
+    </p>
+    <p>
+      <a href="/img/recent_attachments/2026sci2.png" target="_blank"><img src="/img/recent_attachments/2026sci2.png" alt="2026sci2" title="2026sci2" style={{width: "60%"}}/></a>
+    </p>
+  </div>
+</div>
+
 <div className="row faq-item d-flex align-items-stretch">
           <div className="col-lg-5">
             <i className='bx bxs-pin'></i>
