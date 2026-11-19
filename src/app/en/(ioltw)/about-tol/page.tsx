@@ -73,7 +73,7 @@ export default function AboutTol() {
               <li className="list-group-item border-0">
                 <h5><strong>TOL Selection Process</strong></h5>
                 <p>
-                  Held once a year, including a Preliminary Round, a Semi-final Round, and a Final Round (APLO). Top performers in the TOL Selection Preliminary Round or students nominated by their senior high schools are eligible for Stage I Training Program and a chance to compete for a spot on the national team in the following rounds.
+                  Held once a year, including Round 1, Round 2, and a Final Round (APLO). Top performers in the TOL Selection Preliminary Round or students nominated by their senior high schools are eligible for Stage I Training Program and a chance to compete for a spot on the national team in the following rounds.
                 </p>
               </li>
 
@@ -82,10 +82,10 @@ export default function AboutTol() {
                 <p>
                   Announced around the end of each year.
                 </p>
-                <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Preliminary Round Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
-                <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">School Nomination Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
-                <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">Homeschooler Nomination Guidelines for the 2026 Taiwan Team of the International Linguistics Olympiad (IOL)</a>
-                <a href="https://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Visit the TOL preliminary registration system</a>
+                <a href="/pdf/2026TOL_rules.pdf" className="btn btn-outline-danger">Round 1 Guidelines for the 2026 International Linguistics Olympiad (IOL) Taiwan National Team Selection </a>
+                <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">School Nomination Guidelines for the 2026 International Linguistics Olympiad (IOL) Taiwan National Team Selection </a>
+                <a href="/pdf/2026TOL_nomination.pdf" className="btn btn-outline-danger">Homeschooler Nomination Guidelines for the 2026 International Linguistics Olympiad (IOL) Taiwan National Team Selection</a>
+                <a href="https://forms.gle/KNzQQDBM4wLgk3yM9" className="btn btn-outline-danger">Visit the TOL Round 1 registration system</a>
               </li>
             </ul>
 
